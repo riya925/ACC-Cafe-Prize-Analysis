@@ -1,0 +1,8 @@
+ : 2
+: 1
+chicken: 6
+chicken biryani: 1
+cdjf: 2
+3234243: 1
+23132413: 1
+chicken vindaloo: 1

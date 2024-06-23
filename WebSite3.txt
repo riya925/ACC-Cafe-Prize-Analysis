@@ -1,0 +1,493 @@
+
+******************** Category: Soups ********************
+
+Item: Mulligatawny Soup (16 oz.)
+Price: $5.99
+Description: A true product of the British Raj. It is made of lentils, red chilies, ginger, tumeric and other spices. A nice and warm appetizer for cold days. A yellow lentil soup that is midly spiced.
+-----------------------------
+Item: Dhal Soup (16 oz.)
+Price: $4.99
+Description: A true product of the British Raj. It is made of lentils, red chilies, ginger, tumeric and other spices. A nice and warm appetizer for cold days. A yellow lentil soup that is midly spiced.
+-----------------------------
+
+******************** Category: Appetizers ********************
+
+Item: Vegetable Samosa
+Price: $2.25
+Description: A deep fried pastry filled with carrots, potatoes, peas, corn, cauliflower, chick peas and spices. Pastry stuffed with ground beef and different spices. Sliced onions mixed with spices, lentils and chick pea flour, then deep fried. Garden fresh vegetables mixed with herb and spices, breaded and dipped in indian butter. Lean ground beef mixed with onion, garlic and green chilli. The meat is shaped onto a skewer, like a sausage, and cooked lightly in the tandoori oven.
+-----------------------------
+Item: Beef Samosa
+Price: $3.25
+Description: A deep fried pastry filled with carrots, potatoes, peas, corn, cauliflower, chick peas and spices. Pastry stuffed with ground beef and different spices. Sliced onions mixed with spices, lentils and chick pea flour, then deep fried. Garden fresh vegetables mixed with herb and spices, breaded and dipped in indian butter. Lean ground beef mixed with onion, garlic and green chilli. The meat is shaped onto a skewer, like a sausage, and cooked lightly in the tandoori oven.
+-----------------------------
+Item: Onion Bhaji
+Price: $1.50
+Description: A deep fried pastry filled with carrots, potatoes, peas, corn, cauliflower, chick peas and spices. Pastry stuffed with ground beef and different spices. Sliced onions mixed with spices, lentils and chick pea flour, then deep fried. Garden fresh vegetables mixed with herb and spices, breaded and dipped in indian butter. Lean ground beef mixed with onion, garlic and green chilli. The meat is shaped onto a skewer, like a sausage, and cooked lightly in the tandoori oven.
+-----------------------------
+Item: Vegetable Kebab
+Price: $2.75
+Description: A deep fried pastry filled with carrots, potatoes, peas, corn, cauliflower, chick peas and spices. Pastry stuffed with ground beef and different spices. Sliced onions mixed with spices, lentils and chick pea flour, then deep fried. Garden fresh vegetables mixed with herb and spices, breaded and dipped in indian butter. Lean ground beef mixed with onion, garlic and green chilli. The meat is shaped onto a skewer, like a sausage, and cooked lightly in the tandoori oven.
+-----------------------------
+Item: Sheek Kebab
+Price: $2.59
+Description: A deep fried pastry filled with carrots, potatoes, peas, corn, cauliflower, chick peas and spices. Pastry stuffed with ground beef and different spices. Sliced onions mixed with spices, lentils and chick pea flour, then deep fried. Garden fresh vegetables mixed with herb and spices, breaded and dipped in indian butter. Lean ground beef mixed with onion, garlic and green chilli. The meat is shaped onto a skewer, like a sausage, and cooked lightly in the tandoori oven.
+-----------------------------
+
+******************** Category: Tandoori ********************
+
+Item: Chicken Tandoori Platter (2 Legs)
+Price: $11.99
+Description: 
+-----------------------------
+Item: Chicken Tikka Platter
+Price: $11.99
+Description: 
+-----------------------------
+Item: Sheek Kebab Platter (3 Pieces)
+Price: $11.99
+Description: 
+-----------------------------
+Item: Shrimp Tandoori Platter
+Price: $14.95
+Description: 
+-----------------------------
+
+******************** Category: Biryani ********************
+
+Item: Chicken Biryani
+Price: $12.99
+Description: 
+-----------------------------
+Item: Chicken Tikka Biryani
+Price: $13.99
+Description: 
+-----------------------------
+Item: Lamb Biryani
+Price: $13.99
+Description: 
+-----------------------------
+Item: Shrimp Biryani
+Price: $13.99
+Description: 
+-----------------------------
+Item: Beef Biryani
+Price: $11.99
+Description: 
+-----------------------------
+Item: Vegetable Biryani
+Price: $9.99
+Description: 
+-----------------------------
+
+******************** Category: Chicken Dishes ********************
+
+Item: Butter Chicken
+Price: $11.99
+Description: Pieces of chicken roasted on skewers in the tandoori oven. Cooked with cream and yogurt. Finally topped off with almonds and pistachio nuts. A mild dish but has a lot of flavor.
+-----------------------------
+Item: Chicken Curry
+Price: $10.99
+Description: Pieces of chicken roasted on skewers in the tandoori oven. Cooked with cream and yogurt. Finally topped off with almonds and pistachio nuts. A mild dish but has a lot of flavor.
+-----------------------------
+Item: Chicken Madras
+Price: $11.99
+Description: Pieces of chicken roasted on skewers in the tandoori oven. Cooked with cream and yogurt. Finally topped off with almonds and pistachio nuts. A mild dish but has a lot of flavor.
+-----------------------------
+Item: Chicken Vindaloo
+Price: $11.99
+Description: Pieces of chicken roasted on skewers in the tandoori oven. Cooked with cream and yogurt. Finally topped off with almonds and pistachio nuts. A mild dish but has a lot of flavor.
+-----------------------------
+Item: Chicken Bhuna
+Price: $11.99
+Description: Pieces of chicken roasted on skewers in the tandoori oven. Cooked with cream and yogurt. Finally topped off with almonds and pistachio nuts. A mild dish but has a lot of flavor.
+-----------------------------
+Item: Chicken Dansak
+Price: $11.99
+Description: Pieces of chicken roasted on skewers in the tandoori oven. Cooked with cream and yogurt. Finally topped off with almonds and pistachio nuts. A mild dish but has a lot of flavor.
+-----------------------------
+Item: Chicken Korma
+Price: $11.99
+Description: Pieces of chicken roasted on skewers in the tandoori oven. Cooked with cream and yogurt. Finally topped off with almonds and pistachio nuts. A mild dish but has a lot of flavor.
+-----------------------------
+Item: Chicken Tikka Masala
+Price: $11.99
+Description: Pieces of chicken roasted on skewers in the tandoori oven. Cooked with cream and yogurt. Finally topped off with almonds and pistachio nuts. A mild dish but has a lot of flavor.
+-----------------------------
+Item: Chicken Sag
+Price: $12.99
+Description: Pieces of chicken roasted on skewers in the tandoori oven. Cooked with cream and yogurt. Finally topped off with almonds and pistachio nuts. A mild dish but has a lot of flavor.
+-----------------------------
+
+******************** Category: Seafood Dishes ********************
+
+Item: Shrimp Bhuna
+Price: $12.99
+Description: Cooked with special herbs and spices, then roasted on skewers in the tandoori oven. A yogurt based curry finished with almonds.
+-----------------------------
+Item: Shrimp Makhani
+Price: $13.99
+Description: Cooked with special herbs and spices, then roasted on skewers in the tandoori oven. A yogurt based curry finished with almonds.
+-----------------------------
+Item: Shrimp Sag
+Price: $13.99
+Description: Cooked with special herbs and spices, then roasted on skewers in the tandoori oven. A yogurt based curry finished with almonds.
+-----------------------------
+Item: Shrimp Phatia
+Price: $13.99
+Description: Cooked with special herbs and spices, then roasted on skewers in the tandoori oven. A yogurt based curry finished with almonds.
+-----------------------------
+Item: Shrimp Masala
+Price: $14.99
+Description: Cooked with special herbs and spices, then roasted on skewers in the tandoori oven. A yogurt based curry finished with almonds.
+-----------------------------
+
+******************** Category: Lamb Dishes ********************
+
+Item: Lamb Sag
+Price: $13.99
+Description: 
+-----------------------------
+Item: Lamb Bhuna
+Price: $12.99
+Description: 
+-----------------------------
+Item: Lamb Madras
+Price: $12.99
+Description: 
+-----------------------------
+Item: Lamb Vindaloo
+Price: $12.99
+Description: 
+-----------------------------
+Item: Lamb Rogan Gosh
+Price: $12.99
+Description: 
+-----------------------------
+Item: Lamb Pasanda
+Price: $13.99
+Description: 
+-----------------------------
+Item: Lamb Korma
+Price: $12.99
+Description: 
+-----------------------------
+Item: Lamb Dansak
+Price: $13.99
+Description: 
+-----------------------------
+Item: Lamb Dupiaza
+Price: $12.99
+Description: 
+-----------------------------
+
+******************** Category: Beef Dishes ********************
+
+Item: Beef Curry
+Price: $11.99
+Description: 
+-----------------------------
+Item: Beef Bhuna
+Price: $12.99
+Description: 
+-----------------------------
+Item: Beef Madras
+Price: $12.99
+Description: 
+-----------------------------
+Item: Beef Vindaloo
+Price: $12.99
+Description: 
+-----------------------------
+Item: Beef Dansak
+Price: $12.99
+Description: 
+-----------------------------
+
+******************** Category: Indian Sandwiches (Wraps) ********************
+
+Item: Chikken Tikka Sandwich
+Price: $8.00
+Description: 
+-----------------------------
+Item: Beef Sandwich
+Price: $8.00
+Description: 
+-----------------------------
+Item: Vegetable Sandwich
+Price: $8.00
+Description: 
+-----------------------------
+
+******************** Category: Vegetable Dishes ********************
+
+Item: Mixed Vegetables
+Price: $7.50
+Description: Mixed vegetables cooked with spices and served with it's own gravy. Selected vegetables cooked with lentils in a South Indian style. Potatoes with garden fresh cauliflower. Spinach with our chef's speacial home made cheese. A chickpea curry cooked delicately with fresh onions and spices. Garden fresh peas with homemade cheese. A curry of eggplant with tomatoes, onions and other spices. Puree of lentils cooked with some spices. Garnished with fried onions and garlic. Roasted paneer cooked with special herbs and spices. A yogurt based curry finished with fried onions.
+-----------------------------
+Item: Vegetable Saambar
+Price: $7.99
+Description: Mixed vegetables cooked with spices and served with it's own gravy. Selected vegetables cooked with lentils in a South Indian style. Potatoes with garden fresh cauliflower. Spinach with our chef's speacial home made cheese. A chickpea curry cooked delicately with fresh onions and spices. Garden fresh peas with homemade cheese. A curry of eggplant with tomatoes, onions and other spices. Puree of lentils cooked with some spices. Garnished with fried onions and garlic. Roasted paneer cooked with special herbs and spices. A yogurt based curry finished with fried onions.
+-----------------------------
+Item: Aloo Gobi
+Price: $7.50
+Description: Mixed vegetables cooked with spices and served with it's own gravy. Selected vegetables cooked with lentils in a South Indian style. Potatoes with garden fresh cauliflower. Spinach with our chef's speacial home made cheese. A chickpea curry cooked delicately with fresh onions and spices. Garden fresh peas with homemade cheese. A curry of eggplant with tomatoes, onions and other spices. Puree of lentils cooked with some spices. Garnished with fried onions and garlic. Roasted paneer cooked with special herbs and spices. A yogurt based curry finished with fried onions.
+-----------------------------
+Item: Sag Paneer
+Price: $7.50
+Description: Mixed vegetables cooked with spices and served with it's own gravy. Selected vegetables cooked with lentils in a South Indian style. Potatoes with garden fresh cauliflower. Spinach with our chef's speacial home made cheese. A chickpea curry cooked delicately with fresh onions and spices. Garden fresh peas with homemade cheese. A curry of eggplant with tomatoes, onions and other spices. Puree of lentils cooked with some spices. Garnished with fried onions and garlic. Roasted paneer cooked with special herbs and spices. A yogurt based curry finished with fried onions.
+-----------------------------
+Item: Chana Masala
+Price: $7.50
+Description: Mixed vegetables cooked with spices and served with it's own gravy. Selected vegetables cooked with lentils in a South Indian style. Potatoes with garden fresh cauliflower. Spinach with our chef's speacial home made cheese. A chickpea curry cooked delicately with fresh onions and spices. Garden fresh peas with homemade cheese. A curry of eggplant with tomatoes, onions and other spices. Puree of lentils cooked with some spices. Garnished with fried onions and garlic. Roasted paneer cooked with special herbs and spices. A yogurt based curry finished with fried onions.
+-----------------------------
+Item: Motor Paneer
+Price: $7.50
+Description: Mixed vegetables cooked with spices and served with it's own gravy. Selected vegetables cooked with lentils in a South Indian style. Potatoes with garden fresh cauliflower. Spinach with our chef's speacial home made cheese. A chickpea curry cooked delicately with fresh onions and spices. Garden fresh peas with homemade cheese. A curry of eggplant with tomatoes, onions and other spices. Puree of lentils cooked with some spices. Garnished with fried onions and garlic. Roasted paneer cooked with special herbs and spices. A yogurt based curry finished with fried onions.
+-----------------------------
+Item: Begun Bhaji
+Price: $7.99
+Description: Mixed vegetables cooked with spices and served with it's own gravy. Selected vegetables cooked with lentils in a South Indian style. Potatoes with garden fresh cauliflower. Spinach with our chef's speacial home made cheese. A chickpea curry cooked delicately with fresh onions and spices. Garden fresh peas with homemade cheese. A curry of eggplant with tomatoes, onions and other spices. Puree of lentils cooked with some spices. Garnished with fried onions and garlic. Roasted paneer cooked with special herbs and spices. A yogurt based curry finished with fried onions.
+-----------------------------
+Item: Tarka Dhal
+Price: $7.50
+Description: Mixed vegetables cooked with spices and served with it's own gravy. Selected vegetables cooked with lentils in a South Indian style. Potatoes with garden fresh cauliflower. Spinach with our chef's speacial home made cheese. A chickpea curry cooked delicately with fresh onions and spices. Garden fresh peas with homemade cheese. A curry of eggplant with tomatoes, onions and other spices. Puree of lentils cooked with some spices. Garnished with fried onions and garlic. Roasted paneer cooked with special herbs and spices. A yogurt based curry finished with fried onions.
+-----------------------------
+Item: Paneer Tikka Masala
+Price: $10.99
+Description: Mixed vegetables cooked with spices and served with it's own gravy. Selected vegetables cooked with lentils in a South Indian style. Potatoes with garden fresh cauliflower. Spinach with our chef's speacial home made cheese. A chickpea curry cooked delicately with fresh onions and spices. Garden fresh peas with homemade cheese. A curry of eggplant with tomatoes, onions and other spices. Puree of lentils cooked with some spices. Garnished with fried onions and garlic. Roasted paneer cooked with special herbs and spices. A yogurt based curry finished with fried onions.
+-----------------------------
+
+******************** Category: Indian Bread ********************
+
+Item: Naan
+Price: $2.25
+Description: Freshly made in the tandoor oven. This bread is made out of self-raising flour. The traditional Naan but freshly baked with garlic. White flour rolled and fried in butter. Baked into a crisp and flaky flat disc.
+-----------------------------
+Item: Garlic Naan
+Price: $2.99
+Description: Freshly made in the tandoor oven. This bread is made out of self-raising flour. The traditional Naan but freshly baked with garlic. White flour rolled and fried in butter. Baked into a crisp and flaky flat disc.
+-----------------------------
+Item: Paratha
+Price: $2.50
+Description: Freshly made in the tandoor oven. This bread is made out of self-raising flour. The traditional Naan but freshly baked with garlic. White flour rolled and fried in butter. Baked into a crisp and flaky flat disc.
+-----------------------------
+
+******************** Category: Rice Dishes ********************
+
+Item: Polao Rice
+Price: $2.99
+Description: Most aromatic and best quality of Basmati rice. Quality Basmati rice cooked with fresh sweet peas. Basmati rice cooked with herbs, spices and dry mixed fruits.
+-----------------------------
+Item: Peas Polao
+Price: $6.99
+Description: Most aromatic and best quality of Basmati rice. Quality Basmati rice cooked with fresh sweet peas. Basmati rice cooked with herbs, spices and dry mixed fruits.
+-----------------------------
+Item: Kashmiri Rice
+Price: $7.99
+Description: Most aromatic and best quality of Basmati rice. Quality Basmati rice cooked with fresh sweet peas. Basmati rice cooked with herbs, spices and dry mixed fruits.
+-----------------------------
+
+******************** Category: Sundries ********************
+
+Item: Raita
+Price: $3.50
+Description: Yogurt mixed with grated cucumbers and some spices. Sweet mango aged with lemon juices and spices. Lime preserved in mustard oil and spices. Mango preserved in mustard oil and spices. The indian style chips. Thin crispy wafer made with ground lentils.
+-----------------------------
+Item: Mango Chutney
+Price: $2.75
+Description: Yogurt mixed with grated cucumbers and some spices. Sweet mango aged with lemon juices and spices. Lime preserved in mustard oil and spices. Mango preserved in mustard oil and spices. The indian style chips. Thin crispy wafer made with ground lentils.
+-----------------------------
+Item: Lime Pickle
+Price: $2.75
+Description: Yogurt mixed with grated cucumbers and some spices. Sweet mango aged with lemon juices and spices. Lime preserved in mustard oil and spices. Mango preserved in mustard oil and spices. The indian style chips. Thin crispy wafer made with ground lentils.
+-----------------------------
+Item: Mango Pickle
+Price: $2.75
+Description: Yogurt mixed with grated cucumbers and some spices. Sweet mango aged with lemon juices and spices. Lime preserved in mustard oil and spices. Mango preserved in mustard oil and spices. The indian style chips. Thin crispy wafer made with ground lentils.
+-----------------------------
+Item: Papadam
+Price: $1.00
+Description: Yogurt mixed with grated cucumbers and some spices. Sweet mango aged with lemon juices and spices. Lime preserved in mustard oil and spices. Mango preserved in mustard oil and spices. The indian style chips. Thin crispy wafer made with ground lentils.
+-----------------------------
+
+******************** Category: Desserts ********************
+
+Item: Gulab Jamun (4 pieces)
+Price: $3.50
+Description: Fried milk balls in cardamon flavored syrup. Sugary white, cream or yellow colored balls of paneer soaked in malai (clotted cream) flavored with cardamom. Deep fried maida flour batter made in pretzel or circular shapes. Indian version of creamy rice pudding cooked with milk and sugar, flavored with cardamom and almonds.
+-----------------------------
+Item: Rasmalai (4 pieces)
+Price: $6.00
+Description: Fried milk balls in cardamon flavored syrup. Sugary white, cream or yellow colored balls of paneer soaked in malai (clotted cream) flavored with cardamom. Deep fried maida flour batter made in pretzel or circular shapes. Indian version of creamy rice pudding cooked with milk and sugar, flavored with cardamom and almonds.
+-----------------------------
+Item: Jalabi (4 pieces)
+Price: $3.75
+Description: Fried milk balls in cardamon flavored syrup. Sugary white, cream or yellow colored balls of paneer soaked in malai (clotted cream) flavored with cardamom. Deep fried maida flour batter made in pretzel or circular shapes. Indian version of creamy rice pudding cooked with milk and sugar, flavored with cardamom and almonds.
+-----------------------------
+Item: Rice Pudding
+Price: $4.50
+Description: Fried milk balls in cardamon flavored syrup. Sugary white, cream or yellow colored balls of paneer soaked in malai (clotted cream) flavored with cardamom. Deep fried maida flour batter made in pretzel or circular shapes. Indian version of creamy rice pudding cooked with milk and sugar, flavored with cardamom and almonds.
+-----------------------------
+
+******************** Category: Beverages ********************
+
+Item: Mango Lassi
+Price: $2.99
+Description: 
+-----------------------------
+Item: Indian Chai
+Price: $1.99
+Description: 
+-----------------------------
+Item: Guava Juice (Bottle)
+Price: $2.50
+Description: 
+-----------------------------
+Item: Mango Juice (Bottle)
+Price: $2.50
+Description: 
+-----------------------------
+Item: Mango Juice (1L)
+Price: $3.50
+Description: 
+-----------------------------
+Item: Minute Maid Apple Juice
+Price: $2.50
+Description: 
+-----------------------------
+Item: Minute Maid Orange Juice
+Price: $2.50
+Description: 
+-----------------------------
+Item: Minute Maid CranberryJuice
+Price: $2.50
+Description: 
+-----------------------------
+Item: Minute Maid Grapefruit Juice
+Price: $2.50
+Description: 
+-----------------------------
+Item: Minute Maid Lemonade
+Price: $2.50
+Description: 
+-----------------------------
+Item: V8
+Price: $2.50
+Description: 
+-----------------------------
+Item: Coca-Cola (Bottle)
+Price: $2.25
+Description: 
+-----------------------------
+Item: Coca-Cola (Can)
+Price: $1.25
+Description: 
+-----------------------------
+Item: Diet Coca-Cola (Bottle)
+Price: $2.25
+Description: 
+-----------------------------
+Item: Diet Coca-Cola (Can)
+Price: $1.25
+Description: 
+-----------------------------
+Item: Coca-Cola Zero (Bottle)
+Price: $2.25
+Description: 
+-----------------------------
+Item: Sprite (Bottle)
+Price: $2.25
+Description: 
+-----------------------------
+Item: Sprite (Can)
+Price: $1.25
+Description: 
+-----------------------------
+Item: 7-up (Can)
+Price: $1.25
+Description: 
+-----------------------------
+Item: Orange Crush (Bottle)
+Price: $2.25
+Description: 
+-----------------------------
+Item: Orange Crush (Can)
+Price: $1.25
+Description: 
+-----------------------------
+Item: Ginger Ale (Bottle)
+Price: $2.25
+Description: 
+-----------------------------
+Item: Ginger Ale (Can)
+Price: $1.25
+Description: 
+-----------------------------
+Item: Nestea Iced Tea Regular
+Price: $2.50
+Description: 
+-----------------------------
+Item: Nestea Iced Tea Green
+Price: $2.50
+Description: 
+-----------------------------
+Item: Nestea Iced Tea Zero
+Price: $2.50
+Description: 
+-----------------------------
+Item: Barq's Root Beer
+Price: $2.35
+Description: 
+-----------------------------
+Item: Fresca (Bottle)
+Price: $2.35
+Description: 
+-----------------------------
+Item: Vimto
+Price: $1.50
+Description: 
+-----------------------------
+Item: Vitamin Water Focus
+Price: $2.75
+Description: 
+-----------------------------
+Item: Vitamin Water xxx
+Price: $2.75
+Description: 
+-----------------------------
+Item: Vitamin Water Lemonade
+Price: $2.75
+Description: 
+-----------------------------
+Item: Coconut Water
+Price: $2.25
+Description: 
+-----------------------------
+Item: Evian Water (500 mL)
+Price: $2.40
+Description: 
+-----------------------------
+Item: Evian Water (1L)
+Price: $3.50
+Description: 
+-----------------------------
+Item: Dasani Water (591 mL)
+Price: $2.10
+Description: 
+-----------------------------
+Item: Dasani Water (1 L)
+Price: $2.65
+Description: 
+-----------------------------
+Item: Nestle Water (1.5L)
+Price: $2.25
+Description: 
+-----------------------------
+Item: Smart Water
+Price: $2.60
+Description: 
+-----------------------------
+Item: Perrier Water
+Price: $2.25
+Description: 
+-----------------------------

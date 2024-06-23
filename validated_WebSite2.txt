@@ -1,0 +1,3848 @@
+Item: Chicken Soup
+Price: $8.95
+Description: Seasoned with Spices and Herbs
+----------------------------
+Item: Lamb Soup
+Price: $8.95
+Description: Seasoned with Spices and Herbs
+----------------------------
+Item: Lentil Spinach Soup
+Price: $8.95
+Description: Tempered with Cumin and Ginger
+----------------------------
+Item: Tomato Soup
+Price: $8.95
+Description: Lemon, Mint, Ginger and Spiced
+----------------------------
+Item: Chicken Masala pakora
+Price: $12.95
+Description: Spice Dusted Chicken Fritters
+----------------------------
+Item: Alu Chaat
+Price: $10.95
+Description: Potato Patties,Mint Tamarind, Yogurt,garbanzo, Crunchies
+----------------------------
+Item: Vegetable Kabab
+Price: $10.95
+Description: Seasoned Minced Vegetable Cutlet
+----------------------------
+Item: Onion Bhaji
+Price: $9.95
+Description: Shaved Onions Seasoned, Chic Pea Batter Fried
+----------------------------
+Item: Vegetable Pakora
+Price: $8.95
+Description: Vegetables, Seasoned, Chic Pea Batter Fried
+----------------------------
+Item: Vegetable Samosa
+Price: $7.95
+Description: Pastry filled with Seasoned Potatoes and Peas
+----------------------------
+Item: Fish Pakora
+Price: $13.95
+Description: Fish Seasoned, Chic Pea Batter Fried
+----------------------------
+Item: Prawn Pakora
+Price: $14.95
+Description: Prawns seasoned, Chic Pea Batter Fried
+----------------------------
+Item: Shami Kabab
+Price: $13.95
+Description: Minced Lamb Lentil Cutlet
+----------------------------
+Item: Channa Saag
+Price: $16.95
+Description: Garbanzo Beans and Spinach Cooked with Ginger, Garlic, Onion and Spices
+----------------------------
+Item: Channa Masala
+Price: $16.95
+Description: Garbanzo Beans Cooked with Ginger, Garlic, Onion and Spices
+----------------------------
+Item: Daal Tadka
+Price: $16.95
+Description: Yellow channa Daal Tempered with Ginger and Spices
+----------------------------
+Item: Daal Makhni
+Price: $16.95
+Description: Black Lentils Cooked with Spices and Herbs
+----------------------------
+Item: Alu Gobhi
+Price: $16.95
+Description: Potatoes and Cauliflower with Cumin, Ginger, Tomatoes and Onion
+----------------------------
+Item: Baingan Bharta
+Price: $17.95
+Description: Smoked Eggplant Cooked with Ginger, Garlic, Tomatoes and Spices
+----------------------------
+Item: Mixed Vegetable Korma
+Price: $17.95
+Description: Assorted Garden Fresh Vegetables in a Mild Cashew Currry
+----------------------------
+Item: Mattar Mushroom
+Price: $16.95
+Description: Curried Peas and Mushrooms
+----------------------------
+Item: Mattar Paneer
+Price: $17.95
+Description: Curried Peas and Cheese
+----------------------------
+Item: Butter Paneer
+Price: $17.95
+Description: Paneer in a Tomato Creamy sauce
+----------------------------
+Item: Saag Paneer
+Price: $17.95
+Description: Spinach and Cheese Cooked with Ginger, Garlic, Onion and Spices
+----------------------------
+Item: Bhindi Do Pyaza
+Price: $17.95
+Description: Lightly Spiced Okra with Ginger, Tomatoes,Lemon and Onion
+----------------------------
+Item: Panir Jalfrazi
+Price: $17.95
+Description: Cooked with Vegetables in a Fenugreek Tomato Sauce
+----------------------------
+Item: Malai Kofta
+Price: $17.95
+Description: Mixed Vegetable Dumpling with Cheese and Raisin Stuffing in a Cashew Curry Sauce
+----------------------------
+Item: Vegetable Neelgiri
+Price: $17.95
+Description: Lemony Curry with a Heavenly Serving of Fresh Coriander
+----------------------------
+Item: Paneer Tikka
+Price: $17.95
+Description: Paneer Marinated and Charbroiled
+----------------------------
+Item: Tandoori Chicken
+Price: $17.95
+Description: Bone in Chicken, Marinated and Charbroiled
+----------------------------
+Item: Chicken Tikka
+Price: $18.95
+Description: Chicken Breast pieces, Marinated and Charbroiled
+----------------------------
+Item: Chicken Malai Kabab
+Price: $18.95
+Description: Lightly Spiced, Cashew Marinade, Charbroiled
+----------------------------
+Item: Lamb Shish Kabab
+Price: $19.95
+Description: Minced Lamb With Onions, and Mint Charbroiled on Skewers
+----------------------------
+Item: Lamb Chops Tikka
+Price: $26.95
+Description: Lamb Chops Marinated and Charbroiled
+----------------------------
+Item: Tandoori Halibut
+Price: $24.95
+Description: Halibut Marinated and Charbroiled
+----------------------------
+Item: Chicken Curry
+Price: $17.95
+Description: Chicken cooked with Ginger, Garlic, Onion, Tomatoes and Spices
+----------------------------
+Item: Butter Chicken
+Price: $18.95
+Description: Chicken cooked in a Tomato creamy Sauce
+----------------------------
+Item: Chicken Vindaloo
+Price: $18.95
+Description: chicken Cooked in an Onion Tomato Tangy Curry with Potatoes
+----------------------------
+Item: Chicken Goa Curry
+Price: $18.95
+Description: Chicken Cooked in a Coconut Curry Sauce
+----------------------------
+Item: Chicken Korma
+Price: $18.95
+Description: Curry Chicken Cooked in a Cashew Curry Sauce
+----------------------------
+Item: Chicken Saag
+Price: $18.95
+Description: Chicken and Spinach cooked with Ginger, Garlic, Onion and Spices
+----------------------------
+Item: Chicken Jalfrazi
+Price: $18.95
+Description: Chicken Cooked with fresh vegetables in a Fenugreek Tomato sauce
+----------------------------
+Item: Chicken Dhansak
+Price: $18.95
+Description: Chicken Cooked with Yellow Lentils, Mild Lemon Spiced
+----------------------------
+Item: Chicken Chettinad
+Price: $18.95
+Description: South Indian Style Spicy Chicken Curry with Rare Spices
+----------------------------
+Item: Chicken Hariyali
+Price: $18.95
+Description: Chicken Simmered in a Mint, Cilantro, Spinach, Ginger Coconut Curry
+----------------------------
+Item: Lamb Curry
+Price: $18.95
+Description: Lamb Cooked with Ginger, Garlic, Onion, Tomatoes and Spices
+----------------------------
+Item: Lamb Saag
+Price: $19.95
+Description: Lamb and Spirach Cooked with Ginger, Garlic, Onion and Spices
+----------------------------
+Item: Lamb Korma
+Price: $19.95
+Description: Lamb Cooked in a Cashew Curry Sauce
+----------------------------
+Item: Lamb Vindaloo
+Price: $19.95
+Description: Lamb Cooked in a Tangy Curry with Potatoes
+----------------------------
+Item: Lamb Khadai
+Price: $19.95
+Description: Lamb Cooked with Onion, Bell Peppers, Ginger and Spices
+----------------------------
+Item: Lamb Kolhapuri
+Price: $19.95
+Description: Lamb Cooked in a Juicy Tamarind Curry with Konkan Spices
+----------------------------
+Item: Lamb Methi
+Price: $19.95
+Description: Lamb Cooked with Garlic and Fenugreek in a Tomato Creamy sauce
+----------------------------
+Item: Lamb Neelgiri
+Price: $19.95
+Description: Lemony Curry with a Heavenly Serving of Fresh Coriander
+----------------------------
+Item: Salmon Red Curry
+Price: $19.95
+Description: Salmon Cooked in a Tangy Southern Curry
+----------------------------
+Item: Prawns Vindaloo
+Price: $19.95
+Description: Prawns Cooked in a Tangy Curry with Potatoes
+----------------------------
+Item: Prawns Masala
+Price: $19.95
+Description: Prawns Cooked in an Onion Tomato Ginger Masala
+----------------------------
+Item: Prawns Coconut Curry
+Price: $19.95
+Description: Prawns Cooked in a Cocunut Curry Sauce
+----------------------------
+Item: Ajwaini fish
+Price: $19.95
+Description: cod cooked in an Ajwain Flavoured Onion Ginger Masala
+----------------------------
+Item: Halibut Coconut Curry
+Price: $22.95
+Description: Halibut Cooked in a Cocunut Curry Sauce
+----------------------------
+Item: Tandoori Roti
+Price: $3.25
+Description: whole Wheat Bread
+----------------------------
+Item: Bran Chappathi
+Price: $3.25
+Description: Fluffy Whole Wheat Bread
+----------------------------
+Item: Paratha
+Price: $4.50
+Description: Whole Wheat Bread Layered with Butter
+----------------------------
+Item: Onion Kulcha
+Price: $4.50
+Description: Naan Stuffed with seasoned Chopped Onion
+----------------------------
+Item: Rumali Roti
+Price: $4.50
+Description: Soft Thin Wheat Bread
+----------------------------
+Item: Keema Naan
+Price: $4.95
+Description: Stuffed with Minced Lamb
+----------------------------
+Item: Peshwari Naan
+Price: $4.95
+Description: Stuffed with Coconut, Cashew and Raisins
+----------------------------
+Item: Alu Paratha
+Price: $4.50
+Description: Stuffed with Seasoned Mashed Potatoes
+----------------------------
+Item: Mushroom Peas Pulao
+Price: $8.95
+Description: Basmati Rice with Mushroom and Green Peas
+----------------------------
+Item: Vegetable Biryani
+Price: $19.95
+Description: Vegetables Cooked with Aromatic Basmati Rice and Spices
+----------------------------
+Item: Chicken Biryani
+Price: $21.95
+Description: Chicken Cooked with Aromatic Basmati Rice and Spices
+----------------------------
+Item: Lamb Biryani
+Price: $23.95
+Description: Lamb Cooked with Aromatic Basmati Rice and Spices
+----------------------------
+Item: Prawn Biryani
+Price: $23.95
+Description: Prawn Cooked with Aromatic Basmati Rice and Spices
+----------------------------
+Item: Coconut Rice
+Price: $8.95
+Description: Basmati Rice with Grated Coconut and Nuts
+----------------------------
+Item: Chef’s Table
+Price: $49.95
+Description: per person (minimum 2 people)
+----------------------------
+Item: Chicken Soup
+Price: $8.95
+Description: Seasoned with Spices and Herbs
+----------------------------
+Item: Lamb Soup
+Price: $8.95
+Description: Seasoned with Spices and Herbs
+----------------------------
+Item: Lentil Spinach Soup
+Price: $8.95
+Description: Tempered with Cumin and Ginger
+----------------------------
+Item: Tomato Soup
+Price: $8.95
+Description: Lemon, Mint, Ginger and Spiced
+----------------------------
+Item: Chicken Masala pakora
+Price: $12.95
+Description: Spice Dusted Chicken Fritters
+----------------------------
+Item: Alu Chaat
+Price: $10.95
+Description: Potato Patties,Mint Tamarind, Yogurt,garbanzo, Crunchies
+----------------------------
+Item: Vegetable Kabab
+Price: $10.95
+Description: Seasoned Minced Vegetable Cutlet
+----------------------------
+Item: Onion Bhaji
+Price: $9.95
+Description: Shaved Onions Seasoned, Chic Pea Batter Fried
+----------------------------
+Item: Vegetable Pakora
+Price: $8.95
+Description: Vegetables, Seasoned, Chic Pea Batter Fried
+----------------------------
+Item: Vegetable Samosa
+Price: $7.95
+Description: Pastry filled with Seasoned Potatoes and Peas
+----------------------------
+Item: Fish Pakora
+Price: $13.95
+Description: Fish Seasoned, Chic Pea Batter Fried
+----------------------------
+Item: Prawn Pakora
+Price: $14.95
+Description: Prawns seasoned, Chic Pea Batter Fried
+----------------------------
+Item: Shami Kabab
+Price: $13.95
+Description: Minced Lamb Lentil Cutlet
+----------------------------
+Item: Channa Saag
+Price: $16.95
+Description: Garbanzo Beans and Spinach Cooked with Ginger, Garlic, Onion and Spices
+----------------------------
+Item: Channa Masala
+Price: $16.95
+Description: Garbanzo Beans Cooked with Ginger, Garlic, Onion and Spices
+----------------------------
+Item: Daal Tadka
+Price: $16.95
+Description: Yellow channa Daal Tempered with Ginger and Spices
+----------------------------
+Item: Daal Makhni
+Price: $16.95
+Description: Black Lentils Cooked with Spices and Herbs
+----------------------------
+Item: Alu Gobhi
+Price: $16.95
+Description: Potatoes and Cauliflower with Cumin, Ginger, Tomatoes and Onion
+----------------------------
+Item: Baingan Bharta
+Price: $17.95
+Description: Smoked Eggplant Cooked with Ginger, Garlic, Tomatoes and Spices
+----------------------------
+Item: Mixed Vegetable Korma
+Price: $17.95
+Description: Assorted Garden Fresh Vegetables in a Mild Cashew Currry
+----------------------------
+Item: Mattar Mushroom
+Price: $16.95
+Description: Curried Peas and Mushrooms
+----------------------------
+Item: Mattar Paneer
+Price: $17.95
+Description: Curried Peas and Cheese
+----------------------------
+Item: Butter Paneer
+Price: $17.95
+Description: Paneer in a Tomato Creamy sauce
+----------------------------
+Item: Saag Paneer
+Price: $17.95
+Description: Spinach and Cheese Cooked with Ginger, Garlic, Onion and Spices
+----------------------------
+Item: Bhindi Do Pyaza
+Price: $17.95
+Description: Lightly Spiced Okra with Ginger, Tomatoes,Lemon and Onion
+----------------------------
+Item: Panir Jalfrazi
+Price: $17.95
+Description: Cooked with Vegetables in a Fenugreek Tomato Sauce
+----------------------------
+Item: Malai Kofta
+Price: $17.95
+Description: Mixed Vegetable Dumpling with Cheese and Raisin Stuffing in a Cashew Curry Sauce
+----------------------------
+Item: Vegetable Neelgiri
+Price: $17.95
+Description: Lemony Curry with a Heavenly Serving of Fresh Coriander
+----------------------------
+Item: Paneer Tikka
+Price: $17.95
+Description: Paneer Marinated and Charbroiled
+----------------------------
+Item: Tandoori Chicken
+Price: $17.95
+Description: Bone in Chicken, Marinated and Charbroiled
+----------------------------
+Item: Chicken Tikka
+Price: $18.95
+Description: Chicken Breast pieces, Marinated and Charbroiled
+----------------------------
+Item: Chicken Malai Kabab
+Price: $18.95
+Description: Lightly Spiced, Cashew Marinade, Charbroiled
+----------------------------
+Item: Lamb Shish Kabab
+Price: $19.95
+Description: Minced Lamb With Onions, and Mint Charbroiled on Skewers
+----------------------------
+Item: Lamb Chops Tikka
+Price: $26.95
+Description: Lamb Chops Marinated and Charbroiled
+----------------------------
+Item: Tandoori Halibut
+Price: $24.95
+Description: Halibut Marinated and Charbroiled
+----------------------------
+Item: Chicken Curry
+Price: $17.95
+Description: Chicken cooked with Ginger, Garlic, Onion, Tomatoes and Spices
+----------------------------
+Item: Butter Chicken
+Price: $18.95
+Description: Chicken cooked in a Tomato creamy Sauce
+----------------------------
+Item: Chicken Vindaloo
+Price: $18.95
+Description: chicken Cooked in an Onion Tomato Tangy Curry with Potatoes
+----------------------------
+Item: Chicken Goa Curry
+Price: $18.95
+Description: Chicken Cooked in a Coconut Curry Sauce
+----------------------------
+Item: Chicken Korma
+Price: $18.95
+Description: Curry Chicken Cooked in a Cashew Curry Sauce
+----------------------------
+Item: Chicken Saag
+Price: $18.95
+Description: Chicken and Spinach cooked with Ginger, Garlic, Onion and Spices
+----------------------------
+Item: Chicken Jalfrazi
+Price: $18.95
+Description: Chicken Cooked with fresh vegetables in a Fenugreek Tomato sauce
+----------------------------
+Item: Chicken Dhansak
+Price: $18.95
+Description: Chicken Cooked with Yellow Lentils, Mild Lemon Spiced
+----------------------------
+Item: Chicken Chettinad
+Price: $18.95
+Description: South Indian Style Spicy Chicken Curry with Rare Spices
+----------------------------
+Item: Chicken Hariyali
+Price: $18.95
+Description: Chicken Simmered in a Mint, Cilantro, Spinach, Ginger Coconut Curry
+----------------------------
+Item: Lamb Curry
+Price: $18.95
+Description: Lamb Cooked with Ginger, Garlic, Onion, Tomatoes and Spices
+----------------------------
+Item: Lamb Saag
+Price: $19.95
+Description: Lamb and Spirach Cooked with Ginger, Garlic, Onion and Spices
+----------------------------
+Item: Lamb Korma
+Price: $19.95
+Description: Lamb Cooked in a Cashew Curry Sauce
+----------------------------
+Item: Lamb Vindaloo
+Price: $19.95
+Description: Lamb Cooked in a Tangy Curry with Potatoes
+----------------------------
+Item: Lamb Khadai
+Price: $19.95
+Description: Lamb Cooked with Onion, Bell Peppers, Ginger and Spices
+----------------------------
+Item: Lamb Kolhapuri
+Price: $19.95
+Description: Lamb Cooked in a Juicy Tamarind Curry with Konkan Spices
+----------------------------
+Item: Lamb Methi
+Price: $19.95
+Description: Lamb Cooked with Garlic and Fenugreek in a Tomato Creamy sauce
+----------------------------
+Item: Lamb Neelgiri
+Price: $19.95
+Description: Lemony Curry with a Heavenly Serving of Fresh Coriander
+----------------------------
+Item: Salmon Red Curry
+Price: $19.95
+Description: Salmon Cooked in a Tangy Southern Curry
+----------------------------
+Item: Prawns Vindaloo
+Price: $19.95
+Description: Prawns Cooked in a Tangy Curry with Potatoes
+----------------------------
+Item: Prawns Masala
+Price: $19.95
+Description: Prawns Cooked in an Onion Tomato Ginger Masala
+----------------------------
+Item: Prawns Coconut Curry
+Price: $19.95
+Description: Prawns Cooked in a Cocunut Curry Sauce
+----------------------------
+Item: Ajwaini fish
+Price: $19.95
+Description: cod cooked in an Ajwain Flavoured Onion Ginger Masala
+----------------------------
+Item: Halibut Coconut Curry
+Price: $22.95
+Description: Halibut Cooked in a Cocunut Curry Sauce
+----------------------------
+Item: Tandoori Roti
+Price: $3.25
+Description: whole Wheat Bread
+----------------------------
+Item: Bran Chappathi
+Price: $3.25
+Description: Fluffy Whole Wheat Bread
+----------------------------
+Item: Paratha
+Price: $4.50
+Description: Whole Wheat Bread Layered with Butter
+----------------------------
+Item: Onion Kulcha
+Price: $4.50
+Description: Naan Stuffed with seasoned Chopped Onion
+----------------------------
+Item: Rumali Roti
+Price: $4.50
+Description: Soft Thin Wheat Bread
+----------------------------
+Item: Keema Naan
+Price: $4.95
+Description: Stuffed with Minced Lamb
+----------------------------
+Item: Peshwari Naan
+Price: $4.95
+Description: Stuffed with Coconut, Cashew and Raisins
+----------------------------
+Item: Alu Paratha
+Price: $4.50
+Description: Stuffed with Seasoned Mashed Potatoes
+----------------------------
+Item: Mushroom Peas Pulao
+Price: $8.95
+Description: Basmati Rice with Mushroom and Green Peas
+----------------------------
+Item: Vegetable Biryani
+Price: $19.95
+Description: Vegetables Cooked with Aromatic Basmati Rice and Spices
+----------------------------
+Item: Chicken Biryani
+Price: $21.95
+Description: Chicken Cooked with Aromatic Basmati Rice and Spices
+----------------------------
+Item: Lamb Biryani
+Price: $23.95
+Description: Lamb Cooked with Aromatic Basmati Rice and Spices
+----------------------------
+Item: Prawn Biryani
+Price: $23.95
+Description: Prawn Cooked with Aromatic Basmati Rice and Spices
+----------------------------
+Item: Coconut Rice
+Price: $8.95
+Description: Basmati Rice with Grated Coconut and Nuts
+----------------------------
+Item: Chef’s Table
+Price: $49.95
+Description: per person (minimum 2 people)
+----------------------------
+Item: Chicken Soup
+Price: $8.95
+Description: Seasoned with Spices and Herbs
+----------------------------
+Item: Lamb Soup
+Price: $8.95
+Description: Seasoned with Spices and Herbs
+----------------------------
+Item: Lentil Spinach Soup
+Price: $8.95
+Description: Tempered with Cumin and Ginger
+----------------------------
+Item: Tomato Soup
+Price: $8.95
+Description: Lemon, Mint, Ginger and Spiced
+----------------------------
+Item: Chicken Masala pakora
+Price: $12.95
+Description: Spice Dusted Chicken Fritters
+----------------------------
+Item: Alu Chaat
+Price: $10.95
+Description: Potato Patties,Mint Tamarind, Yogurt,garbanzo, Crunchies
+----------------------------
+Item: Vegetable Kabab
+Price: $10.95
+Description: Seasoned Minced Vegetable Cutlet
+----------------------------
+Item: Onion Bhaji
+Price: $9.95
+Description: Shaved Onions Seasoned, Chic Pea Batter Fried
+----------------------------
+Item: Vegetable Pakora
+Price: $8.95
+Description: Vegetables, Seasoned, Chic Pea Batter Fried
+----------------------------
+Item: Vegetable Samosa
+Price: $7.95
+Description: Pastry filled with Seasoned Potatoes and Peas
+----------------------------
+Item: Fish Pakora
+Price: $13.95
+Description: Fish Seasoned, Chic Pea Batter Fried
+----------------------------
+Item: Prawn Pakora
+Price: $14.95
+Description: Prawns seasoned, Chic Pea Batter Fried
+----------------------------
+Item: Shami Kabab
+Price: $13.95
+Description: Minced Lamb Lentil Cutlet
+----------------------------
+Item: Channa Saag
+Price: $16.95
+Description: Garbanzo Beans and Spinach Cooked with Ginger, Garlic, Onion and Spices
+----------------------------
+Item: Channa Masala
+Price: $16.95
+Description: Garbanzo Beans Cooked with Ginger, Garlic, Onion and Spices
+----------------------------
+Item: Daal Tadka
+Price: $16.95
+Description: Yellow channa Daal Tempered with Ginger and Spices
+----------------------------
+Item: Daal Makhni
+Price: $16.95
+Description: Black Lentils Cooked with Spices and Herbs
+----------------------------
+Item: Alu Gobhi
+Price: $16.95
+Description: Potatoes and Cauliflower with Cumin, Ginger, Tomatoes and Onion
+----------------------------
+Item: Baingan Bharta
+Price: $17.95
+Description: Smoked Eggplant Cooked with Ginger, Garlic, Tomatoes and Spices
+----------------------------
+Item: Mixed Vegetable Korma
+Price: $17.95
+Description: Assorted Garden Fresh Vegetables in a Mild Cashew Currry
+----------------------------
+Item: Mattar Mushroom
+Price: $16.95
+Description: Curried Peas and Mushrooms
+----------------------------
+Item: Mattar Paneer
+Price: $17.95
+Description: Curried Peas and Cheese
+----------------------------
+Item: Butter Paneer
+Price: $17.95
+Description: Paneer in a Tomato Creamy sauce
+----------------------------
+Item: Saag Paneer
+Price: $17.95
+Description: Spinach and Cheese Cooked with Ginger, Garlic, Onion and Spices
+----------------------------
+Item: Bhindi Do Pyaza
+Price: $17.95
+Description: Lightly Spiced Okra with Ginger, Tomatoes,Lemon and Onion
+----------------------------
+Item: Panir Jalfrazi
+Price: $17.95
+Description: Cooked with Vegetables in a Fenugreek Tomato Sauce
+----------------------------
+Item: Malai Kofta
+Price: $17.95
+Description: Mixed Vegetable Dumpling with Cheese and Raisin Stuffing in a Cashew Curry Sauce
+----------------------------
+Item: Vegetable Neelgiri
+Price: $17.95
+Description: Lemony Curry with a Heavenly Serving of Fresh Coriander
+----------------------------
+Item: Paneer Tikka
+Price: $17.95
+Description: Paneer Marinated and Charbroiled
+----------------------------
+Item: Tandoori Chicken
+Price: $17.95
+Description: Bone in Chicken, Marinated and Charbroiled
+----------------------------
+Item: Chicken Tikka
+Price: $18.95
+Description: Chicken Breast pieces, Marinated and Charbroiled
+----------------------------
+Item: Chicken Malai Kabab
+Price: $18.95
+Description: Lightly Spiced, Cashew Marinade, Charbroiled
+----------------------------
+Item: Lamb Shish Kabab
+Price: $19.95
+Description: Minced Lamb With Onions, and Mint Charbroiled on Skewers
+----------------------------
+Item: Lamb Chops Tikka
+Price: $26.95
+Description: Lamb Chops Marinated and Charbroiled
+----------------------------
+Item: Tandoori Halibut
+Price: $24.95
+Description: Halibut Marinated and Charbroiled
+----------------------------
+Item: Chicken Curry
+Price: $17.95
+Description: Chicken cooked with Ginger, Garlic, Onion, Tomatoes and Spices
+----------------------------
+Item: Butter Chicken
+Price: $18.95
+Description: Chicken cooked in a Tomato creamy Sauce
+----------------------------
+Item: Chicken Vindaloo
+Price: $18.95
+Description: chicken Cooked in an Onion Tomato Tangy Curry with Potatoes
+----------------------------
+Item: Chicken Goa Curry
+Price: $18.95
+Description: Chicken Cooked in a Coconut Curry Sauce
+----------------------------
+Item: Chicken Korma
+Price: $18.95
+Description: Curry Chicken Cooked in a Cashew Curry Sauce
+----------------------------
+Item: Chicken Saag
+Price: $18.95
+Description: Chicken and Spinach cooked with Ginger, Garlic, Onion and Spices
+----------------------------
+Item: Chicken Jalfrazi
+Price: $18.95
+Description: Chicken Cooked with fresh vegetables in a Fenugreek Tomato sauce
+----------------------------
+Item: Chicken Dhansak
+Price: $18.95
+Description: Chicken Cooked with Yellow Lentils, Mild Lemon Spiced
+----------------------------
+Item: Chicken Chettinad
+Price: $18.95
+Description: South Indian Style Spicy Chicken Curry with Rare Spices
+----------------------------
+Item: Chicken Hariyali
+Price: $18.95
+Description: Chicken Simmered in a Mint, Cilantro, Spinach, Ginger Coconut Curry
+----------------------------
+Item: Lamb Curry
+Price: $18.95
+Description: Lamb Cooked with Ginger, Garlic, Onion, Tomatoes and Spices
+----------------------------
+Item: Lamb Saag
+Price: $19.95
+Description: Lamb and Spirach Cooked with Ginger, Garlic, Onion and Spices
+----------------------------
+Item: Lamb Korma
+Price: $19.95
+Description: Lamb Cooked in a Cashew Curry Sauce
+----------------------------
+Item: Lamb Vindaloo
+Price: $19.95
+Description: Lamb Cooked in a Tangy Curry with Potatoes
+----------------------------
+Item: Lamb Khadai
+Price: $19.95
+Description: Lamb Cooked with Onion, Bell Peppers, Ginger and Spices
+----------------------------
+Item: Lamb Kolhapuri
+Price: $19.95
+Description: Lamb Cooked in a Juicy Tamarind Curry with Konkan Spices
+----------------------------
+Item: Lamb Methi
+Price: $19.95
+Description: Lamb Cooked with Garlic and Fenugreek in a Tomato Creamy sauce
+----------------------------
+Item: Lamb Neelgiri
+Price: $19.95
+Description: Lemony Curry with a Heavenly Serving of Fresh Coriander
+----------------------------
+Item: Salmon Red Curry
+Price: $19.95
+Description: Salmon Cooked in a Tangy Southern Curry
+----------------------------
+Item: Prawns Vindaloo
+Price: $19.95
+Description: Prawns Cooked in a Tangy Curry with Potatoes
+----------------------------
+Item: Prawns Masala
+Price: $19.95
+Description: Prawns Cooked in an Onion Tomato Ginger Masala
+----------------------------
+Item: Prawns Coconut Curry
+Price: $19.95
+Description: Prawns Cooked in a Cocunut Curry Sauce
+----------------------------
+Item: Ajwaini fish
+Price: $19.95
+Description: cod cooked in an Ajwain Flavoured Onion Ginger Masala
+----------------------------
+Item: Halibut Coconut Curry
+Price: $22.95
+Description: Halibut Cooked in a Cocunut Curry Sauce
+----------------------------
+Item: Tandoori Roti
+Price: $3.25
+Description: whole Wheat Bread
+----------------------------
+Item: Bran Chappathi
+Price: $3.25
+Description: Fluffy Whole Wheat Bread
+----------------------------
+Item: Paratha
+Price: $4.50
+Description: Whole Wheat Bread Layered with Butter
+----------------------------
+Item: Onion Kulcha
+Price: $4.50
+Description: Naan Stuffed with seasoned Chopped Onion
+----------------------------
+Item: Rumali Roti
+Price: $4.50
+Description: Soft Thin Wheat Bread
+----------------------------
+Item: Keema Naan
+Price: $4.95
+Description: Stuffed with Minced Lamb
+----------------------------
+Item: Peshwari Naan
+Price: $4.95
+Description: Stuffed with Coconut, Cashew and Raisins
+----------------------------
+Item: Alu Paratha
+Price: $4.50
+Description: Stuffed with Seasoned Mashed Potatoes
+----------------------------
+Item: Mushroom Peas Pulao
+Price: $8.95
+Description: Basmati Rice with Mushroom and Green Peas
+----------------------------
+Item: Vegetable Biryani
+Price: $19.95
+Description: Vegetables Cooked with Aromatic Basmati Rice and Spices
+----------------------------
+Item: Chicken Biryani
+Price: $21.95
+Description: Chicken Cooked with Aromatic Basmati Rice and Spices
+----------------------------
+Item: Lamb Biryani
+Price: $23.95
+Description: Lamb Cooked with Aromatic Basmati Rice and Spices
+----------------------------
+Item: Prawn Biryani
+Price: $23.95
+Description: Prawn Cooked with Aromatic Basmati Rice and Spices
+----------------------------
+Item: Coconut Rice
+Price: $8.95
+Description: Basmati Rice with Grated Coconut and Nuts
+----------------------------
+Item: Chef’s Table
+Price: $49.95
+Description: per person (minimum 2 people)
+----------------------------
+Item: Chicken Soup
+Price: $8.95
+Description: Seasoned with Spices and Herbs
+----------------------------
+Item: Lamb Soup
+Price: $8.95
+Description: Seasoned with Spices and Herbs
+----------------------------
+Item: Lentil Spinach Soup
+Price: $8.95
+Description: Tempered with Cumin and Ginger
+----------------------------
+Item: Tomato Soup
+Price: $8.95
+Description: Lemon, Mint, Ginger and Spiced
+----------------------------
+Item: Chicken Masala pakora
+Price: $12.95
+Description: Spice Dusted Chicken Fritters
+----------------------------
+Item: Alu Chaat
+Price: $10.95
+Description: Potato Patties,Mint Tamarind, Yogurt,garbanzo, Crunchies
+----------------------------
+Item: Vegetable Kabab
+Price: $10.95
+Description: Seasoned Minced Vegetable Cutlet
+----------------------------
+Item: Onion Bhaji
+Price: $9.95
+Description: Shaved Onions Seasoned, Chic Pea Batter Fried
+----------------------------
+Item: Vegetable Pakora
+Price: $8.95
+Description: Vegetables, Seasoned, Chic Pea Batter Fried
+----------------------------
+Item: Vegetable Samosa
+Price: $7.95
+Description: Pastry filled with Seasoned Potatoes and Peas
+----------------------------
+Item: Fish Pakora
+Price: $13.95
+Description: Fish Seasoned, Chic Pea Batter Fried
+----------------------------
+Item: Prawn Pakora
+Price: $14.95
+Description: Prawns seasoned, Chic Pea Batter Fried
+----------------------------
+Item: Shami Kabab
+Price: $13.95
+Description: Minced Lamb Lentil Cutlet
+----------------------------
+Item: Channa Saag
+Price: $16.95
+Description: Garbanzo Beans and Spinach Cooked with Ginger, Garlic, Onion and Spices
+----------------------------
+Item: Channa Masala
+Price: $16.95
+Description: Garbanzo Beans Cooked with Ginger, Garlic, Onion and Spices
+----------------------------
+Item: Daal Tadka
+Price: $16.95
+Description: Yellow channa Daal Tempered with Ginger and Spices
+----------------------------
+Item: Daal Makhni
+Price: $16.95
+Description: Black Lentils Cooked with Spices and Herbs
+----------------------------
+Item: Alu Gobhi
+Price: $16.95
+Description: Potatoes and Cauliflower with Cumin, Ginger, Tomatoes and Onion
+----------------------------
+Item: Baingan Bharta
+Price: $17.95
+Description: Smoked Eggplant Cooked with Ginger, Garlic, Tomatoes and Spices
+----------------------------
+Item: Mixed Vegetable Korma
+Price: $17.95
+Description: Assorted Garden Fresh Vegetables in a Mild Cashew Currry
+----------------------------
+Item: Mattar Mushroom
+Price: $16.95
+Description: Curried Peas and Mushrooms
+----------------------------
+Item: Mattar Paneer
+Price: $17.95
+Description: Curried Peas and Cheese
+----------------------------
+Item: Butter Paneer
+Price: $17.95
+Description: Paneer in a Tomato Creamy sauce
+----------------------------
+Item: Saag Paneer
+Price: $17.95
+Description: Spinach and Cheese Cooked with Ginger, Garlic, Onion and Spices
+----------------------------
+Item: Bhindi Do Pyaza
+Price: $17.95
+Description: Lightly Spiced Okra with Ginger, Tomatoes,Lemon and Onion
+----------------------------
+Item: Panir Jalfrazi
+Price: $17.95
+Description: Cooked with Vegetables in a Fenugreek Tomato Sauce
+----------------------------
+Item: Malai Kofta
+Price: $17.95
+Description: Mixed Vegetable Dumpling with Cheese and Raisin Stuffing in a Cashew Curry Sauce
+----------------------------
+Item: Vegetable Neelgiri
+Price: $17.95
+Description: Lemony Curry with a Heavenly Serving of Fresh Coriander
+----------------------------
+Item: Paneer Tikka
+Price: $17.95
+Description: Paneer Marinated and Charbroiled
+----------------------------
+Item: Tandoori Chicken
+Price: $17.95
+Description: Bone in Chicken, Marinated and Charbroiled
+----------------------------
+Item: Chicken Tikka
+Price: $18.95
+Description: Chicken Breast pieces, Marinated and Charbroiled
+----------------------------
+Item: Chicken Malai Kabab
+Price: $18.95
+Description: Lightly Spiced, Cashew Marinade, Charbroiled
+----------------------------
+Item: Lamb Shish Kabab
+Price: $19.95
+Description: Minced Lamb With Onions, and Mint Charbroiled on Skewers
+----------------------------
+Item: Lamb Chops Tikka
+Price: $26.95
+Description: Lamb Chops Marinated and Charbroiled
+----------------------------
+Item: Tandoori Halibut
+Price: $24.95
+Description: Halibut Marinated and Charbroiled
+----------------------------
+Item: Chicken Curry
+Price: $17.95
+Description: Chicken cooked with Ginger, Garlic, Onion, Tomatoes and Spices
+----------------------------
+Item: Butter Chicken
+Price: $18.95
+Description: Chicken cooked in a Tomato creamy Sauce
+----------------------------
+Item: Chicken Vindaloo
+Price: $18.95
+Description: chicken Cooked in an Onion Tomato Tangy Curry with Potatoes
+----------------------------
+Item: Chicken Goa Curry
+Price: $18.95
+Description: Chicken Cooked in a Coconut Curry Sauce
+----------------------------
+Item: Chicken Korma
+Price: $18.95
+Description: Curry Chicken Cooked in a Cashew Curry Sauce
+----------------------------
+Item: Chicken Saag
+Price: $18.95
+Description: Chicken and Spinach cooked with Ginger, Garlic, Onion and Spices
+----------------------------
+Item: Chicken Jalfrazi
+Price: $18.95
+Description: Chicken Cooked with fresh vegetables in a Fenugreek Tomato sauce
+----------------------------
+Item: Chicken Dhansak
+Price: $18.95
+Description: Chicken Cooked with Yellow Lentils, Mild Lemon Spiced
+----------------------------
+Item: Chicken Chettinad
+Price: $18.95
+Description: South Indian Style Spicy Chicken Curry with Rare Spices
+----------------------------
+Item: Chicken Hariyali
+Price: $18.95
+Description: Chicken Simmered in a Mint, Cilantro, Spinach, Ginger Coconut Curry
+----------------------------
+Item: Lamb Curry
+Price: $18.95
+Description: Lamb Cooked with Ginger, Garlic, Onion, Tomatoes and Spices
+----------------------------
+Item: Lamb Saag
+Price: $19.95
+Description: Lamb and Spirach Cooked with Ginger, Garlic, Onion and Spices
+----------------------------
+Item: Lamb Korma
+Price: $19.95
+Description: Lamb Cooked in a Cashew Curry Sauce
+----------------------------
+Item: Lamb Vindaloo
+Price: $19.95
+Description: Lamb Cooked in a Tangy Curry with Potatoes
+----------------------------
+Item: Lamb Khadai
+Price: $19.95
+Description: Lamb Cooked with Onion, Bell Peppers, Ginger and Spices
+----------------------------
+Item: Lamb Kolhapuri
+Price: $19.95
+Description: Lamb Cooked in a Juicy Tamarind Curry with Konkan Spices
+----------------------------
+Item: Lamb Methi
+Price: $19.95
+Description: Lamb Cooked with Garlic and Fenugreek in a Tomato Creamy sauce
+----------------------------
+Item: Lamb Neelgiri
+Price: $19.95
+Description: Lemony Curry with a Heavenly Serving of Fresh Coriander
+----------------------------
+Item: Salmon Red Curry
+Price: $19.95
+Description: Salmon Cooked in a Tangy Southern Curry
+----------------------------
+Item: Prawns Vindaloo
+Price: $19.95
+Description: Prawns Cooked in a Tangy Curry with Potatoes
+----------------------------
+Item: Prawns Masala
+Price: $19.95
+Description: Prawns Cooked in an Onion Tomato Ginger Masala
+----------------------------
+Item: Prawns Coconut Curry
+Price: $19.95
+Description: Prawns Cooked in a Cocunut Curry Sauce
+----------------------------
+Item: Ajwaini fish
+Price: $19.95
+Description: cod cooked in an Ajwain Flavoured Onion Ginger Masala
+----------------------------
+Item: Halibut Coconut Curry
+Price: $22.95
+Description: Halibut Cooked in a Cocunut Curry Sauce
+----------------------------
+Item: Tandoori Roti
+Price: $3.25
+Description: whole Wheat Bread
+----------------------------
+Item: Bran Chappathi
+Price: $3.25
+Description: Fluffy Whole Wheat Bread
+----------------------------
+Item: Paratha
+Price: $4.50
+Description: Whole Wheat Bread Layered with Butter
+----------------------------
+Item: Onion Kulcha
+Price: $4.50
+Description: Naan Stuffed with seasoned Chopped Onion
+----------------------------
+Item: Rumali Roti
+Price: $4.50
+Description: Soft Thin Wheat Bread
+----------------------------
+Item: Keema Naan
+Price: $4.95
+Description: Stuffed with Minced Lamb
+----------------------------
+Item: Peshwari Naan
+Price: $4.95
+Description: Stuffed with Coconut, Cashew and Raisins
+----------------------------
+Item: Alu Paratha
+Price: $4.50
+Description: Stuffed with Seasoned Mashed Potatoes
+----------------------------
+Item: Mushroom Peas Pulao
+Price: $8.95
+Description: Basmati Rice with Mushroom and Green Peas
+----------------------------
+Item: Vegetable Biryani
+Price: $19.95
+Description: Vegetables Cooked with Aromatic Basmati Rice and Spices
+----------------------------
+Item: Chicken Biryani
+Price: $21.95
+Description: Chicken Cooked with Aromatic Basmati Rice and Spices
+----------------------------
+Item: Lamb Biryani
+Price: $23.95
+Description: Lamb Cooked with Aromatic Basmati Rice and Spices
+----------------------------
+Item: Prawn Biryani
+Price: $23.95
+Description: Prawn Cooked with Aromatic Basmati Rice and Spices
+----------------------------
+Item: Coconut Rice
+Price: $8.95
+Description: Basmati Rice with Grated Coconut and Nuts
+----------------------------
+Item: Chef’s Table
+Price: $49.95
+Description: per person (minimum 2 people)
+----------------------------
+Item: Chicken Soup
+Price: $8.95
+Description: Seasoned with Spices and Herbs
+----------------------------
+Item: Lamb Soup
+Price: $8.95
+Description: Seasoned with Spices and Herbs
+----------------------------
+Item: Lentil Spinach Soup
+Price: $8.95
+Description: Tempered with Cumin and Ginger
+----------------------------
+Item: Tomato Soup
+Price: $8.95
+Description: Lemon, Mint, Ginger and Spiced
+----------------------------
+Item: Chicken Masala pakora
+Price: $12.95
+Description: Spice Dusted Chicken Fritters
+----------------------------
+Item: Alu Chaat
+Price: $10.95
+Description: Potato Patties,Mint Tamarind, Yogurt,garbanzo, Crunchies
+----------------------------
+Item: Vegetable Kabab
+Price: $10.95
+Description: Seasoned Minced Vegetable Cutlet
+----------------------------
+Item: Onion Bhaji
+Price: $9.95
+Description: Shaved Onions Seasoned, Chic Pea Batter Fried
+----------------------------
+Item: Vegetable Pakora
+Price: $8.95
+Description: Vegetables, Seasoned, Chic Pea Batter Fried
+----------------------------
+Item: Vegetable Samosa
+Price: $7.95
+Description: Pastry filled with Seasoned Potatoes and Peas
+----------------------------
+Item: Fish Pakora
+Price: $13.95
+Description: Fish Seasoned, Chic Pea Batter Fried
+----------------------------
+Item: Prawn Pakora
+Price: $14.95
+Description: Prawns seasoned, Chic Pea Batter Fried
+----------------------------
+Item: Shami Kabab
+Price: $13.95
+Description: Minced Lamb Lentil Cutlet
+----------------------------
+Item: Channa Saag
+Price: $16.95
+Description: Garbanzo Beans and Spinach Cooked with Ginger, Garlic, Onion and Spices
+----------------------------
+Item: Channa Masala
+Price: $16.95
+Description: Garbanzo Beans Cooked with Ginger, Garlic, Onion and Spices
+----------------------------
+Item: Daal Tadka
+Price: $16.95
+Description: Yellow channa Daal Tempered with Ginger and Spices
+----------------------------
+Item: Daal Makhni
+Price: $16.95
+Description: Black Lentils Cooked with Spices and Herbs
+----------------------------
+Item: Alu Gobhi
+Price: $16.95
+Description: Potatoes and Cauliflower with Cumin, Ginger, Tomatoes and Onion
+----------------------------
+Item: Baingan Bharta
+Price: $17.95
+Description: Smoked Eggplant Cooked with Ginger, Garlic, Tomatoes and Spices
+----------------------------
+Item: Mixed Vegetable Korma
+Price: $17.95
+Description: Assorted Garden Fresh Vegetables in a Mild Cashew Currry
+----------------------------
+Item: Mattar Mushroom
+Price: $16.95
+Description: Curried Peas and Mushrooms
+----------------------------
+Item: Mattar Paneer
+Price: $17.95
+Description: Curried Peas and Cheese
+----------------------------
+Item: Butter Paneer
+Price: $17.95
+Description: Paneer in a Tomato Creamy sauce
+----------------------------
+Item: Saag Paneer
+Price: $17.95
+Description: Spinach and Cheese Cooked with Ginger, Garlic, Onion and Spices
+----------------------------
+Item: Bhindi Do Pyaza
+Price: $17.95
+Description: Lightly Spiced Okra with Ginger, Tomatoes,Lemon and Onion
+----------------------------
+Item: Panir Jalfrazi
+Price: $17.95
+Description: Cooked with Vegetables in a Fenugreek Tomato Sauce
+----------------------------
+Item: Malai Kofta
+Price: $17.95
+Description: Mixed Vegetable Dumpling with Cheese and Raisin Stuffing in a Cashew Curry Sauce
+----------------------------
+Item: Vegetable Neelgiri
+Price: $17.95
+Description: Lemony Curry with a Heavenly Serving of Fresh Coriander
+----------------------------
+Item: Paneer Tikka
+Price: $17.95
+Description: Paneer Marinated and Charbroiled
+----------------------------
+Item: Tandoori Chicken
+Price: $17.95
+Description: Bone in Chicken, Marinated and Charbroiled
+----------------------------
+Item: Chicken Tikka
+Price: $18.95
+Description: Chicken Breast pieces, Marinated and Charbroiled
+----------------------------
+Item: Chicken Malai Kabab
+Price: $18.95
+Description: Lightly Spiced, Cashew Marinade, Charbroiled
+----------------------------
+Item: Lamb Shish Kabab
+Price: $19.95
+Description: Minced Lamb With Onions, and Mint Charbroiled on Skewers
+----------------------------
+Item: Lamb Chops Tikka
+Price: $26.95
+Description: Lamb Chops Marinated and Charbroiled
+----------------------------
+Item: Tandoori Halibut
+Price: $24.95
+Description: Halibut Marinated and Charbroiled
+----------------------------
+Item: Chicken Curry
+Price: $17.95
+Description: Chicken cooked with Ginger, Garlic, Onion, Tomatoes and Spices
+----------------------------
+Item: Butter Chicken
+Price: $18.95
+Description: Chicken cooked in a Tomato creamy Sauce
+----------------------------
+Item: Chicken Vindaloo
+Price: $18.95
+Description: chicken Cooked in an Onion Tomato Tangy Curry with Potatoes
+----------------------------
+Item: Chicken Goa Curry
+Price: $18.95
+Description: Chicken Cooked in a Coconut Curry Sauce
+----------------------------
+Item: Chicken Korma
+Price: $18.95
+Description: Curry Chicken Cooked in a Cashew Curry Sauce
+----------------------------
+Item: Chicken Saag
+Price: $18.95
+Description: Chicken and Spinach cooked with Ginger, Garlic, Onion and Spices
+----------------------------
+Item: Chicken Jalfrazi
+Price: $18.95
+Description: Chicken Cooked with fresh vegetables in a Fenugreek Tomato sauce
+----------------------------
+Item: Chicken Dhansak
+Price: $18.95
+Description: Chicken Cooked with Yellow Lentils, Mild Lemon Spiced
+----------------------------
+Item: Chicken Chettinad
+Price: $18.95
+Description: South Indian Style Spicy Chicken Curry with Rare Spices
+----------------------------
+Item: Chicken Hariyali
+Price: $18.95
+Description: Chicken Simmered in a Mint, Cilantro, Spinach, Ginger Coconut Curry
+----------------------------
+Item: Lamb Curry
+Price: $18.95
+Description: Lamb Cooked with Ginger, Garlic, Onion, Tomatoes and Spices
+----------------------------
+Item: Lamb Saag
+Price: $19.95
+Description: Lamb and Spirach Cooked with Ginger, Garlic, Onion and Spices
+----------------------------
+Item: Lamb Korma
+Price: $19.95
+Description: Lamb Cooked in a Cashew Curry Sauce
+----------------------------
+Item: Lamb Vindaloo
+Price: $19.95
+Description: Lamb Cooked in a Tangy Curry with Potatoes
+----------------------------
+Item: Lamb Khadai
+Price: $19.95
+Description: Lamb Cooked with Onion, Bell Peppers, Ginger and Spices
+----------------------------
+Item: Lamb Kolhapuri
+Price: $19.95
+Description: Lamb Cooked in a Juicy Tamarind Curry with Konkan Spices
+----------------------------
+Item: Lamb Methi
+Price: $19.95
+Description: Lamb Cooked with Garlic and Fenugreek in a Tomato Creamy sauce
+----------------------------
+Item: Lamb Neelgiri
+Price: $19.95
+Description: Lemony Curry with a Heavenly Serving of Fresh Coriander
+----------------------------
+Item: Salmon Red Curry
+Price: $19.95
+Description: Salmon Cooked in a Tangy Southern Curry
+----------------------------
+Item: Prawns Vindaloo
+Price: $19.95
+Description: Prawns Cooked in a Tangy Curry with Potatoes
+----------------------------
+Item: Prawns Masala
+Price: $19.95
+Description: Prawns Cooked in an Onion Tomato Ginger Masala
+----------------------------
+Item: Prawns Coconut Curry
+Price: $19.95
+Description: Prawns Cooked in a Cocunut Curry Sauce
+----------------------------
+Item: Ajwaini fish
+Price: $19.95
+Description: cod cooked in an Ajwain Flavoured Onion Ginger Masala
+----------------------------
+Item: Halibut Coconut Curry
+Price: $22.95
+Description: Halibut Cooked in a Cocunut Curry Sauce
+----------------------------
+Item: Tandoori Roti
+Price: $3.25
+Description: whole Wheat Bread
+----------------------------
+Item: Bran Chappathi
+Price: $3.25
+Description: Fluffy Whole Wheat Bread
+----------------------------
+Item: Paratha
+Price: $4.50
+Description: Whole Wheat Bread Layered with Butter
+----------------------------
+Item: Onion Kulcha
+Price: $4.50
+Description: Naan Stuffed with seasoned Chopped Onion
+----------------------------
+Item: Rumali Roti
+Price: $4.50
+Description: Soft Thin Wheat Bread
+----------------------------
+Item: Keema Naan
+Price: $4.95
+Description: Stuffed with Minced Lamb
+----------------------------
+Item: Peshwari Naan
+Price: $4.95
+Description: Stuffed with Coconut, Cashew and Raisins
+----------------------------
+Item: Alu Paratha
+Price: $4.50
+Description: Stuffed with Seasoned Mashed Potatoes
+----------------------------
+Item: Mushroom Peas Pulao
+Price: $8.95
+Description: Basmati Rice with Mushroom and Green Peas
+----------------------------
+Item: Vegetable Biryani
+Price: $19.95
+Description: Vegetables Cooked with Aromatic Basmati Rice and Spices
+----------------------------
+Item: Chicken Biryani
+Price: $21.95
+Description: Chicken Cooked with Aromatic Basmati Rice and Spices
+----------------------------
+Item: Lamb Biryani
+Price: $23.95
+Description: Lamb Cooked with Aromatic Basmati Rice and Spices
+----------------------------
+Item: Prawn Biryani
+Price: $23.95
+Description: Prawn Cooked with Aromatic Basmati Rice and Spices
+----------------------------
+Item: Coconut Rice
+Price: $8.95
+Description: Basmati Rice with Grated Coconut and Nuts
+----------------------------
+Item: Chef’s Table
+Price: $49.95
+Description: per person (minimum 2 people)
+----------------------------
+Item: Chicken Soup
+Price: $8.95
+Description: Seasoned with Spices and Herbs
+----------------------------
+Item: Lamb Soup
+Price: $8.95
+Description: Seasoned with Spices and Herbs
+----------------------------
+Item: Lentil Spinach Soup
+Price: $8.95
+Description: Tempered with Cumin and Ginger
+----------------------------
+Item: Tomato Soup
+Price: $8.95
+Description: Lemon, Mint, Ginger and Spiced
+----------------------------
+Item: Chicken Masala pakora
+Price: $12.95
+Description: Spice Dusted Chicken Fritters
+----------------------------
+Item: Alu Chaat
+Price: $10.95
+Description: Potato Patties,Mint Tamarind, Yogurt,garbanzo, Crunchies
+----------------------------
+Item: Vegetable Kabab
+Price: $10.95
+Description: Seasoned Minced Vegetable Cutlet
+----------------------------
+Item: Onion Bhaji
+Price: $9.95
+Description: Shaved Onions Seasoned, Chic Pea Batter Fried
+----------------------------
+Item: Vegetable Pakora
+Price: $8.95
+Description: Vegetables, Seasoned, Chic Pea Batter Fried
+----------------------------
+Item: Vegetable Samosa
+Price: $7.95
+Description: Pastry filled with Seasoned Potatoes and Peas
+----------------------------
+Item: Fish Pakora
+Price: $13.95
+Description: Fish Seasoned, Chic Pea Batter Fried
+----------------------------
+Item: Prawn Pakora
+Price: $14.95
+Description: Prawns seasoned, Chic Pea Batter Fried
+----------------------------
+Item: Shami Kabab
+Price: $13.95
+Description: Minced Lamb Lentil Cutlet
+----------------------------
+Item: Channa Saag
+Price: $16.95
+Description: Garbanzo Beans and Spinach Cooked with Ginger, Garlic, Onion and Spices
+----------------------------
+Item: Channa Masala
+Price: $16.95
+Description: Garbanzo Beans Cooked with Ginger, Garlic, Onion and Spices
+----------------------------
+Item: Daal Tadka
+Price: $16.95
+Description: Yellow channa Daal Tempered with Ginger and Spices
+----------------------------
+Item: Daal Makhni
+Price: $16.95
+Description: Black Lentils Cooked with Spices and Herbs
+----------------------------
+Item: Alu Gobhi
+Price: $16.95
+Description: Potatoes and Cauliflower with Cumin, Ginger, Tomatoes and Onion
+----------------------------
+Item: Baingan Bharta
+Price: $17.95
+Description: Smoked Eggplant Cooked with Ginger, Garlic, Tomatoes and Spices
+----------------------------
+Item: Mixed Vegetable Korma
+Price: $17.95
+Description: Assorted Garden Fresh Vegetables in a Mild Cashew Currry
+----------------------------
+Item: Mattar Mushroom
+Price: $16.95
+Description: Curried Peas and Mushrooms
+----------------------------
+Item: Mattar Paneer
+Price: $17.95
+Description: Curried Peas and Cheese
+----------------------------
+Item: Butter Paneer
+Price: $17.95
+Description: Paneer in a Tomato Creamy sauce
+----------------------------
+Item: Saag Paneer
+Price: $17.95
+Description: Spinach and Cheese Cooked with Ginger, Garlic, Onion and Spices
+----------------------------
+Item: Bhindi Do Pyaza
+Price: $17.95
+Description: Lightly Spiced Okra with Ginger, Tomatoes,Lemon and Onion
+----------------------------
+Item: Panir Jalfrazi
+Price: $17.95
+Description: Cooked with Vegetables in a Fenugreek Tomato Sauce
+----------------------------
+Item: Malai Kofta
+Price: $17.95
+Description: Mixed Vegetable Dumpling with Cheese and Raisin Stuffing in a Cashew Curry Sauce
+----------------------------
+Item: Vegetable Neelgiri
+Price: $17.95
+Description: Lemony Curry with a Heavenly Serving of Fresh Coriander
+----------------------------
+Item: Paneer Tikka
+Price: $17.95
+Description: Paneer Marinated and Charbroiled
+----------------------------
+Item: Tandoori Chicken
+Price: $17.95
+Description: Bone in Chicken, Marinated and Charbroiled
+----------------------------
+Item: Chicken Tikka
+Price: $18.95
+Description: Chicken Breast pieces, Marinated and Charbroiled
+----------------------------
+Item: Chicken Malai Kabab
+Price: $18.95
+Description: Lightly Spiced, Cashew Marinade, Charbroiled
+----------------------------
+Item: Lamb Shish Kabab
+Price: $19.95
+Description: Minced Lamb With Onions, and Mint Charbroiled on Skewers
+----------------------------
+Item: Lamb Chops Tikka
+Price: $26.95
+Description: Lamb Chops Marinated and Charbroiled
+----------------------------
+Item: Tandoori Halibut
+Price: $24.95
+Description: Halibut Marinated and Charbroiled
+----------------------------
+Item: Chicken Curry
+Price: $17.95
+Description: Chicken cooked with Ginger, Garlic, Onion, Tomatoes and Spices
+----------------------------
+Item: Butter Chicken
+Price: $18.95
+Description: Chicken cooked in a Tomato creamy Sauce
+----------------------------
+Item: Chicken Vindaloo
+Price: $18.95
+Description: chicken Cooked in an Onion Tomato Tangy Curry with Potatoes
+----------------------------
+Item: Chicken Goa Curry
+Price: $18.95
+Description: Chicken Cooked in a Coconut Curry Sauce
+----------------------------
+Item: Chicken Korma
+Price: $18.95
+Description: Curry Chicken Cooked in a Cashew Curry Sauce
+----------------------------
+Item: Chicken Saag
+Price: $18.95
+Description: Chicken and Spinach cooked with Ginger, Garlic, Onion and Spices
+----------------------------
+Item: Chicken Jalfrazi
+Price: $18.95
+Description: Chicken Cooked with fresh vegetables in a Fenugreek Tomato sauce
+----------------------------
+Item: Chicken Dhansak
+Price: $18.95
+Description: Chicken Cooked with Yellow Lentils, Mild Lemon Spiced
+----------------------------
+Item: Chicken Chettinad
+Price: $18.95
+Description: South Indian Style Spicy Chicken Curry with Rare Spices
+----------------------------
+Item: Chicken Hariyali
+Price: $18.95
+Description: Chicken Simmered in a Mint, Cilantro, Spinach, Ginger Coconut Curry
+----------------------------
+Item: Lamb Curry
+Price: $18.95
+Description: Lamb Cooked with Ginger, Garlic, Onion, Tomatoes and Spices
+----------------------------
+Item: Lamb Saag
+Price: $19.95
+Description: Lamb and Spirach Cooked with Ginger, Garlic, Onion and Spices
+----------------------------
+Item: Lamb Korma
+Price: $19.95
+Description: Lamb Cooked in a Cashew Curry Sauce
+----------------------------
+Item: Lamb Vindaloo
+Price: $19.95
+Description: Lamb Cooked in a Tangy Curry with Potatoes
+----------------------------
+Item: Lamb Khadai
+Price: $19.95
+Description: Lamb Cooked with Onion, Bell Peppers, Ginger and Spices
+----------------------------
+Item: Lamb Kolhapuri
+Price: $19.95
+Description: Lamb Cooked in a Juicy Tamarind Curry with Konkan Spices
+----------------------------
+Item: Lamb Methi
+Price: $19.95
+Description: Lamb Cooked with Garlic and Fenugreek in a Tomato Creamy sauce
+----------------------------
+Item: Lamb Neelgiri
+Price: $19.95
+Description: Lemony Curry with a Heavenly Serving of Fresh Coriander
+----------------------------
+Item: Salmon Red Curry
+Price: $19.95
+Description: Salmon Cooked in a Tangy Southern Curry
+----------------------------
+Item: Prawns Vindaloo
+Price: $19.95
+Description: Prawns Cooked in a Tangy Curry with Potatoes
+----------------------------
+Item: Prawns Masala
+Price: $19.95
+Description: Prawns Cooked in an Onion Tomato Ginger Masala
+----------------------------
+Item: Prawns Coconut Curry
+Price: $19.95
+Description: Prawns Cooked in a Cocunut Curry Sauce
+----------------------------
+Item: Ajwaini fish
+Price: $19.95
+Description: cod cooked in an Ajwain Flavoured Onion Ginger Masala
+----------------------------
+Item: Halibut Coconut Curry
+Price: $22.95
+Description: Halibut Cooked in a Cocunut Curry Sauce
+----------------------------
+Item: Tandoori Roti
+Price: $3.25
+Description: whole Wheat Bread
+----------------------------
+Item: Bran Chappathi
+Price: $3.25
+Description: Fluffy Whole Wheat Bread
+----------------------------
+Item: Paratha
+Price: $4.50
+Description: Whole Wheat Bread Layered with Butter
+----------------------------
+Item: Onion Kulcha
+Price: $4.50
+Description: Naan Stuffed with seasoned Chopped Onion
+----------------------------
+Item: Rumali Roti
+Price: $4.50
+Description: Soft Thin Wheat Bread
+----------------------------
+Item: Keema Naan
+Price: $4.95
+Description: Stuffed with Minced Lamb
+----------------------------
+Item: Peshwari Naan
+Price: $4.95
+Description: Stuffed with Coconut, Cashew and Raisins
+----------------------------
+Item: Alu Paratha
+Price: $4.50
+Description: Stuffed with Seasoned Mashed Potatoes
+----------------------------
+Item: Mushroom Peas Pulao
+Price: $8.95
+Description: Basmati Rice with Mushroom and Green Peas
+----------------------------
+Item: Vegetable Biryani
+Price: $19.95
+Description: Vegetables Cooked with Aromatic Basmati Rice and Spices
+----------------------------
+Item: Chicken Biryani
+Price: $21.95
+Description: Chicken Cooked with Aromatic Basmati Rice and Spices
+----------------------------
+Item: Lamb Biryani
+Price: $23.95
+Description: Lamb Cooked with Aromatic Basmati Rice and Spices
+----------------------------
+Item: Prawn Biryani
+Price: $23.95
+Description: Prawn Cooked with Aromatic Basmati Rice and Spices
+----------------------------
+Item: Coconut Rice
+Price: $8.95
+Description: Basmati Rice with Grated Coconut and Nuts
+----------------------------
+Item: Chef’s Table
+Price: $49.95
+Description: per person (minimum 2 people)
+----------------------------
+Item: Chicken Soup
+Price: $8.95
+Description: Seasoned with Spices and Herbs
+----------------------------
+Item: Lamb Soup
+Price: $8.95
+Description: Seasoned with Spices and Herbs
+----------------------------
+Item: Lentil Spinach Soup
+Price: $8.95
+Description: Tempered with Cumin and Ginger
+----------------------------
+Item: Tomato Soup
+Price: $8.95
+Description: Lemon, Mint, Ginger and Spiced
+----------------------------
+Item: Chicken Masala pakora
+Price: $12.95
+Description: Spice Dusted Chicken Fritters
+----------------------------
+Item: Alu Chaat
+Price: $10.95
+Description: Potato Patties,Mint Tamarind, Yogurt,garbanzo, Crunchies
+----------------------------
+Item: Vegetable Kabab
+Price: $10.95
+Description: Seasoned Minced Vegetable Cutlet
+----------------------------
+Item: Onion Bhaji
+Price: $9.95
+Description: Shaved Onions Seasoned, Chic Pea Batter Fried
+----------------------------
+Item: Vegetable Pakora
+Price: $8.95
+Description: Vegetables, Seasoned, Chic Pea Batter Fried
+----------------------------
+Item: Vegetable Samosa
+Price: $7.95
+Description: Pastry filled with Seasoned Potatoes and Peas
+----------------------------
+Item: Fish Pakora
+Price: $13.95
+Description: Fish Seasoned, Chic Pea Batter Fried
+----------------------------
+Item: Prawn Pakora
+Price: $14.95
+Description: Prawns seasoned, Chic Pea Batter Fried
+----------------------------
+Item: Shami Kabab
+Price: $13.95
+Description: Minced Lamb Lentil Cutlet
+----------------------------
+Item: Channa Saag
+Price: $16.95
+Description: Garbanzo Beans and Spinach Cooked with Ginger, Garlic, Onion and Spices
+----------------------------
+Item: Channa Masala
+Price: $16.95
+Description: Garbanzo Beans Cooked with Ginger, Garlic, Onion and Spices
+----------------------------
+Item: Daal Tadka
+Price: $16.95
+Description: Yellow channa Daal Tempered with Ginger and Spices
+----------------------------
+Item: Daal Makhni
+Price: $16.95
+Description: Black Lentils Cooked with Spices and Herbs
+----------------------------
+Item: Alu Gobhi
+Price: $16.95
+Description: Potatoes and Cauliflower with Cumin, Ginger, Tomatoes and Onion
+----------------------------
+Item: Baingan Bharta
+Price: $17.95
+Description: Smoked Eggplant Cooked with Ginger, Garlic, Tomatoes and Spices
+----------------------------
+Item: Mixed Vegetable Korma
+Price: $17.95
+Description: Assorted Garden Fresh Vegetables in a Mild Cashew Currry
+----------------------------
+Item: Mattar Mushroom
+Price: $16.95
+Description: Curried Peas and Mushrooms
+----------------------------
+Item: Mattar Paneer
+Price: $17.95
+Description: Curried Peas and Cheese
+----------------------------
+Item: Butter Paneer
+Price: $17.95
+Description: Paneer in a Tomato Creamy sauce
+----------------------------
+Item: Saag Paneer
+Price: $17.95
+Description: Spinach and Cheese Cooked with Ginger, Garlic, Onion and Spices
+----------------------------
+Item: Bhindi Do Pyaza
+Price: $17.95
+Description: Lightly Spiced Okra with Ginger, Tomatoes,Lemon and Onion
+----------------------------
+Item: Panir Jalfrazi
+Price: $17.95
+Description: Cooked with Vegetables in a Fenugreek Tomato Sauce
+----------------------------
+Item: Malai Kofta
+Price: $17.95
+Description: Mixed Vegetable Dumpling with Cheese and Raisin Stuffing in a Cashew Curry Sauce
+----------------------------
+Item: Vegetable Neelgiri
+Price: $17.95
+Description: Lemony Curry with a Heavenly Serving of Fresh Coriander
+----------------------------
+Item: Paneer Tikka
+Price: $17.95
+Description: Paneer Marinated and Charbroiled
+----------------------------
+Item: Tandoori Chicken
+Price: $17.95
+Description: Bone in Chicken, Marinated and Charbroiled
+----------------------------
+Item: Chicken Tikka
+Price: $18.95
+Description: Chicken Breast pieces, Marinated and Charbroiled
+----------------------------
+Item: Chicken Malai Kabab
+Price: $18.95
+Description: Lightly Spiced, Cashew Marinade, Charbroiled
+----------------------------
+Item: Lamb Shish Kabab
+Price: $19.95
+Description: Minced Lamb With Onions, and Mint Charbroiled on Skewers
+----------------------------
+Item: Lamb Chops Tikka
+Price: $26.95
+Description: Lamb Chops Marinated and Charbroiled
+----------------------------
+Item: Tandoori Halibut
+Price: $24.95
+Description: Halibut Marinated and Charbroiled
+----------------------------
+Item: Chicken Curry
+Price: $17.95
+Description: Chicken cooked with Ginger, Garlic, Onion, Tomatoes and Spices
+----------------------------
+Item: Butter Chicken
+Price: $18.95
+Description: Chicken cooked in a Tomato creamy Sauce
+----------------------------
+Item: Chicken Vindaloo
+Price: $18.95
+Description: chicken Cooked in an Onion Tomato Tangy Curry with Potatoes
+----------------------------
+Item: Chicken Goa Curry
+Price: $18.95
+Description: Chicken Cooked in a Coconut Curry Sauce
+----------------------------
+Item: Chicken Korma
+Price: $18.95
+Description: Curry Chicken Cooked in a Cashew Curry Sauce
+----------------------------
+Item: Chicken Saag
+Price: $18.95
+Description: Chicken and Spinach cooked with Ginger, Garlic, Onion and Spices
+----------------------------
+Item: Chicken Jalfrazi
+Price: $18.95
+Description: Chicken Cooked with fresh vegetables in a Fenugreek Tomato sauce
+----------------------------
+Item: Chicken Dhansak
+Price: $18.95
+Description: Chicken Cooked with Yellow Lentils, Mild Lemon Spiced
+----------------------------
+Item: Chicken Chettinad
+Price: $18.95
+Description: South Indian Style Spicy Chicken Curry with Rare Spices
+----------------------------
+Item: Chicken Hariyali
+Price: $18.95
+Description: Chicken Simmered in a Mint, Cilantro, Spinach, Ginger Coconut Curry
+----------------------------
+Item: Lamb Curry
+Price: $18.95
+Description: Lamb Cooked with Ginger, Garlic, Onion, Tomatoes and Spices
+----------------------------
+Item: Lamb Saag
+Price: $19.95
+Description: Lamb and Spirach Cooked with Ginger, Garlic, Onion and Spices
+----------------------------
+Item: Lamb Korma
+Price: $19.95
+Description: Lamb Cooked in a Cashew Curry Sauce
+----------------------------
+Item: Lamb Vindaloo
+Price: $19.95
+Description: Lamb Cooked in a Tangy Curry with Potatoes
+----------------------------
+Item: Lamb Khadai
+Price: $19.95
+Description: Lamb Cooked with Onion, Bell Peppers, Ginger and Spices
+----------------------------
+Item: Lamb Kolhapuri
+Price: $19.95
+Description: Lamb Cooked in a Juicy Tamarind Curry with Konkan Spices
+----------------------------
+Item: Lamb Methi
+Price: $19.95
+Description: Lamb Cooked with Garlic and Fenugreek in a Tomato Creamy sauce
+----------------------------
+Item: Lamb Neelgiri
+Price: $19.95
+Description: Lemony Curry with a Heavenly Serving of Fresh Coriander
+----------------------------
+Item: Salmon Red Curry
+Price: $19.95
+Description: Salmon Cooked in a Tangy Southern Curry
+----------------------------
+Item: Prawns Vindaloo
+Price: $19.95
+Description: Prawns Cooked in a Tangy Curry with Potatoes
+----------------------------
+Item: Prawns Masala
+Price: $19.95
+Description: Prawns Cooked in an Onion Tomato Ginger Masala
+----------------------------
+Item: Prawns Coconut Curry
+Price: $19.95
+Description: Prawns Cooked in a Cocunut Curry Sauce
+----------------------------
+Item: Ajwaini fish
+Price: $19.95
+Description: cod cooked in an Ajwain Flavoured Onion Ginger Masala
+----------------------------
+Item: Halibut Coconut Curry
+Price: $22.95
+Description: Halibut Cooked in a Cocunut Curry Sauce
+----------------------------
+Item: Tandoori Roti
+Price: $3.25
+Description: whole Wheat Bread
+----------------------------
+Item: Bran Chappathi
+Price: $3.25
+Description: Fluffy Whole Wheat Bread
+----------------------------
+Item: Paratha
+Price: $4.50
+Description: Whole Wheat Bread Layered with Butter
+----------------------------
+Item: Onion Kulcha
+Price: $4.50
+Description: Naan Stuffed with seasoned Chopped Onion
+----------------------------
+Item: Rumali Roti
+Price: $4.50
+Description: Soft Thin Wheat Bread
+----------------------------
+Item: Keema Naan
+Price: $4.95
+Description: Stuffed with Minced Lamb
+----------------------------
+Item: Peshwari Naan
+Price: $4.95
+Description: Stuffed with Coconut, Cashew and Raisins
+----------------------------
+Item: Alu Paratha
+Price: $4.50
+Description: Stuffed with Seasoned Mashed Potatoes
+----------------------------
+Item: Mushroom Peas Pulao
+Price: $8.95
+Description: Basmati Rice with Mushroom and Green Peas
+----------------------------
+Item: Vegetable Biryani
+Price: $19.95
+Description: Vegetables Cooked with Aromatic Basmati Rice and Spices
+----------------------------
+Item: Chicken Biryani
+Price: $21.95
+Description: Chicken Cooked with Aromatic Basmati Rice and Spices
+----------------------------
+Item: Lamb Biryani
+Price: $23.95
+Description: Lamb Cooked with Aromatic Basmati Rice and Spices
+----------------------------
+Item: Prawn Biryani
+Price: $23.95
+Description: Prawn Cooked with Aromatic Basmati Rice and Spices
+----------------------------
+Item: Coconut Rice
+Price: $8.95
+Description: Basmati Rice with Grated Coconut and Nuts
+----------------------------
+Item: Chef’s Table
+Price: $49.95
+Description: per person (minimum 2 people)
+----------------------------
+Item: Chicken Soup
+Price: $8.95
+Description: Seasoned with Spices and Herbs
+----------------------------
+Item: Lamb Soup
+Price: $8.95
+Description: Seasoned with Spices and Herbs
+----------------------------
+Item: Lentil Spinach Soup
+Price: $8.95
+Description: Tempered with Cumin and Ginger
+----------------------------
+Item: Tomato Soup
+Price: $8.95
+Description: Lemon, Mint, Ginger and Spiced
+----------------------------
+Item: Chicken Masala pakora
+Price: $12.95
+Description: Spice Dusted Chicken Fritters
+----------------------------
+Item: Alu Chaat
+Price: $10.95
+Description: Potato Patties,Mint Tamarind, Yogurt,garbanzo, Crunchies
+----------------------------
+Item: Vegetable Kabab
+Price: $10.95
+Description: Seasoned Minced Vegetable Cutlet
+----------------------------
+Item: Onion Bhaji
+Price: $9.95
+Description: Shaved Onions Seasoned, Chic Pea Batter Fried
+----------------------------
+Item: Vegetable Pakora
+Price: $8.95
+Description: Vegetables, Seasoned, Chic Pea Batter Fried
+----------------------------
+Item: Vegetable Samosa
+Price: $7.95
+Description: Pastry filled with Seasoned Potatoes and Peas
+----------------------------
+Item: Fish Pakora
+Price: $13.95
+Description: Fish Seasoned, Chic Pea Batter Fried
+----------------------------
+Item: Prawn Pakora
+Price: $14.95
+Description: Prawns seasoned, Chic Pea Batter Fried
+----------------------------
+Item: Shami Kabab
+Price: $13.95
+Description: Minced Lamb Lentil Cutlet
+----------------------------
+Item: Channa Saag
+Price: $16.95
+Description: Garbanzo Beans and Spinach Cooked with Ginger, Garlic, Onion and Spices
+----------------------------
+Item: Channa Masala
+Price: $16.95
+Description: Garbanzo Beans Cooked with Ginger, Garlic, Onion and Spices
+----------------------------
+Item: Daal Tadka
+Price: $16.95
+Description: Yellow channa Daal Tempered with Ginger and Spices
+----------------------------
+Item: Daal Makhni
+Price: $16.95
+Description: Black Lentils Cooked with Spices and Herbs
+----------------------------
+Item: Alu Gobhi
+Price: $16.95
+Description: Potatoes and Cauliflower with Cumin, Ginger, Tomatoes and Onion
+----------------------------
+Item: Baingan Bharta
+Price: $17.95
+Description: Smoked Eggplant Cooked with Ginger, Garlic, Tomatoes and Spices
+----------------------------
+Item: Mixed Vegetable Korma
+Price: $17.95
+Description: Assorted Garden Fresh Vegetables in a Mild Cashew Currry
+----------------------------
+Item: Mattar Mushroom
+Price: $16.95
+Description: Curried Peas and Mushrooms
+----------------------------
+Item: Mattar Paneer
+Price: $17.95
+Description: Curried Peas and Cheese
+----------------------------
+Item: Butter Paneer
+Price: $17.95
+Description: Paneer in a Tomato Creamy sauce
+----------------------------
+Item: Saag Paneer
+Price: $17.95
+Description: Spinach and Cheese Cooked with Ginger, Garlic, Onion and Spices
+----------------------------
+Item: Bhindi Do Pyaza
+Price: $17.95
+Description: Lightly Spiced Okra with Ginger, Tomatoes,Lemon and Onion
+----------------------------
+Item: Panir Jalfrazi
+Price: $17.95
+Description: Cooked with Vegetables in a Fenugreek Tomato Sauce
+----------------------------
+Item: Malai Kofta
+Price: $17.95
+Description: Mixed Vegetable Dumpling with Cheese and Raisin Stuffing in a Cashew Curry Sauce
+----------------------------
+Item: Vegetable Neelgiri
+Price: $17.95
+Description: Lemony Curry with a Heavenly Serving of Fresh Coriander
+----------------------------
+Item: Paneer Tikka
+Price: $17.95
+Description: Paneer Marinated and Charbroiled
+----------------------------
+Item: Tandoori Chicken
+Price: $17.95
+Description: Bone in Chicken, Marinated and Charbroiled
+----------------------------
+Item: Chicken Tikka
+Price: $18.95
+Description: Chicken Breast pieces, Marinated and Charbroiled
+----------------------------
+Item: Chicken Malai Kabab
+Price: $18.95
+Description: Lightly Spiced, Cashew Marinade, Charbroiled
+----------------------------
+Item: Lamb Shish Kabab
+Price: $19.95
+Description: Minced Lamb With Onions, and Mint Charbroiled on Skewers
+----------------------------
+Item: Lamb Chops Tikka
+Price: $26.95
+Description: Lamb Chops Marinated and Charbroiled
+----------------------------
+Item: Tandoori Halibut
+Price: $24.95
+Description: Halibut Marinated and Charbroiled
+----------------------------
+Item: Chicken Curry
+Price: $17.95
+Description: Chicken cooked with Ginger, Garlic, Onion, Tomatoes and Spices
+----------------------------
+Item: Butter Chicken
+Price: $18.95
+Description: Chicken cooked in a Tomato creamy Sauce
+----------------------------
+Item: Chicken Vindaloo
+Price: $18.95
+Description: chicken Cooked in an Onion Tomato Tangy Curry with Potatoes
+----------------------------
+Item: Chicken Goa Curry
+Price: $18.95
+Description: Chicken Cooked in a Coconut Curry Sauce
+----------------------------
+Item: Chicken Korma
+Price: $18.95
+Description: Curry Chicken Cooked in a Cashew Curry Sauce
+----------------------------
+Item: Chicken Saag
+Price: $18.95
+Description: Chicken and Spinach cooked with Ginger, Garlic, Onion and Spices
+----------------------------
+Item: Chicken Jalfrazi
+Price: $18.95
+Description: Chicken Cooked with fresh vegetables in a Fenugreek Tomato sauce
+----------------------------
+Item: Chicken Dhansak
+Price: $18.95
+Description: Chicken Cooked with Yellow Lentils, Mild Lemon Spiced
+----------------------------
+Item: Chicken Chettinad
+Price: $18.95
+Description: South Indian Style Spicy Chicken Curry with Rare Spices
+----------------------------
+Item: Chicken Hariyali
+Price: $18.95
+Description: Chicken Simmered in a Mint, Cilantro, Spinach, Ginger Coconut Curry
+----------------------------
+Item: Lamb Curry
+Price: $18.95
+Description: Lamb Cooked with Ginger, Garlic, Onion, Tomatoes and Spices
+----------------------------
+Item: Lamb Saag
+Price: $19.95
+Description: Lamb and Spirach Cooked with Ginger, Garlic, Onion and Spices
+----------------------------
+Item: Lamb Korma
+Price: $19.95
+Description: Lamb Cooked in a Cashew Curry Sauce
+----------------------------
+Item: Lamb Vindaloo
+Price: $19.95
+Description: Lamb Cooked in a Tangy Curry with Potatoes
+----------------------------
+Item: Lamb Khadai
+Price: $19.95
+Description: Lamb Cooked with Onion, Bell Peppers, Ginger and Spices
+----------------------------
+Item: Lamb Kolhapuri
+Price: $19.95
+Description: Lamb Cooked in a Juicy Tamarind Curry with Konkan Spices
+----------------------------
+Item: Lamb Methi
+Price: $19.95
+Description: Lamb Cooked with Garlic and Fenugreek in a Tomato Creamy sauce
+----------------------------
+Item: Lamb Neelgiri
+Price: $19.95
+Description: Lemony Curry with a Heavenly Serving of Fresh Coriander
+----------------------------
+Item: Salmon Red Curry
+Price: $19.95
+Description: Salmon Cooked in a Tangy Southern Curry
+----------------------------
+Item: Prawns Vindaloo
+Price: $19.95
+Description: Prawns Cooked in a Tangy Curry with Potatoes
+----------------------------
+Item: Prawns Masala
+Price: $19.95
+Description: Prawns Cooked in an Onion Tomato Ginger Masala
+----------------------------
+Item: Prawns Coconut Curry
+Price: $19.95
+Description: Prawns Cooked in a Cocunut Curry Sauce
+----------------------------
+Item: Ajwaini fish
+Price: $19.95
+Description: cod cooked in an Ajwain Flavoured Onion Ginger Masala
+----------------------------
+Item: Halibut Coconut Curry
+Price: $22.95
+Description: Halibut Cooked in a Cocunut Curry Sauce
+----------------------------
+Item: Tandoori Roti
+Price: $3.25
+Description: whole Wheat Bread
+----------------------------
+Item: Bran Chappathi
+Price: $3.25
+Description: Fluffy Whole Wheat Bread
+----------------------------
+Item: Paratha
+Price: $4.50
+Description: Whole Wheat Bread Layered with Butter
+----------------------------
+Item: Onion Kulcha
+Price: $4.50
+Description: Naan Stuffed with seasoned Chopped Onion
+----------------------------
+Item: Rumali Roti
+Price: $4.50
+Description: Soft Thin Wheat Bread
+----------------------------
+Item: Keema Naan
+Price: $4.95
+Description: Stuffed with Minced Lamb
+----------------------------
+Item: Peshwari Naan
+Price: $4.95
+Description: Stuffed with Coconut, Cashew and Raisins
+----------------------------
+Item: Alu Paratha
+Price: $4.50
+Description: Stuffed with Seasoned Mashed Potatoes
+----------------------------
+Item: Mushroom Peas Pulao
+Price: $8.95
+Description: Basmati Rice with Mushroom and Green Peas
+----------------------------
+Item: Vegetable Biryani
+Price: $19.95
+Description: Vegetables Cooked with Aromatic Basmati Rice and Spices
+----------------------------
+Item: Chicken Biryani
+Price: $21.95
+Description: Chicken Cooked with Aromatic Basmati Rice and Spices
+----------------------------
+Item: Lamb Biryani
+Price: $23.95
+Description: Lamb Cooked with Aromatic Basmati Rice and Spices
+----------------------------
+Item: Prawn Biryani
+Price: $23.95
+Description: Prawn Cooked with Aromatic Basmati Rice and Spices
+----------------------------
+Item: Coconut Rice
+Price: $8.95
+Description: Basmati Rice with Grated Coconut and Nuts
+----------------------------
+Item: Chef’s Table
+Price: $49.95
+Description: per person (minimum 2 people)
+----------------------------
+Item: Chicken Soup
+Price: $8.95
+Description: Seasoned with Spices and Herbs
+----------------------------
+Item: Lamb Soup
+Price: $8.95
+Description: Seasoned with Spices and Herbs
+----------------------------
+Item: Lentil Spinach Soup
+Price: $8.95
+Description: Tempered with Cumin and Ginger
+----------------------------
+Item: Tomato Soup
+Price: $8.95
+Description: Lemon, Mint, Ginger and Spiced
+----------------------------
+Item: Chicken Masala pakora
+Price: $12.95
+Description: Spice Dusted Chicken Fritters
+----------------------------
+Item: Alu Chaat
+Price: $10.95
+Description: Potato Patties,Mint Tamarind, Yogurt,garbanzo, Crunchies
+----------------------------
+Item: Vegetable Kabab
+Price: $10.95
+Description: Seasoned Minced Vegetable Cutlet
+----------------------------
+Item: Onion Bhaji
+Price: $9.95
+Description: Shaved Onions Seasoned, Chic Pea Batter Fried
+----------------------------
+Item: Vegetable Pakora
+Price: $8.95
+Description: Vegetables, Seasoned, Chic Pea Batter Fried
+----------------------------
+Item: Vegetable Samosa
+Price: $7.95
+Description: Pastry filled with Seasoned Potatoes and Peas
+----------------------------
+Item: Fish Pakora
+Price: $13.95
+Description: Fish Seasoned, Chic Pea Batter Fried
+----------------------------
+Item: Prawn Pakora
+Price: $14.95
+Description: Prawns seasoned, Chic Pea Batter Fried
+----------------------------
+Item: Shami Kabab
+Price: $13.95
+Description: Minced Lamb Lentil Cutlet
+----------------------------
+Item: Channa Saag
+Price: $16.95
+Description: Garbanzo Beans and Spinach Cooked with Ginger, Garlic, Onion and Spices
+----------------------------
+Item: Channa Masala
+Price: $16.95
+Description: Garbanzo Beans Cooked with Ginger, Garlic, Onion and Spices
+----------------------------
+Item: Daal Tadka
+Price: $16.95
+Description: Yellow channa Daal Tempered with Ginger and Spices
+----------------------------
+Item: Daal Makhni
+Price: $16.95
+Description: Black Lentils Cooked with Spices and Herbs
+----------------------------
+Item: Alu Gobhi
+Price: $16.95
+Description: Potatoes and Cauliflower with Cumin, Ginger, Tomatoes and Onion
+----------------------------
+Item: Baingan Bharta
+Price: $17.95
+Description: Smoked Eggplant Cooked with Ginger, Garlic, Tomatoes and Spices
+----------------------------
+Item: Mixed Vegetable Korma
+Price: $17.95
+Description: Assorted Garden Fresh Vegetables in a Mild Cashew Currry
+----------------------------
+Item: Mattar Mushroom
+Price: $16.95
+Description: Curried Peas and Mushrooms
+----------------------------
+Item: Mattar Paneer
+Price: $17.95
+Description: Curried Peas and Cheese
+----------------------------
+Item: Butter Paneer
+Price: $17.95
+Description: Paneer in a Tomato Creamy sauce
+----------------------------
+Item: Saag Paneer
+Price: $17.95
+Description: Spinach and Cheese Cooked with Ginger, Garlic, Onion and Spices
+----------------------------
+Item: Bhindi Do Pyaza
+Price: $17.95
+Description: Lightly Spiced Okra with Ginger, Tomatoes,Lemon and Onion
+----------------------------
+Item: Panir Jalfrazi
+Price: $17.95
+Description: Cooked with Vegetables in a Fenugreek Tomato Sauce
+----------------------------
+Item: Malai Kofta
+Price: $17.95
+Description: Mixed Vegetable Dumpling with Cheese and Raisin Stuffing in a Cashew Curry Sauce
+----------------------------
+Item: Vegetable Neelgiri
+Price: $17.95
+Description: Lemony Curry with a Heavenly Serving of Fresh Coriander
+----------------------------
+Item: Paneer Tikka
+Price: $17.95
+Description: Paneer Marinated and Charbroiled
+----------------------------
+Item: Tandoori Chicken
+Price: $17.95
+Description: Bone in Chicken, Marinated and Charbroiled
+----------------------------
+Item: Chicken Tikka
+Price: $18.95
+Description: Chicken Breast pieces, Marinated and Charbroiled
+----------------------------
+Item: Chicken Malai Kabab
+Price: $18.95
+Description: Lightly Spiced, Cashew Marinade, Charbroiled
+----------------------------
+Item: Lamb Shish Kabab
+Price: $19.95
+Description: Minced Lamb With Onions, and Mint Charbroiled on Skewers
+----------------------------
+Item: Lamb Chops Tikka
+Price: $26.95
+Description: Lamb Chops Marinated and Charbroiled
+----------------------------
+Item: Tandoori Halibut
+Price: $24.95
+Description: Halibut Marinated and Charbroiled
+----------------------------
+Item: Chicken Curry
+Price: $17.95
+Description: Chicken cooked with Ginger, Garlic, Onion, Tomatoes and Spices
+----------------------------
+Item: Butter Chicken
+Price: $18.95
+Description: Chicken cooked in a Tomato creamy Sauce
+----------------------------
+Item: Chicken Vindaloo
+Price: $18.95
+Description: chicken Cooked in an Onion Tomato Tangy Curry with Potatoes
+----------------------------
+Item: Chicken Goa Curry
+Price: $18.95
+Description: Chicken Cooked in a Coconut Curry Sauce
+----------------------------
+Item: Chicken Korma
+Price: $18.95
+Description: Curry Chicken Cooked in a Cashew Curry Sauce
+----------------------------
+Item: Chicken Saag
+Price: $18.95
+Description: Chicken and Spinach cooked with Ginger, Garlic, Onion and Spices
+----------------------------
+Item: Chicken Jalfrazi
+Price: $18.95
+Description: Chicken Cooked with fresh vegetables in a Fenugreek Tomato sauce
+----------------------------
+Item: Chicken Dhansak
+Price: $18.95
+Description: Chicken Cooked with Yellow Lentils, Mild Lemon Spiced
+----------------------------
+Item: Chicken Chettinad
+Price: $18.95
+Description: South Indian Style Spicy Chicken Curry with Rare Spices
+----------------------------
+Item: Chicken Hariyali
+Price: $18.95
+Description: Chicken Simmered in a Mint, Cilantro, Spinach, Ginger Coconut Curry
+----------------------------
+Item: Lamb Curry
+Price: $18.95
+Description: Lamb Cooked with Ginger, Garlic, Onion, Tomatoes and Spices
+----------------------------
+Item: Lamb Saag
+Price: $19.95
+Description: Lamb and Spirach Cooked with Ginger, Garlic, Onion and Spices
+----------------------------
+Item: Lamb Korma
+Price: $19.95
+Description: Lamb Cooked in a Cashew Curry Sauce
+----------------------------
+Item: Lamb Vindaloo
+Price: $19.95
+Description: Lamb Cooked in a Tangy Curry with Potatoes
+----------------------------
+Item: Lamb Khadai
+Price: $19.95
+Description: Lamb Cooked with Onion, Bell Peppers, Ginger and Spices
+----------------------------
+Item: Lamb Kolhapuri
+Price: $19.95
+Description: Lamb Cooked in a Juicy Tamarind Curry with Konkan Spices
+----------------------------
+Item: Lamb Methi
+Price: $19.95
+Description: Lamb Cooked with Garlic and Fenugreek in a Tomato Creamy sauce
+----------------------------
+Item: Lamb Neelgiri
+Price: $19.95
+Description: Lemony Curry with a Heavenly Serving of Fresh Coriander
+----------------------------
+Item: Salmon Red Curry
+Price: $19.95
+Description: Salmon Cooked in a Tangy Southern Curry
+----------------------------
+Item: Prawns Vindaloo
+Price: $19.95
+Description: Prawns Cooked in a Tangy Curry with Potatoes
+----------------------------
+Item: Prawns Masala
+Price: $19.95
+Description: Prawns Cooked in an Onion Tomato Ginger Masala
+----------------------------
+Item: Prawns Coconut Curry
+Price: $19.95
+Description: Prawns Cooked in a Cocunut Curry Sauce
+----------------------------
+Item: Ajwaini fish
+Price: $19.95
+Description: cod cooked in an Ajwain Flavoured Onion Ginger Masala
+----------------------------
+Item: Halibut Coconut Curry
+Price: $22.95
+Description: Halibut Cooked in a Cocunut Curry Sauce
+----------------------------
+Item: Tandoori Roti
+Price: $3.25
+Description: whole Wheat Bread
+----------------------------
+Item: Bran Chappathi
+Price: $3.25
+Description: Fluffy Whole Wheat Bread
+----------------------------
+Item: Paratha
+Price: $4.50
+Description: Whole Wheat Bread Layered with Butter
+----------------------------
+Item: Onion Kulcha
+Price: $4.50
+Description: Naan Stuffed with seasoned Chopped Onion
+----------------------------
+Item: Rumali Roti
+Price: $4.50
+Description: Soft Thin Wheat Bread
+----------------------------
+Item: Keema Naan
+Price: $4.95
+Description: Stuffed with Minced Lamb
+----------------------------
+Item: Peshwari Naan
+Price: $4.95
+Description: Stuffed with Coconut, Cashew and Raisins
+----------------------------
+Item: Alu Paratha
+Price: $4.50
+Description: Stuffed with Seasoned Mashed Potatoes
+----------------------------
+Item: Mushroom Peas Pulao
+Price: $8.95
+Description: Basmati Rice with Mushroom and Green Peas
+----------------------------
+Item: Vegetable Biryani
+Price: $19.95
+Description: Vegetables Cooked with Aromatic Basmati Rice and Spices
+----------------------------
+Item: Chicken Biryani
+Price: $21.95
+Description: Chicken Cooked with Aromatic Basmati Rice and Spices
+----------------------------
+Item: Lamb Biryani
+Price: $23.95
+Description: Lamb Cooked with Aromatic Basmati Rice and Spices
+----------------------------
+Item: Prawn Biryani
+Price: $23.95
+Description: Prawn Cooked with Aromatic Basmati Rice and Spices
+----------------------------
+Item: Coconut Rice
+Price: $8.95
+Description: Basmati Rice with Grated Coconut and Nuts
+----------------------------
+Item: Chef’s Table
+Price: $49.95
+Description: per person (minimum 2 people)
+----------------------------
+Item: Chicken Soup
+Price: $8.95
+Description: Seasoned with Spices and Herbs
+----------------------------
+Item: Lamb Soup
+Price: $8.95
+Description: Seasoned with Spices and Herbs
+----------------------------
+Item: Lentil Spinach Soup
+Price: $8.95
+Description: Tempered with Cumin and Ginger
+----------------------------
+Item: Tomato Soup
+Price: $8.95
+Description: Lemon, Mint, Ginger and Spiced
+----------------------------
+Item: Chicken Masala pakora
+Price: $12.95
+Description: Spice Dusted Chicken Fritters
+----------------------------
+Item: Alu Chaat
+Price: $10.95
+Description: Potato Patties,Mint Tamarind, Yogurt,garbanzo, Crunchies
+----------------------------
+Item: Vegetable Kabab
+Price: $10.95
+Description: Seasoned Minced Vegetable Cutlet
+----------------------------
+Item: Onion Bhaji
+Price: $9.95
+Description: Shaved Onions Seasoned, Chic Pea Batter Fried
+----------------------------
+Item: Vegetable Pakora
+Price: $8.95
+Description: Vegetables, Seasoned, Chic Pea Batter Fried
+----------------------------
+Item: Vegetable Samosa
+Price: $7.95
+Description: Pastry filled with Seasoned Potatoes and Peas
+----------------------------
+Item: Fish Pakora
+Price: $13.95
+Description: Fish Seasoned, Chic Pea Batter Fried
+----------------------------
+Item: Prawn Pakora
+Price: $14.95
+Description: Prawns seasoned, Chic Pea Batter Fried
+----------------------------
+Item: Shami Kabab
+Price: $13.95
+Description: Minced Lamb Lentil Cutlet
+----------------------------
+Item: Channa Saag
+Price: $16.95
+Description: Garbanzo Beans and Spinach Cooked with Ginger, Garlic, Onion and Spices
+----------------------------
+Item: Channa Masala
+Price: $16.95
+Description: Garbanzo Beans Cooked with Ginger, Garlic, Onion and Spices
+----------------------------
+Item: Daal Tadka
+Price: $16.95
+Description: Yellow channa Daal Tempered with Ginger and Spices
+----------------------------
+Item: Daal Makhni
+Price: $16.95
+Description: Black Lentils Cooked with Spices and Herbs
+----------------------------
+Item: Alu Gobhi
+Price: $16.95
+Description: Potatoes and Cauliflower with Cumin, Ginger, Tomatoes and Onion
+----------------------------
+Item: Baingan Bharta
+Price: $17.95
+Description: Smoked Eggplant Cooked with Ginger, Garlic, Tomatoes and Spices
+----------------------------
+Item: Mixed Vegetable Korma
+Price: $17.95
+Description: Assorted Garden Fresh Vegetables in a Mild Cashew Currry
+----------------------------
+Item: Mattar Mushroom
+Price: $16.95
+Description: Curried Peas and Mushrooms
+----------------------------
+Item: Mattar Paneer
+Price: $17.95
+Description: Curried Peas and Cheese
+----------------------------
+Item: Butter Paneer
+Price: $17.95
+Description: Paneer in a Tomato Creamy sauce
+----------------------------
+Item: Saag Paneer
+Price: $17.95
+Description: Spinach and Cheese Cooked with Ginger, Garlic, Onion and Spices
+----------------------------
+Item: Bhindi Do Pyaza
+Price: $17.95
+Description: Lightly Spiced Okra with Ginger, Tomatoes,Lemon and Onion
+----------------------------
+Item: Panir Jalfrazi
+Price: $17.95
+Description: Cooked with Vegetables in a Fenugreek Tomato Sauce
+----------------------------
+Item: Malai Kofta
+Price: $17.95
+Description: Mixed Vegetable Dumpling with Cheese and Raisin Stuffing in a Cashew Curry Sauce
+----------------------------
+Item: Vegetable Neelgiri
+Price: $17.95
+Description: Lemony Curry with a Heavenly Serving of Fresh Coriander
+----------------------------
+Item: Paneer Tikka
+Price: $17.95
+Description: Paneer Marinated and Charbroiled
+----------------------------
+Item: Tandoori Chicken
+Price: $17.95
+Description: Bone in Chicken, Marinated and Charbroiled
+----------------------------
+Item: Chicken Tikka
+Price: $18.95
+Description: Chicken Breast pieces, Marinated and Charbroiled
+----------------------------
+Item: Chicken Malai Kabab
+Price: $18.95
+Description: Lightly Spiced, Cashew Marinade, Charbroiled
+----------------------------
+Item: Lamb Shish Kabab
+Price: $19.95
+Description: Minced Lamb With Onions, and Mint Charbroiled on Skewers
+----------------------------
+Item: Lamb Chops Tikka
+Price: $26.95
+Description: Lamb Chops Marinated and Charbroiled
+----------------------------
+Item: Tandoori Halibut
+Price: $24.95
+Description: Halibut Marinated and Charbroiled
+----------------------------
+Item: Chicken Curry
+Price: $17.95
+Description: Chicken cooked with Ginger, Garlic, Onion, Tomatoes and Spices
+----------------------------
+Item: Butter Chicken
+Price: $18.95
+Description: Chicken cooked in a Tomato creamy Sauce
+----------------------------
+Item: Chicken Vindaloo
+Price: $18.95
+Description: chicken Cooked in an Onion Tomato Tangy Curry with Potatoes
+----------------------------
+Item: Chicken Goa Curry
+Price: $18.95
+Description: Chicken Cooked in a Coconut Curry Sauce
+----------------------------
+Item: Chicken Korma
+Price: $18.95
+Description: Curry Chicken Cooked in a Cashew Curry Sauce
+----------------------------
+Item: Chicken Saag
+Price: $18.95
+Description: Chicken and Spinach cooked with Ginger, Garlic, Onion and Spices
+----------------------------
+Item: Chicken Jalfrazi
+Price: $18.95
+Description: Chicken Cooked with fresh vegetables in a Fenugreek Tomato sauce
+----------------------------
+Item: Chicken Dhansak
+Price: $18.95
+Description: Chicken Cooked with Yellow Lentils, Mild Lemon Spiced
+----------------------------
+Item: Chicken Chettinad
+Price: $18.95
+Description: South Indian Style Spicy Chicken Curry with Rare Spices
+----------------------------
+Item: Chicken Hariyali
+Price: $18.95
+Description: Chicken Simmered in a Mint, Cilantro, Spinach, Ginger Coconut Curry
+----------------------------
+Item: Lamb Curry
+Price: $18.95
+Description: Lamb Cooked with Ginger, Garlic, Onion, Tomatoes and Spices
+----------------------------
+Item: Lamb Saag
+Price: $19.95
+Description: Lamb and Spirach Cooked with Ginger, Garlic, Onion and Spices
+----------------------------
+Item: Lamb Korma
+Price: $19.95
+Description: Lamb Cooked in a Cashew Curry Sauce
+----------------------------
+Item: Lamb Vindaloo
+Price: $19.95
+Description: Lamb Cooked in a Tangy Curry with Potatoes
+----------------------------
+Item: Lamb Khadai
+Price: $19.95
+Description: Lamb Cooked with Onion, Bell Peppers, Ginger and Spices
+----------------------------
+Item: Lamb Kolhapuri
+Price: $19.95
+Description: Lamb Cooked in a Juicy Tamarind Curry with Konkan Spices
+----------------------------
+Item: Lamb Methi
+Price: $19.95
+Description: Lamb Cooked with Garlic and Fenugreek in a Tomato Creamy sauce
+----------------------------
+Item: Lamb Neelgiri
+Price: $19.95
+Description: Lemony Curry with a Heavenly Serving of Fresh Coriander
+----------------------------
+Item: Salmon Red Curry
+Price: $19.95
+Description: Salmon Cooked in a Tangy Southern Curry
+----------------------------
+Item: Prawns Vindaloo
+Price: $19.95
+Description: Prawns Cooked in a Tangy Curry with Potatoes
+----------------------------
+Item: Prawns Masala
+Price: $19.95
+Description: Prawns Cooked in an Onion Tomato Ginger Masala
+----------------------------
+Item: Prawns Coconut Curry
+Price: $19.95
+Description: Prawns Cooked in a Cocunut Curry Sauce
+----------------------------
+Item: Ajwaini fish
+Price: $19.95
+Description: cod cooked in an Ajwain Flavoured Onion Ginger Masala
+----------------------------
+Item: Halibut Coconut Curry
+Price: $22.95
+Description: Halibut Cooked in a Cocunut Curry Sauce
+----------------------------
+Item: Tandoori Roti
+Price: $3.25
+Description: whole Wheat Bread
+----------------------------
+Item: Bran Chappathi
+Price: $3.25
+Description: Fluffy Whole Wheat Bread
+----------------------------
+Item: Paratha
+Price: $4.50
+Description: Whole Wheat Bread Layered with Butter
+----------------------------
+Item: Onion Kulcha
+Price: $4.50
+Description: Naan Stuffed with seasoned Chopped Onion
+----------------------------
+Item: Rumali Roti
+Price: $4.50
+Description: Soft Thin Wheat Bread
+----------------------------
+Item: Keema Naan
+Price: $4.95
+Description: Stuffed with Minced Lamb
+----------------------------
+Item: Peshwari Naan
+Price: $4.95
+Description: Stuffed with Coconut, Cashew and Raisins
+----------------------------
+Item: Alu Paratha
+Price: $4.50
+Description: Stuffed with Seasoned Mashed Potatoes
+----------------------------
+Item: Mushroom Peas Pulao
+Price: $8.95
+Description: Basmati Rice with Mushroom and Green Peas
+----------------------------
+Item: Vegetable Biryani
+Price: $19.95
+Description: Vegetables Cooked with Aromatic Basmati Rice and Spices
+----------------------------
+Item: Chicken Biryani
+Price: $21.95
+Description: Chicken Cooked with Aromatic Basmati Rice and Spices
+----------------------------
+Item: Lamb Biryani
+Price: $23.95
+Description: Lamb Cooked with Aromatic Basmati Rice and Spices
+----------------------------
+Item: Prawn Biryani
+Price: $23.95
+Description: Prawn Cooked with Aromatic Basmati Rice and Spices
+----------------------------
+Item: Coconut Rice
+Price: $8.95
+Description: Basmati Rice with Grated Coconut and Nuts
+----------------------------
+Item: Chef’s Table
+Price: $49.95
+Description: per person (minimum 2 people)
+----------------------------
+Item: Chicken Soup
+Price: $8.95
+Description: Seasoned with Spices and Herbs
+----------------------------
+Item: Lamb Soup
+Price: $8.95
+Description: Seasoned with Spices and Herbs
+----------------------------
+Item: Lentil Spinach Soup
+Price: $8.95
+Description: Tempered with Cumin and Ginger
+----------------------------
+Item: Tomato Soup
+Price: $8.95
+Description: Lemon, Mint, Ginger and Spiced
+----------------------------
+Item: Chicken Masala pakora
+Price: $12.95
+Description: Spice Dusted Chicken Fritters
+----------------------------
+Item: Alu Chaat
+Price: $10.95
+Description: Potato Patties,Mint Tamarind, Yogurt,garbanzo, Crunchies
+----------------------------
+Item: Vegetable Kabab
+Price: $10.95
+Description: Seasoned Minced Vegetable Cutlet
+----------------------------
+Item: Onion Bhaji
+Price: $9.95
+Description: Shaved Onions Seasoned, Chic Pea Batter Fried
+----------------------------
+Item: Vegetable Pakora
+Price: $8.95
+Description: Vegetables, Seasoned, Chic Pea Batter Fried
+----------------------------
+Item: Vegetable Samosa
+Price: $7.95
+Description: Pastry filled with Seasoned Potatoes and Peas
+----------------------------
+Item: Fish Pakora
+Price: $13.95
+Description: Fish Seasoned, Chic Pea Batter Fried
+----------------------------
+Item: Prawn Pakora
+Price: $14.95
+Description: Prawns seasoned, Chic Pea Batter Fried
+----------------------------
+Item: Shami Kabab
+Price: $13.95
+Description: Minced Lamb Lentil Cutlet
+----------------------------
+Item: Channa Saag
+Price: $16.95
+Description: Garbanzo Beans and Spinach Cooked with Ginger, Garlic, Onion and Spices
+----------------------------
+Item: Channa Masala
+Price: $16.95
+Description: Garbanzo Beans Cooked with Ginger, Garlic, Onion and Spices
+----------------------------
+Item: Daal Tadka
+Price: $16.95
+Description: Yellow channa Daal Tempered with Ginger and Spices
+----------------------------
+Item: Daal Makhni
+Price: $16.95
+Description: Black Lentils Cooked with Spices and Herbs
+----------------------------
+Item: Alu Gobhi
+Price: $16.95
+Description: Potatoes and Cauliflower with Cumin, Ginger, Tomatoes and Onion
+----------------------------
+Item: Baingan Bharta
+Price: $17.95
+Description: Smoked Eggplant Cooked with Ginger, Garlic, Tomatoes and Spices
+----------------------------
+Item: Mixed Vegetable Korma
+Price: $17.95
+Description: Assorted Garden Fresh Vegetables in a Mild Cashew Currry
+----------------------------
+Item: Mattar Mushroom
+Price: $16.95
+Description: Curried Peas and Mushrooms
+----------------------------
+Item: Mattar Paneer
+Price: $17.95
+Description: Curried Peas and Cheese
+----------------------------
+Item: Butter Paneer
+Price: $17.95
+Description: Paneer in a Tomato Creamy sauce
+----------------------------
+Item: Saag Paneer
+Price: $17.95
+Description: Spinach and Cheese Cooked with Ginger, Garlic, Onion and Spices
+----------------------------
+Item: Bhindi Do Pyaza
+Price: $17.95
+Description: Lightly Spiced Okra with Ginger, Tomatoes,Lemon and Onion
+----------------------------
+Item: Panir Jalfrazi
+Price: $17.95
+Description: Cooked with Vegetables in a Fenugreek Tomato Sauce
+----------------------------
+Item: Malai Kofta
+Price: $17.95
+Description: Mixed Vegetable Dumpling with Cheese and Raisin Stuffing in a Cashew Curry Sauce
+----------------------------
+Item: Vegetable Neelgiri
+Price: $17.95
+Description: Lemony Curry with a Heavenly Serving of Fresh Coriander
+----------------------------
+Item: Paneer Tikka
+Price: $17.95
+Description: Paneer Marinated and Charbroiled
+----------------------------
+Item: Tandoori Chicken
+Price: $17.95
+Description: Bone in Chicken, Marinated and Charbroiled
+----------------------------
+Item: Chicken Tikka
+Price: $18.95
+Description: Chicken Breast pieces, Marinated and Charbroiled
+----------------------------
+Item: Chicken Malai Kabab
+Price: $18.95
+Description: Lightly Spiced, Cashew Marinade, Charbroiled
+----------------------------
+Item: Lamb Shish Kabab
+Price: $19.95
+Description: Minced Lamb With Onions, and Mint Charbroiled on Skewers
+----------------------------
+Item: Lamb Chops Tikka
+Price: $26.95
+Description: Lamb Chops Marinated and Charbroiled
+----------------------------
+Item: Tandoori Halibut
+Price: $24.95
+Description: Halibut Marinated and Charbroiled
+----------------------------
+Item: Chicken Curry
+Price: $17.95
+Description: Chicken cooked with Ginger, Garlic, Onion, Tomatoes and Spices
+----------------------------
+Item: Butter Chicken
+Price: $18.95
+Description: Chicken cooked in a Tomato creamy Sauce
+----------------------------
+Item: Chicken Vindaloo
+Price: $18.95
+Description: chicken Cooked in an Onion Tomato Tangy Curry with Potatoes
+----------------------------
+Item: Chicken Goa Curry
+Price: $18.95
+Description: Chicken Cooked in a Coconut Curry Sauce
+----------------------------
+Item: Chicken Korma
+Price: $18.95
+Description: Curry Chicken Cooked in a Cashew Curry Sauce
+----------------------------
+Item: Chicken Saag
+Price: $18.95
+Description: Chicken and Spinach cooked with Ginger, Garlic, Onion and Spices
+----------------------------
+Item: Chicken Jalfrazi
+Price: $18.95
+Description: Chicken Cooked with fresh vegetables in a Fenugreek Tomato sauce
+----------------------------
+Item: Chicken Dhansak
+Price: $18.95
+Description: Chicken Cooked with Yellow Lentils, Mild Lemon Spiced
+----------------------------
+Item: Chicken Chettinad
+Price: $18.95
+Description: South Indian Style Spicy Chicken Curry with Rare Spices
+----------------------------
+Item: Chicken Hariyali
+Price: $18.95
+Description: Chicken Simmered in a Mint, Cilantro, Spinach, Ginger Coconut Curry
+----------------------------
+Item: Lamb Curry
+Price: $18.95
+Description: Lamb Cooked with Ginger, Garlic, Onion, Tomatoes and Spices
+----------------------------
+Item: Lamb Saag
+Price: $19.95
+Description: Lamb and Spirach Cooked with Ginger, Garlic, Onion and Spices
+----------------------------
+Item: Lamb Korma
+Price: $19.95
+Description: Lamb Cooked in a Cashew Curry Sauce
+----------------------------
+Item: Lamb Vindaloo
+Price: $19.95
+Description: Lamb Cooked in a Tangy Curry with Potatoes
+----------------------------
+Item: Lamb Khadai
+Price: $19.95
+Description: Lamb Cooked with Onion, Bell Peppers, Ginger and Spices
+----------------------------
+Item: Lamb Kolhapuri
+Price: $19.95
+Description: Lamb Cooked in a Juicy Tamarind Curry with Konkan Spices
+----------------------------
+Item: Lamb Methi
+Price: $19.95
+Description: Lamb Cooked with Garlic and Fenugreek in a Tomato Creamy sauce
+----------------------------
+Item: Lamb Neelgiri
+Price: $19.95
+Description: Lemony Curry with a Heavenly Serving of Fresh Coriander
+----------------------------
+Item: Salmon Red Curry
+Price: $19.95
+Description: Salmon Cooked in a Tangy Southern Curry
+----------------------------
+Item: Prawns Vindaloo
+Price: $19.95
+Description: Prawns Cooked in a Tangy Curry with Potatoes
+----------------------------
+Item: Prawns Masala
+Price: $19.95
+Description: Prawns Cooked in an Onion Tomato Ginger Masala
+----------------------------
+Item: Prawns Coconut Curry
+Price: $19.95
+Description: Prawns Cooked in a Cocunut Curry Sauce
+----------------------------
+Item: Ajwaini fish
+Price: $19.95
+Description: cod cooked in an Ajwain Flavoured Onion Ginger Masala
+----------------------------
+Item: Halibut Coconut Curry
+Price: $22.95
+Description: Halibut Cooked in a Cocunut Curry Sauce
+----------------------------
+Item: Tandoori Roti
+Price: $3.25
+Description: whole Wheat Bread
+----------------------------
+Item: Bran Chappathi
+Price: $3.25
+Description: Fluffy Whole Wheat Bread
+----------------------------
+Item: Paratha
+Price: $4.50
+Description: Whole Wheat Bread Layered with Butter
+----------------------------
+Item: Onion Kulcha
+Price: $4.50
+Description: Naan Stuffed with seasoned Chopped Onion
+----------------------------
+Item: Rumali Roti
+Price: $4.50
+Description: Soft Thin Wheat Bread
+----------------------------
+Item: Keema Naan
+Price: $4.95
+Description: Stuffed with Minced Lamb
+----------------------------
+Item: Peshwari Naan
+Price: $4.95
+Description: Stuffed with Coconut, Cashew and Raisins
+----------------------------
+Item: Alu Paratha
+Price: $4.50
+Description: Stuffed with Seasoned Mashed Potatoes
+----------------------------
+Item: Mushroom Peas Pulao
+Price: $8.95
+Description: Basmati Rice with Mushroom and Green Peas
+----------------------------
+Item: Vegetable Biryani
+Price: $19.95
+Description: Vegetables Cooked with Aromatic Basmati Rice and Spices
+----------------------------
+Item: Chicken Biryani
+Price: $21.95
+Description: Chicken Cooked with Aromatic Basmati Rice and Spices
+----------------------------
+Item: Lamb Biryani
+Price: $23.95
+Description: Lamb Cooked with Aromatic Basmati Rice and Spices
+----------------------------
+Item: Prawn Biryani
+Price: $23.95
+Description: Prawn Cooked with Aromatic Basmati Rice and Spices
+----------------------------
+Item: Coconut Rice
+Price: $8.95
+Description: Basmati Rice with Grated Coconut and Nuts
+----------------------------
+Item: Chef’s Table
+Price: $49.95
+Description: per person (minimum 2 people)
+----------------------------
+Item: Chicken Soup
+Price: $8.95
+Description: Seasoned with Spices and Herbs
+----------------------------
+Item: Lamb Soup
+Price: $8.95
+Description: Seasoned with Spices and Herbs
+----------------------------
+Item: Lentil Spinach Soup
+Price: $8.95
+Description: Tempered with Cumin and Ginger
+----------------------------
+Item: Tomato Soup
+Price: $8.95
+Description: Lemon, Mint, Ginger and Spiced
+----------------------------
+Item: Chicken Masala pakora
+Price: $12.95
+Description: Spice Dusted Chicken Fritters
+----------------------------
+Item: Alu Chaat
+Price: $10.95
+Description: Potato Patties,Mint Tamarind, Yogurt,garbanzo, Crunchies
+----------------------------
+Item: Vegetable Kabab
+Price: $10.95
+Description: Seasoned Minced Vegetable Cutlet
+----------------------------
+Item: Onion Bhaji
+Price: $9.95
+Description: Shaved Onions Seasoned, Chic Pea Batter Fried
+----------------------------
+Item: Vegetable Pakora
+Price: $8.95
+Description: Vegetables, Seasoned, Chic Pea Batter Fried
+----------------------------
+Item: Vegetable Samosa
+Price: $7.95
+Description: Pastry filled with Seasoned Potatoes and Peas
+----------------------------
+Item: Fish Pakora
+Price: $13.95
+Description: Fish Seasoned, Chic Pea Batter Fried
+----------------------------
+Item: Prawn Pakora
+Price: $14.95
+Description: Prawns seasoned, Chic Pea Batter Fried
+----------------------------
+Item: Shami Kabab
+Price: $13.95
+Description: Minced Lamb Lentil Cutlet
+----------------------------
+Item: Channa Saag
+Price: $16.95
+Description: Garbanzo Beans and Spinach Cooked with Ginger, Garlic, Onion and Spices
+----------------------------
+Item: Channa Masala
+Price: $16.95
+Description: Garbanzo Beans Cooked with Ginger, Garlic, Onion and Spices
+----------------------------
+Item: Daal Tadka
+Price: $16.95
+Description: Yellow channa Daal Tempered with Ginger and Spices
+----------------------------
+Item: Daal Makhni
+Price: $16.95
+Description: Black Lentils Cooked with Spices and Herbs
+----------------------------
+Item: Alu Gobhi
+Price: $16.95
+Description: Potatoes and Cauliflower with Cumin, Ginger, Tomatoes and Onion
+----------------------------
+Item: Baingan Bharta
+Price: $17.95
+Description: Smoked Eggplant Cooked with Ginger, Garlic, Tomatoes and Spices
+----------------------------
+Item: Mixed Vegetable Korma
+Price: $17.95
+Description: Assorted Garden Fresh Vegetables in a Mild Cashew Currry
+----------------------------
+Item: Mattar Mushroom
+Price: $16.95
+Description: Curried Peas and Mushrooms
+----------------------------
+Item: Mattar Paneer
+Price: $17.95
+Description: Curried Peas and Cheese
+----------------------------
+Item: Butter Paneer
+Price: $17.95
+Description: Paneer in a Tomato Creamy sauce
+----------------------------
+Item: Saag Paneer
+Price: $17.95
+Description: Spinach and Cheese Cooked with Ginger, Garlic, Onion and Spices
+----------------------------
+Item: Bhindi Do Pyaza
+Price: $17.95
+Description: Lightly Spiced Okra with Ginger, Tomatoes,Lemon and Onion
+----------------------------
+Item: Panir Jalfrazi
+Price: $17.95
+Description: Cooked with Vegetables in a Fenugreek Tomato Sauce
+----------------------------
+Item: Malai Kofta
+Price: $17.95
+Description: Mixed Vegetable Dumpling with Cheese and Raisin Stuffing in a Cashew Curry Sauce
+----------------------------
+Item: Vegetable Neelgiri
+Price: $17.95
+Description: Lemony Curry with a Heavenly Serving of Fresh Coriander
+----------------------------
+Item: Paneer Tikka
+Price: $17.95
+Description: Paneer Marinated and Charbroiled
+----------------------------
+Item: Tandoori Chicken
+Price: $17.95
+Description: Bone in Chicken, Marinated and Charbroiled
+----------------------------
+Item: Chicken Tikka
+Price: $18.95
+Description: Chicken Breast pieces, Marinated and Charbroiled
+----------------------------
+Item: Chicken Malai Kabab
+Price: $18.95
+Description: Lightly Spiced, Cashew Marinade, Charbroiled
+----------------------------
+Item: Lamb Shish Kabab
+Price: $19.95
+Description: Minced Lamb With Onions, and Mint Charbroiled on Skewers
+----------------------------
+Item: Lamb Chops Tikka
+Price: $26.95
+Description: Lamb Chops Marinated and Charbroiled
+----------------------------
+Item: Tandoori Halibut
+Price: $24.95
+Description: Halibut Marinated and Charbroiled
+----------------------------
+Item: Chicken Curry
+Price: $17.95
+Description: Chicken cooked with Ginger, Garlic, Onion, Tomatoes and Spices
+----------------------------
+Item: Butter Chicken
+Price: $18.95
+Description: Chicken cooked in a Tomato creamy Sauce
+----------------------------
+Item: Chicken Vindaloo
+Price: $18.95
+Description: chicken Cooked in an Onion Tomato Tangy Curry with Potatoes
+----------------------------
+Item: Chicken Goa Curry
+Price: $18.95
+Description: Chicken Cooked in a Coconut Curry Sauce
+----------------------------
+Item: Chicken Korma
+Price: $18.95
+Description: Curry Chicken Cooked in a Cashew Curry Sauce
+----------------------------
+Item: Chicken Saag
+Price: $18.95
+Description: Chicken and Spinach cooked with Ginger, Garlic, Onion and Spices
+----------------------------
+Item: Chicken Jalfrazi
+Price: $18.95
+Description: Chicken Cooked with fresh vegetables in a Fenugreek Tomato sauce
+----------------------------
+Item: Chicken Dhansak
+Price: $18.95
+Description: Chicken Cooked with Yellow Lentils, Mild Lemon Spiced
+----------------------------
+Item: Chicken Chettinad
+Price: $18.95
+Description: South Indian Style Spicy Chicken Curry with Rare Spices
+----------------------------
+Item: Chicken Hariyali
+Price: $18.95
+Description: Chicken Simmered in a Mint, Cilantro, Spinach, Ginger Coconut Curry
+----------------------------
+Item: Lamb Curry
+Price: $18.95
+Description: Lamb Cooked with Ginger, Garlic, Onion, Tomatoes and Spices
+----------------------------
+Item: Lamb Saag
+Price: $19.95
+Description: Lamb and Spirach Cooked with Ginger, Garlic, Onion and Spices
+----------------------------
+Item: Lamb Korma
+Price: $19.95
+Description: Lamb Cooked in a Cashew Curry Sauce
+----------------------------
+Item: Lamb Vindaloo
+Price: $19.95
+Description: Lamb Cooked in a Tangy Curry with Potatoes
+----------------------------
+Item: Lamb Khadai
+Price: $19.95
+Description: Lamb Cooked with Onion, Bell Peppers, Ginger and Spices
+----------------------------
+Item: Lamb Kolhapuri
+Price: $19.95
+Description: Lamb Cooked in a Juicy Tamarind Curry with Konkan Spices
+----------------------------
+Item: Lamb Methi
+Price: $19.95
+Description: Lamb Cooked with Garlic and Fenugreek in a Tomato Creamy sauce
+----------------------------
+Item: Lamb Neelgiri
+Price: $19.95
+Description: Lemony Curry with a Heavenly Serving of Fresh Coriander
+----------------------------
+Item: Salmon Red Curry
+Price: $19.95
+Description: Salmon Cooked in a Tangy Southern Curry
+----------------------------
+Item: Prawns Vindaloo
+Price: $19.95
+Description: Prawns Cooked in a Tangy Curry with Potatoes
+----------------------------
+Item: Prawns Masala
+Price: $19.95
+Description: Prawns Cooked in an Onion Tomato Ginger Masala
+----------------------------
+Item: Prawns Coconut Curry
+Price: $19.95
+Description: Prawns Cooked in a Cocunut Curry Sauce
+----------------------------
+Item: Ajwaini fish
+Price: $19.95
+Description: cod cooked in an Ajwain Flavoured Onion Ginger Masala
+----------------------------
+Item: Halibut Coconut Curry
+Price: $22.95
+Description: Halibut Cooked in a Cocunut Curry Sauce
+----------------------------
+Item: Tandoori Roti
+Price: $3.25
+Description: whole Wheat Bread
+----------------------------
+Item: Bran Chappathi
+Price: $3.25
+Description: Fluffy Whole Wheat Bread
+----------------------------
+Item: Paratha
+Price: $4.50
+Description: Whole Wheat Bread Layered with Butter
+----------------------------
+Item: Onion Kulcha
+Price: $4.50
+Description: Naan Stuffed with seasoned Chopped Onion
+----------------------------
+Item: Rumali Roti
+Price: $4.50
+Description: Soft Thin Wheat Bread
+----------------------------
+Item: Keema Naan
+Price: $4.95
+Description: Stuffed with Minced Lamb
+----------------------------
+Item: Peshwari Naan
+Price: $4.95
+Description: Stuffed with Coconut, Cashew and Raisins
+----------------------------
+Item: Alu Paratha
+Price: $4.50
+Description: Stuffed with Seasoned Mashed Potatoes
+----------------------------
+Item: Mushroom Peas Pulao
+Price: $8.95
+Description: Basmati Rice with Mushroom and Green Peas
+----------------------------
+Item: Vegetable Biryani
+Price: $19.95
+Description: Vegetables Cooked with Aromatic Basmati Rice and Spices
+----------------------------
+Item: Chicken Biryani
+Price: $21.95
+Description: Chicken Cooked with Aromatic Basmati Rice and Spices
+----------------------------
+Item: Lamb Biryani
+Price: $23.95
+Description: Lamb Cooked with Aromatic Basmati Rice and Spices
+----------------------------
+Item: Prawn Biryani
+Price: $23.95
+Description: Prawn Cooked with Aromatic Basmati Rice and Spices
+----------------------------
+Item: Coconut Rice
+Price: $8.95
+Description: Basmati Rice with Grated Coconut and Nuts
+----------------------------
+Item: Chef’s Table
+Price: $49.95
+Description: per person (minimum 2 people)
+----------------------------
+Item: Chicken Soup
+Price: $8.95
+Description: Seasoned with Spices and Herbs
+----------------------------
+Item: Lamb Soup
+Price: $8.95
+Description: Seasoned with Spices and Herbs
+----------------------------
+Item: Lentil Spinach Soup
+Price: $8.95
+Description: Tempered with Cumin and Ginger
+----------------------------
+Item: Tomato Soup
+Price: $8.95
+Description: Lemon, Mint, Ginger and Spiced
+----------------------------
+Item: Chicken Masala pakora
+Price: $12.95
+Description: Spice Dusted Chicken Fritters
+----------------------------
+Item: Alu Chaat
+Price: $10.95
+Description: Potato Patties,Mint Tamarind, Yogurt,garbanzo, Crunchies
+----------------------------
+Item: Vegetable Kabab
+Price: $10.95
+Description: Seasoned Minced Vegetable Cutlet
+----------------------------
+Item: Onion Bhaji
+Price: $9.95
+Description: Shaved Onions Seasoned, Chic Pea Batter Fried
+----------------------------
+Item: Vegetable Pakora
+Price: $8.95
+Description: Vegetables, Seasoned, Chic Pea Batter Fried
+----------------------------
+Item: Vegetable Samosa
+Price: $7.95
+Description: Pastry filled with Seasoned Potatoes and Peas
+----------------------------
+Item: Fish Pakora
+Price: $13.95
+Description: Fish Seasoned, Chic Pea Batter Fried
+----------------------------
+Item: Prawn Pakora
+Price: $14.95
+Description: Prawns seasoned, Chic Pea Batter Fried
+----------------------------
+Item: Shami Kabab
+Price: $13.95
+Description: Minced Lamb Lentil Cutlet
+----------------------------
+Item: Channa Saag
+Price: $16.95
+Description: Garbanzo Beans and Spinach Cooked with Ginger, Garlic, Onion and Spices
+----------------------------
+Item: Channa Masala
+Price: $16.95
+Description: Garbanzo Beans Cooked with Ginger, Garlic, Onion and Spices
+----------------------------
+Item: Daal Tadka
+Price: $16.95
+Description: Yellow channa Daal Tempered with Ginger and Spices
+----------------------------
+Item: Daal Makhni
+Price: $16.95
+Description: Black Lentils Cooked with Spices and Herbs
+----------------------------
+Item: Alu Gobhi
+Price: $16.95
+Description: Potatoes and Cauliflower with Cumin, Ginger, Tomatoes and Onion
+----------------------------
+Item: Baingan Bharta
+Price: $17.95
+Description: Smoked Eggplant Cooked with Ginger, Garlic, Tomatoes and Spices
+----------------------------
+Item: Mixed Vegetable Korma
+Price: $17.95
+Description: Assorted Garden Fresh Vegetables in a Mild Cashew Currry
+----------------------------
+Item: Mattar Mushroom
+Price: $16.95
+Description: Curried Peas and Mushrooms
+----------------------------
+Item: Mattar Paneer
+Price: $17.95
+Description: Curried Peas and Cheese
+----------------------------
+Item: Butter Paneer
+Price: $17.95
+Description: Paneer in a Tomato Creamy sauce
+----------------------------
+Item: Saag Paneer
+Price: $17.95
+Description: Spinach and Cheese Cooked with Ginger, Garlic, Onion and Spices
+----------------------------
+Item: Bhindi Do Pyaza
+Price: $17.95
+Description: Lightly Spiced Okra with Ginger, Tomatoes,Lemon and Onion
+----------------------------
+Item: Panir Jalfrazi
+Price: $17.95
+Description: Cooked with Vegetables in a Fenugreek Tomato Sauce
+----------------------------
+Item: Malai Kofta
+Price: $17.95
+Description: Mixed Vegetable Dumpling with Cheese and Raisin Stuffing in a Cashew Curry Sauce
+----------------------------
+Item: Vegetable Neelgiri
+Price: $17.95
+Description: Lemony Curry with a Heavenly Serving of Fresh Coriander
+----------------------------
+Item: Paneer Tikka
+Price: $17.95
+Description: Paneer Marinated and Charbroiled
+----------------------------
+Item: Tandoori Chicken
+Price: $17.95
+Description: Bone in Chicken, Marinated and Charbroiled
+----------------------------
+Item: Chicken Tikka
+Price: $18.95
+Description: Chicken Breast pieces, Marinated and Charbroiled
+----------------------------
+Item: Chicken Malai Kabab
+Price: $18.95
+Description: Lightly Spiced, Cashew Marinade, Charbroiled
+----------------------------
+Item: Lamb Shish Kabab
+Price: $19.95
+Description: Minced Lamb With Onions, and Mint Charbroiled on Skewers
+----------------------------
+Item: Lamb Chops Tikka
+Price: $26.95
+Description: Lamb Chops Marinated and Charbroiled
+----------------------------
+Item: Tandoori Halibut
+Price: $24.95
+Description: Halibut Marinated and Charbroiled
+----------------------------
+Item: Chicken Curry
+Price: $17.95
+Description: Chicken cooked with Ginger, Garlic, Onion, Tomatoes and Spices
+----------------------------
+Item: Butter Chicken
+Price: $18.95
+Description: Chicken cooked in a Tomato creamy Sauce
+----------------------------
+Item: Chicken Vindaloo
+Price: $18.95
+Description: chicken Cooked in an Onion Tomato Tangy Curry with Potatoes
+----------------------------
+Item: Chicken Goa Curry
+Price: $18.95
+Description: Chicken Cooked in a Coconut Curry Sauce
+----------------------------
+Item: Chicken Korma
+Price: $18.95
+Description: Curry Chicken Cooked in a Cashew Curry Sauce
+----------------------------
+Item: Chicken Saag
+Price: $18.95
+Description: Chicken and Spinach cooked with Ginger, Garlic, Onion and Spices
+----------------------------
+Item: Chicken Jalfrazi
+Price: $18.95
+Description: Chicken Cooked with fresh vegetables in a Fenugreek Tomato sauce
+----------------------------
+Item: Chicken Dhansak
+Price: $18.95
+Description: Chicken Cooked with Yellow Lentils, Mild Lemon Spiced
+----------------------------
+Item: Chicken Chettinad
+Price: $18.95
+Description: South Indian Style Spicy Chicken Curry with Rare Spices
+----------------------------
+Item: Chicken Hariyali
+Price: $18.95
+Description: Chicken Simmered in a Mint, Cilantro, Spinach, Ginger Coconut Curry
+----------------------------
+Item: Lamb Curry
+Price: $18.95
+Description: Lamb Cooked with Ginger, Garlic, Onion, Tomatoes and Spices
+----------------------------
+Item: Lamb Saag
+Price: $19.95
+Description: Lamb and Spirach Cooked with Ginger, Garlic, Onion and Spices
+----------------------------
+Item: Lamb Korma
+Price: $19.95
+Description: Lamb Cooked in a Cashew Curry Sauce
+----------------------------
+Item: Lamb Vindaloo
+Price: $19.95
+Description: Lamb Cooked in a Tangy Curry with Potatoes
+----------------------------
+Item: Lamb Khadai
+Price: $19.95
+Description: Lamb Cooked with Onion, Bell Peppers, Ginger and Spices
+----------------------------
+Item: Lamb Kolhapuri
+Price: $19.95
+Description: Lamb Cooked in a Juicy Tamarind Curry with Konkan Spices
+----------------------------
+Item: Lamb Methi
+Price: $19.95
+Description: Lamb Cooked with Garlic and Fenugreek in a Tomato Creamy sauce
+----------------------------
+Item: Lamb Neelgiri
+Price: $19.95
+Description: Lemony Curry with a Heavenly Serving of Fresh Coriander
+----------------------------
+Item: Salmon Red Curry
+Price: $19.95
+Description: Salmon Cooked in a Tangy Southern Curry
+----------------------------
+Item: Prawns Vindaloo
+Price: $19.95
+Description: Prawns Cooked in a Tangy Curry with Potatoes
+----------------------------
+Item: Prawns Masala
+Price: $19.95
+Description: Prawns Cooked in an Onion Tomato Ginger Masala
+----------------------------
+Item: Prawns Coconut Curry
+Price: $19.95
+Description: Prawns Cooked in a Cocunut Curry Sauce
+----------------------------
+Item: Ajwaini fish
+Price: $19.95
+Description: cod cooked in an Ajwain Flavoured Onion Ginger Masala
+----------------------------
+Item: Halibut Coconut Curry
+Price: $22.95
+Description: Halibut Cooked in a Cocunut Curry Sauce
+----------------------------
+Item: Tandoori Roti
+Price: $3.25
+Description: whole Wheat Bread
+----------------------------
+Item: Bran Chappathi
+Price: $3.25
+Description: Fluffy Whole Wheat Bread
+----------------------------
+Item: Paratha
+Price: $4.50
+Description: Whole Wheat Bread Layered with Butter
+----------------------------
+Item: Onion Kulcha
+Price: $4.50
+Description: Naan Stuffed with seasoned Chopped Onion
+----------------------------
+Item: Rumali Roti
+Price: $4.50
+Description: Soft Thin Wheat Bread
+----------------------------
+Item: Keema Naan
+Price: $4.95
+Description: Stuffed with Minced Lamb
+----------------------------
+Item: Peshwari Naan
+Price: $4.95
+Description: Stuffed with Coconut, Cashew and Raisins
+----------------------------
+Item: Alu Paratha
+Price: $4.50
+Description: Stuffed with Seasoned Mashed Potatoes
+----------------------------
+Item: Mushroom Peas Pulao
+Price: $8.95
+Description: Basmati Rice with Mushroom and Green Peas
+----------------------------
+Item: Vegetable Biryani
+Price: $19.95
+Description: Vegetables Cooked with Aromatic Basmati Rice and Spices
+----------------------------
+Item: Chicken Biryani
+Price: $21.95
+Description: Chicken Cooked with Aromatic Basmati Rice and Spices
+----------------------------
+Item: Lamb Biryani
+Price: $23.95
+Description: Lamb Cooked with Aromatic Basmati Rice and Spices
+----------------------------
+Item: Prawn Biryani
+Price: $23.95
+Description: Prawn Cooked with Aromatic Basmati Rice and Spices
+----------------------------
+Item: Coconut Rice
+Price: $8.95
+Description: Basmati Rice with Grated Coconut and Nuts
+----------------------------
+Item: Chef’s Table
+Price: $49.95
+Description: per person (minimum 2 people)
+----------------------------

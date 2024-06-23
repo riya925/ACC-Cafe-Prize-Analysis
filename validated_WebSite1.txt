@@ -1,0 +1,4224 @@
+Item: Samosa
+Price: $5.50
+Description: Two crisp patties stuffed with either of potatoes or mix veg or chicken or beef
+----------------------------
+Item: Indian Fries
+Price: $7.95
+Description: Batter fried potato fingers.
+----------------------------
+Item: Mogo Fries (Cassava)
+Price: $10.95
+Description: Fried tropical potatoe fingers
+----------------------------
+Item: Vegetable Pakora
+Price: $11.95
+Description: Deep-fried mixed vegetable fritters.
+----------------------------
+Item: Gobhi Pakora
+Price: $12.95
+Description: Cauliflower pieces mixed in spices and batter fried
+----------------------------
+Item: Paneer Pakora
+Price: $13.95
+Description: Fresh homemade cheese, mixed in spices and batter fried.
+----------------------------
+Item: Chicken Pakora
+Price: $13.95
+Description: Boneless chicken marinated in ginger, garlic and batter fried.
+----------------------------
+Item: Fish Pakora
+Price: $13.95
+Description: Fish marinated in ginger, garlic and batter fried.
+----------------------------
+Item: Shrimp Pakora
+Price: $14.95
+Description: Shrimp marinated in ginger, garlic and batter fried.
+----------------------------
+Item: Bhatura
+Price: $2.25
+Description: Fried leavened bread
+----------------------------
+Item: Butter Nan
+Price: $2.25
+Description: Leavened bread with spread of butter on top.
+----------------------------
+Item: Garlic Nan
+Price: $2.95
+Description: Garlic leavened bread.
+----------------------------
+Item: Lacha Paratha
+Price: $3.25
+Description: Unleavened butter bread.
+----------------------------
+Item: Aloo Paratha
+Price: $4.95
+Description: Unleavened bread stuffed with mashed potatoes.
+----------------------------
+Item: Onion Kulcha
+Price: $5.25
+Description: Leavened bread stuffed with chopped onions, dry mango powder and fresh coriander leaves.
+----------------------------
+Item: Chicken Special Nan
+Price: $5.25
+Description: Nan stuffed with chopped chicken.
+----------------------------
+Item: Keema Nan
+Price: $5.25
+Description: Leavened bread stuffed with ground lamb.
+----------------------------
+Item: Spinach Nan
+Price: $5.25
+Description: Leavened bread stuffed with grated homemade cheese, and spinach.
+----------------------------
+Item: Pashwari Nan (Sweet Nan)
+Price: $4.95
+Description: Leavened bread stuffed with grated coconuts, raisins, cashews, almonds and pistachios.
+----------------------------
+Item: Chicken Tandoori
+Price: $23.95
+Description: Chicken marinated in yogurt, ginger, garlic, mixed with spices and served with butter sauce.
+----------------------------
+Item: Lamb Seekh Kebab
+Price: $16.95
+Description: Minced lamb mixed with fresh onions and green peppers, served with chutney.
+----------------------------
+Item: Paneer Tikka
+Price: $16.95
+Description: Marinated fresh homemade cheese. Served with chutney.
+----------------------------
+Item: Chicken Tikka
+Price: $16.95
+Description: Boneless chicken marinated in yogurt and ginger, and served with chutney.
+----------------------------
+Item: Fish Tandoori
+Price: $16.95
+Description: Fish marinated in yogurt, garlic, and served with chutney.
+----------------------------
+Item: Tandoori Prawns
+Price: $20.95
+Description: Jumbo prawns marinated in yogurt, ginger and garlic, grilled over a charcoal clay oven and served with chutney.
+----------------------------
+Item: Mixed Grill
+Price: $22.95
+Description: Tandoori Chicken, Chicken Tikka, Seekh Kebab, Prawns, Lamb Tikka, and Fish Tikka served with mint chutney.
+----------------------------
+Item: Steamed Rice
+Price: $5.25
+Description: Plain basmati rice.
+----------------------------
+Item: Pulao Rice
+Price: $6.25
+Description: Basmati rice cooked in onions, green peas and spices.
+----------------------------
+Item: Vegetable Biryani
+Price: $15.95
+Description: Basmati rice cooked with onions, green bell peppers, and combined with fresh vegetables.
+----------------------------
+Item: Vegetable Paneer Biryani
+Price: $17.95
+Description: Basmati rice cooked with onions, green bell peppers, paneer, fresh vegetable and combined with aromatic spices
+----------------------------
+Item: Biryani (Lamb/Chicken)
+Price: $17.95
+Description: Boneless pcs of lamb or chicken cooked in basmati rice & dash of spices.
+----------------------------
+Item: Prawn Biryani
+Price: $18.95
+Description: Jumbo prawns cooked delicately with Indian basmati rice and spices.
+----------------------------
+Item: Chicken Curry
+Price: $16.95
+Description: Boneless pieces of chicken cooked in onions, tomatoes, ginger, garlic sauce with exotic spices.
+----------------------------
+Item: Chicken Vindaloo
+Price: $16.95
+Description: Pieces of chicken and potatoes cooked in curry, coconut, and vinegar sauce. A specialty of Goa.
+----------------------------
+Item: Chili Chicken
+Price: $16.95
+Description: Pieces of chicken nuggets cooked delicately in exotic spices, tomatoes, vinegar, large pieces of onions and green bell peppers.
+----------------------------
+Item: Palak Chicken
+Price: $16.95
+Description: Tender pieces of chicken cooked with chopped spinach.
+----------------------------
+Item: Tawa Chicken
+Price: $16.95
+Description: Pieces of chicken on a bone, cooked on a hot tawa (griddle), mixed with onions, fresh tomatoes, green peppers and special spices.
+----------------------------
+Item: Butter Chicken
+Price: $16.95
+Description: Boneless chicken nuggets marinated in special sauce, cooked in garlic, ginger, cream & tomato sauce.
+----------------------------
+Item: Chicken Jalfrazie
+Price: $16.95
+Description: Pieces of tender chicken marinated w/ground spices sautéed w/tomatoes, onions & green bell peppers.
+----------------------------
+Item: Chicken Korma
+Price: $16.95
+Description: Pieces of tender chicken cooked delicately in a creamy sauce with cashew nuts.
+----------------------------
+Item: Chicken Tikka Masala
+Price: $16.95
+Description: Boneless pieces of chicken cooked in onions and green bell peppers with tomato sauce.
+----------------------------
+Item: Karhai Chicken
+Price: $16.95
+Description: Tender boneless chicken cooked w/onions, green bell peppers, tomatoes & tomato sauce w/exotic spices.
+----------------------------
+Item: Bombay Fish Curry
+Price: $16.95
+Description: Pieces of fish cooked traditional with exotic spices and tomatoes.
+----------------------------
+Item: Fish Masala
+Price: $16.95
+Description: Pieces of fish cooked w/fresh onions, green bell peppers & tomato sauce.
+----------------------------
+Item: Fish Vindaloo
+Price: $16.95
+Description: Fish pieces cooked with potatoes in a tangy sauce with vinegar and spices, a specialty of Goa.
+----------------------------
+Item: Prawn Curry
+Price: $18.95
+Description: Prawns cooked in onions, tomatoes, ginger, garlic and exotic spices.
+----------------------------
+Item: Prawn Vindaloo
+Price: $18.95
+Description: Prawns cooked with potatoes in a tangy sauce with vinegar and spices.
+----------------------------
+Item: Butter Prawns
+Price: $18.95
+Description: Prawns simmered in tomato sauce, finished with cream.
+----------------------------
+Item: Prawn Dopiaza
+Price: $18.95
+Description: Prawns cooked in equal quantities w/onions, finished w/cream & spices.
+----------------------------
+Item: Prawn Korma
+Price: $18.95
+Description: Prawns cooked in onions with cream sauce and cashew nuts.
+----------------------------
+Item: Prawn Masala
+Price: $18.95
+Description: Prawns cooked in fresh onions, green peppers in mildly spiced gravy.
+----------------------------
+Item: Bhuna Gosht
+Price: $17.95
+Description: Boneless pieces of lamb cubes cooked in tomatoes, ginger, garlic, vinegar, and large pieces of onions and green bell peppers.
+----------------------------
+Item: Chili Kebab
+Price: $17.95
+Description: Lamb Kebab pieces sautéed with green peppers, onions and tomatoes and spices, cooked in a sauce.
+----------------------------
+Item: Goat Curry
+Price: $17.95
+Description: Goat on the bone simmered in a ginger and garlic sauce.
+----------------------------
+Item: Keema Curry
+Price: $17.95
+Description: Minced lamb cooked in onions, garlic, ginger and mild spices.
+----------------------------
+Item: Lamb Curry
+Price: $17.95
+Description: Pieces of lamb cubes cooked in onions, ginger, garlic sauce with exotic spices.
+----------------------------
+Item: Lamb Dopiaza
+Price: $17.95
+Description: Tender lamb cooked in equal quantities of onions and finished with cream and exotic spices.
+----------------------------
+Item: Lamb Palak
+Price: $17.95
+Description: Boneless lamb cubes cooked with chopped spinach, mildly spiced.
+----------------------------
+Item: Lamb Korma
+Price: $17.95
+Description: Boneless pieces of lamb cubes cooked in a creamy sauce with cashew nuts and mildly spiced.
+----------------------------
+Item: Lamb Tikka Masala
+Price: $17.95
+Description: Tandoori Lamb Tikka cooked lightly in onion sauce, with ginger and tomatoes, tossed with fresh coriander leaves.
+----------------------------
+Item: Lamb Vindaloo
+Price: $17.95
+Description: Boneless pieces of lamb cubes cooked in garlic, ginger, coconut, vinegar and cream, mixed with potatoes and a dash of Indian spices, a specialty of Goa.
+----------------------------
+Item: Rogan Josh
+Price: $17.95
+Description: A spicy hot north Indian dish of lamb, cooked in yogurt, cream and rich masalas.
+----------------------------
+Item: Aloo Gobhi
+Price: $13.95
+Description: Cauliflower and potatoes cooked in fresh onions, tomatoes and spices.
+----------------------------
+Item: Dal Turka
+Price: $13.95
+Description: Indian lentils sautéed in onions, garlic, tomatoes and spices.
+----------------------------
+Item: Channa Masala
+Price: $13.95
+Description: Chickpeas cooked in tomatoes, onions, ginger and garlic, tossed with fresh coriander leaves.
+----------------------------
+Item: Matter Paneer
+Price: $15.50
+Description: Green peas cooked in onion sauce, tomatoes, mixed with fresh home-made cheese & dash of spices.
+----------------------------
+Item: Vegetable Jalfrazie
+Price: $15.50
+Description: Fresh vegetables sautéed with mild spices, cooked in tomatoes, onions and vinegar and dressed with coriander leaves.
+----------------------------
+Item: Bhindi Bhaji
+Price: $15.50
+Description: Fresh okra cooked with onions, tomatoes and exotic spices.
+----------------------------
+Item: Eggplant Bhartha
+Price: $15.95
+Description: Whole eggplants baked over charcoal, mashed, seasoned with herbs, onions, and tomatoes.
+----------------------------
+Item: Malai Kofta
+Price: $15.95
+Description: Mixed vegetables and grated cheese balls cooked lightly in a butter sauce and onion gravy with cashew nuts.
+----------------------------
+Item: Palak Paneer
+Price: $15.95
+Description: Fresh spinach cooked lightly in onions, ginger and garlic, mixed with home-made cheese.
+----------------------------
+Item: Shahee Paneer
+Price: $15.95
+Description: Fresh homemade cheese cooked lightly in a rich cream sauce.
+----------------------------
+Item: Chili Paneer
+Price: $15.95
+Description: Fried paneer cooked in green peppers, onions, tomatoes, ginger and spices.
+----------------------------
+Item: Paneer Makhani
+Price: $15.95
+Description: Tender pieces of home-made cheese simmered in butter with tomato sauce, finished with cream.
+----------------------------
+Item: Vegetable Korma
+Price: $15.95
+Description: Mixed vegetables, cooked in onions, cream sauce and cashew nuts.
+----------------------------
+Item: Gulab Jamun
+Price: $3.95
+Description: An Indian doughnut in warm sugar water.
+----------------------------
+Item: Mango Ice Cream
+Price: $4.25
+Description: Home-made Ice cream with pistachios and nuts.
+----------------------------
+Item: Ras Malai
+Price: $5.95
+Description: A popular Indian dessert of a home-made cheese patty, served cold with pistachios.
+----------------------------
+Item: Raita
+Price: $4.25
+Description: Homemade yogurt whipped with bits of lockey and herbs.
+----------------------------
+Item: Butter Sauce
+Price: $7.95
+Description: Creamy signature butter sauce.
+----------------------------
+Item: Dragonfruit Lassi
+Price: $5.50
+Description: Smooth, creamy and sweet dragonfruit flavoured yogurt smoothie.
+----------------------------
+Item: Strawberry Lassi
+Price: $5.50
+Description: Smooth, creamy and sweet strawberry flavoured yogurt smoothie.
+----------------------------
+Item: Mango Lassi
+Price: $4.95
+Description: Smooth, creamy and sweet yogurt based mango flavored drink
+----------------------------
+Item: Sweet Lassi
+Price: $4.95
+Description: Smooth, creamy yogurt blended with sweetener
+----------------------------
+Item: Salty Lassi
+Price: $4.95
+Description: Smooth creamy yogurt blended with aromatic cumin seeds and salt.
+----------------------------
+Item: Chai
+Price: $3.95
+Description: Seasoned tea with a house blend of spices and milk
+----------------------------
+Item: Lemon Soda Water
+Price: $4.25
+Description: Refreshing twist on a traditional lemonade
+----------------------------
+Item: Shake
+Price: $5.25
+Description: Your favourite flavour of a creamy sweet milkshake
+----------------------------
+Item: Samosa
+Price: $5.50
+Description: Two crisp patties stuffed with either of potatoes or mix veg or chicken or beef
+----------------------------
+Item: Indian Fries
+Price: $7.95
+Description: Batter fried potato fingers.
+----------------------------
+Item: Mogo Fries (Cassava)
+Price: $10.95
+Description: Fried tropical potatoe fingers
+----------------------------
+Item: Vegetable Pakora
+Price: $11.95
+Description: Deep-fried mixed vegetable fritters.
+----------------------------
+Item: Gobhi Pakora
+Price: $12.95
+Description: Cauliflower pieces mixed in spices and batter fried
+----------------------------
+Item: Paneer Pakora
+Price: $13.95
+Description: Fresh homemade cheese, mixed in spices and batter fried.
+----------------------------
+Item: Chicken Pakora
+Price: $13.95
+Description: Boneless chicken marinated in ginger, garlic and batter fried.
+----------------------------
+Item: Fish Pakora
+Price: $13.95
+Description: Fish marinated in ginger, garlic and batter fried.
+----------------------------
+Item: Shrimp Pakora
+Price: $14.95
+Description: Shrimp marinated in ginger, garlic and batter fried.
+----------------------------
+Item: Bhatura
+Price: $2.25
+Description: Fried leavened bread
+----------------------------
+Item: Butter Nan
+Price: $2.25
+Description: Leavened bread with spread of butter on top.
+----------------------------
+Item: Garlic Nan
+Price: $2.95
+Description: Garlic leavened bread.
+----------------------------
+Item: Lacha Paratha
+Price: $3.25
+Description: Unleavened butter bread.
+----------------------------
+Item: Aloo Paratha
+Price: $4.95
+Description: Unleavened bread stuffed with mashed potatoes.
+----------------------------
+Item: Onion Kulcha
+Price: $5.25
+Description: Leavened bread stuffed with chopped onions, dry mango powder and fresh coriander leaves.
+----------------------------
+Item: Chicken Special Nan
+Price: $5.25
+Description: Nan stuffed with chopped chicken.
+----------------------------
+Item: Keema Nan
+Price: $5.25
+Description: Leavened bread stuffed with ground lamb.
+----------------------------
+Item: Spinach Nan
+Price: $5.25
+Description: Leavened bread stuffed with grated homemade cheese, and spinach.
+----------------------------
+Item: Pashwari Nan (Sweet Nan)
+Price: $4.95
+Description: Leavened bread stuffed with grated coconuts, raisins, cashews, almonds and pistachios.
+----------------------------
+Item: Chicken Tandoori
+Price: $23.95
+Description: Chicken marinated in yogurt, ginger, garlic, mixed with spices and served with butter sauce.
+----------------------------
+Item: Lamb Seekh Kebab
+Price: $16.95
+Description: Minced lamb mixed with fresh onions and green peppers, served with chutney.
+----------------------------
+Item: Paneer Tikka
+Price: $16.95
+Description: Marinated fresh homemade cheese. Served with chutney.
+----------------------------
+Item: Chicken Tikka
+Price: $16.95
+Description: Boneless chicken marinated in yogurt and ginger, and served with chutney.
+----------------------------
+Item: Fish Tandoori
+Price: $16.95
+Description: Fish marinated in yogurt, garlic, and served with chutney.
+----------------------------
+Item: Tandoori Prawns
+Price: $20.95
+Description: Jumbo prawns marinated in yogurt, ginger and garlic, grilled over a charcoal clay oven and served with chutney.
+----------------------------
+Item: Mixed Grill
+Price: $22.95
+Description: Tandoori Chicken, Chicken Tikka, Seekh Kebab, Prawns, Lamb Tikka, and Fish Tikka served with mint chutney.
+----------------------------
+Item: Steamed Rice
+Price: $5.25
+Description: Plain basmati rice.
+----------------------------
+Item: Pulao Rice
+Price: $6.25
+Description: Basmati rice cooked in onions, green peas and spices.
+----------------------------
+Item: Vegetable Biryani
+Price: $15.95
+Description: Basmati rice cooked with onions, green bell peppers, and combined with fresh vegetables.
+----------------------------
+Item: Vegetable Paneer Biryani
+Price: $17.95
+Description: Basmati rice cooked with onions, green bell peppers, paneer, fresh vegetable and combined with aromatic spices
+----------------------------
+Item: Biryani (Lamb/Chicken)
+Price: $17.95
+Description: Boneless pcs of lamb or chicken cooked in basmati rice & dash of spices.
+----------------------------
+Item: Prawn Biryani
+Price: $18.95
+Description: Jumbo prawns cooked delicately with Indian basmati rice and spices.
+----------------------------
+Item: Chicken Curry
+Price: $16.95
+Description: Boneless pieces of chicken cooked in onions, tomatoes, ginger, garlic sauce with exotic spices.
+----------------------------
+Item: Chicken Vindaloo
+Price: $16.95
+Description: Pieces of chicken and potatoes cooked in curry, coconut, and vinegar sauce. A specialty of Goa.
+----------------------------
+Item: Chili Chicken
+Price: $16.95
+Description: Pieces of chicken nuggets cooked delicately in exotic spices, tomatoes, vinegar, large pieces of onions and green bell peppers.
+----------------------------
+Item: Palak Chicken
+Price: $16.95
+Description: Tender pieces of chicken cooked with chopped spinach.
+----------------------------
+Item: Tawa Chicken
+Price: $16.95
+Description: Pieces of chicken on a bone, cooked on a hot tawa (griddle), mixed with onions, fresh tomatoes, green peppers and special spices.
+----------------------------
+Item: Butter Chicken
+Price: $16.95
+Description: Boneless chicken nuggets marinated in special sauce, cooked in garlic, ginger, cream & tomato sauce.
+----------------------------
+Item: Chicken Jalfrazie
+Price: $16.95
+Description: Pieces of tender chicken marinated w/ground spices sautéed w/tomatoes, onions & green bell peppers.
+----------------------------
+Item: Chicken Korma
+Price: $16.95
+Description: Pieces of tender chicken cooked delicately in a creamy sauce with cashew nuts.
+----------------------------
+Item: Chicken Tikka Masala
+Price: $16.95
+Description: Boneless pieces of chicken cooked in onions and green bell peppers with tomato sauce.
+----------------------------
+Item: Karhai Chicken
+Price: $16.95
+Description: Tender boneless chicken cooked w/onions, green bell peppers, tomatoes & tomato sauce w/exotic spices.
+----------------------------
+Item: Bombay Fish Curry
+Price: $16.95
+Description: Pieces of fish cooked traditional with exotic spices and tomatoes.
+----------------------------
+Item: Fish Masala
+Price: $16.95
+Description: Pieces of fish cooked w/fresh onions, green bell peppers & tomato sauce.
+----------------------------
+Item: Fish Vindaloo
+Price: $16.95
+Description: Fish pieces cooked with potatoes in a tangy sauce with vinegar and spices, a specialty of Goa.
+----------------------------
+Item: Prawn Curry
+Price: $18.95
+Description: Prawns cooked in onions, tomatoes, ginger, garlic and exotic spices.
+----------------------------
+Item: Prawn Vindaloo
+Price: $18.95
+Description: Prawns cooked with potatoes in a tangy sauce with vinegar and spices.
+----------------------------
+Item: Butter Prawns
+Price: $18.95
+Description: Prawns simmered in tomato sauce, finished with cream.
+----------------------------
+Item: Prawn Dopiaza
+Price: $18.95
+Description: Prawns cooked in equal quantities w/onions, finished w/cream & spices.
+----------------------------
+Item: Prawn Korma
+Price: $18.95
+Description: Prawns cooked in onions with cream sauce and cashew nuts.
+----------------------------
+Item: Prawn Masala
+Price: $18.95
+Description: Prawns cooked in fresh onions, green peppers in mildly spiced gravy.
+----------------------------
+Item: Bhuna Gosht
+Price: $17.95
+Description: Boneless pieces of lamb cubes cooked in tomatoes, ginger, garlic, vinegar, and large pieces of onions and green bell peppers.
+----------------------------
+Item: Chili Kebab
+Price: $17.95
+Description: Lamb Kebab pieces sautéed with green peppers, onions and tomatoes and spices, cooked in a sauce.
+----------------------------
+Item: Goat Curry
+Price: $17.95
+Description: Goat on the bone simmered in a ginger and garlic sauce.
+----------------------------
+Item: Keema Curry
+Price: $17.95
+Description: Minced lamb cooked in onions, garlic, ginger and mild spices.
+----------------------------
+Item: Lamb Curry
+Price: $17.95
+Description: Pieces of lamb cubes cooked in onions, ginger, garlic sauce with exotic spices.
+----------------------------
+Item: Lamb Dopiaza
+Price: $17.95
+Description: Tender lamb cooked in equal quantities of onions and finished with cream and exotic spices.
+----------------------------
+Item: Lamb Palak
+Price: $17.95
+Description: Boneless lamb cubes cooked with chopped spinach, mildly spiced.
+----------------------------
+Item: Lamb Korma
+Price: $17.95
+Description: Boneless pieces of lamb cubes cooked in a creamy sauce with cashew nuts and mildly spiced.
+----------------------------
+Item: Lamb Tikka Masala
+Price: $17.95
+Description: Tandoori Lamb Tikka cooked lightly in onion sauce, with ginger and tomatoes, tossed with fresh coriander leaves.
+----------------------------
+Item: Lamb Vindaloo
+Price: $17.95
+Description: Boneless pieces of lamb cubes cooked in garlic, ginger, coconut, vinegar and cream, mixed with potatoes and a dash of Indian spices, a specialty of Goa.
+----------------------------
+Item: Rogan Josh
+Price: $17.95
+Description: A spicy hot north Indian dish of lamb, cooked in yogurt, cream and rich masalas.
+----------------------------
+Item: Aloo Gobhi
+Price: $13.95
+Description: Cauliflower and potatoes cooked in fresh onions, tomatoes and spices.
+----------------------------
+Item: Dal Turka
+Price: $13.95
+Description: Indian lentils sautéed in onions, garlic, tomatoes and spices.
+----------------------------
+Item: Channa Masala
+Price: $13.95
+Description: Chickpeas cooked in tomatoes, onions, ginger and garlic, tossed with fresh coriander leaves.
+----------------------------
+Item: Matter Paneer
+Price: $15.50
+Description: Green peas cooked in onion sauce, tomatoes, mixed with fresh home-made cheese & dash of spices.
+----------------------------
+Item: Vegetable Jalfrazie
+Price: $15.50
+Description: Fresh vegetables sautéed with mild spices, cooked in tomatoes, onions and vinegar and dressed with coriander leaves.
+----------------------------
+Item: Bhindi Bhaji
+Price: $15.50
+Description: Fresh okra cooked with onions, tomatoes and exotic spices.
+----------------------------
+Item: Eggplant Bhartha
+Price: $15.95
+Description: Whole eggplants baked over charcoal, mashed, seasoned with herbs, onions, and tomatoes.
+----------------------------
+Item: Malai Kofta
+Price: $15.95
+Description: Mixed vegetables and grated cheese balls cooked lightly in a butter sauce and onion gravy with cashew nuts.
+----------------------------
+Item: Palak Paneer
+Price: $15.95
+Description: Fresh spinach cooked lightly in onions, ginger and garlic, mixed with home-made cheese.
+----------------------------
+Item: Shahee Paneer
+Price: $15.95
+Description: Fresh homemade cheese cooked lightly in a rich cream sauce.
+----------------------------
+Item: Chili Paneer
+Price: $15.95
+Description: Fried paneer cooked in green peppers, onions, tomatoes, ginger and spices.
+----------------------------
+Item: Paneer Makhani
+Price: $15.95
+Description: Tender pieces of home-made cheese simmered in butter with tomato sauce, finished with cream.
+----------------------------
+Item: Vegetable Korma
+Price: $15.95
+Description: Mixed vegetables, cooked in onions, cream sauce and cashew nuts.
+----------------------------
+Item: Gulab Jamun
+Price: $3.95
+Description: An Indian doughnut in warm sugar water.
+----------------------------
+Item: Mango Ice Cream
+Price: $4.25
+Description: Home-made Ice cream with pistachios and nuts.
+----------------------------
+Item: Ras Malai
+Price: $5.95
+Description: A popular Indian dessert of a home-made cheese patty, served cold with pistachios.
+----------------------------
+Item: Raita
+Price: $4.25
+Description: Homemade yogurt whipped with bits of lockey and herbs.
+----------------------------
+Item: Butter Sauce
+Price: $7.95
+Description: Creamy signature butter sauce.
+----------------------------
+Item: Dragonfruit Lassi
+Price: $5.50
+Description: Smooth, creamy and sweet dragonfruit flavoured yogurt smoothie.
+----------------------------
+Item: Strawberry Lassi
+Price: $5.50
+Description: Smooth, creamy and sweet strawberry flavoured yogurt smoothie.
+----------------------------
+Item: Mango Lassi
+Price: $4.95
+Description: Smooth, creamy and sweet yogurt based mango flavored drink
+----------------------------
+Item: Sweet Lassi
+Price: $4.95
+Description: Smooth, creamy yogurt blended with sweetener
+----------------------------
+Item: Salty Lassi
+Price: $4.95
+Description: Smooth creamy yogurt blended with aromatic cumin seeds and salt.
+----------------------------
+Item: Chai
+Price: $3.95
+Description: Seasoned tea with a house blend of spices and milk
+----------------------------
+Item: Lemon Soda Water
+Price: $4.25
+Description: Refreshing twist on a traditional lemonade
+----------------------------
+Item: Shake
+Price: $5.25
+Description: Your favourite flavour of a creamy sweet milkshake
+----------------------------
+Item: Samosa
+Price: $5.50
+Description: Two crisp patties stuffed with either of potatoes or mix veg or chicken or beef
+----------------------------
+Item: Indian Fries
+Price: $7.95
+Description: Batter fried potato fingers.
+----------------------------
+Item: Mogo Fries (Cassava)
+Price: $10.95
+Description: Fried tropical potatoe fingers
+----------------------------
+Item: Vegetable Pakora
+Price: $11.95
+Description: Deep-fried mixed vegetable fritters.
+----------------------------
+Item: Gobhi Pakora
+Price: $12.95
+Description: Cauliflower pieces mixed in spices and batter fried
+----------------------------
+Item: Paneer Pakora
+Price: $13.95
+Description: Fresh homemade cheese, mixed in spices and batter fried.
+----------------------------
+Item: Chicken Pakora
+Price: $13.95
+Description: Boneless chicken marinated in ginger, garlic and batter fried.
+----------------------------
+Item: Fish Pakora
+Price: $13.95
+Description: Fish marinated in ginger, garlic and batter fried.
+----------------------------
+Item: Shrimp Pakora
+Price: $14.95
+Description: Shrimp marinated in ginger, garlic and batter fried.
+----------------------------
+Item: Bhatura
+Price: $2.25
+Description: Fried leavened bread
+----------------------------
+Item: Butter Nan
+Price: $2.25
+Description: Leavened bread with spread of butter on top.
+----------------------------
+Item: Garlic Nan
+Price: $2.95
+Description: Garlic leavened bread.
+----------------------------
+Item: Lacha Paratha
+Price: $3.25
+Description: Unleavened butter bread.
+----------------------------
+Item: Aloo Paratha
+Price: $4.95
+Description: Unleavened bread stuffed with mashed potatoes.
+----------------------------
+Item: Onion Kulcha
+Price: $5.25
+Description: Leavened bread stuffed with chopped onions, dry mango powder and fresh coriander leaves.
+----------------------------
+Item: Chicken Special Nan
+Price: $5.25
+Description: Nan stuffed with chopped chicken.
+----------------------------
+Item: Keema Nan
+Price: $5.25
+Description: Leavened bread stuffed with ground lamb.
+----------------------------
+Item: Spinach Nan
+Price: $5.25
+Description: Leavened bread stuffed with grated homemade cheese, and spinach.
+----------------------------
+Item: Pashwari Nan (Sweet Nan)
+Price: $4.95
+Description: Leavened bread stuffed with grated coconuts, raisins, cashews, almonds and pistachios.
+----------------------------
+Item: Chicken Tandoori
+Price: $23.95
+Description: Chicken marinated in yogurt, ginger, garlic, mixed with spices and served with butter sauce.
+----------------------------
+Item: Lamb Seekh Kebab
+Price: $16.95
+Description: Minced lamb mixed with fresh onions and green peppers, served with chutney.
+----------------------------
+Item: Paneer Tikka
+Price: $16.95
+Description: Marinated fresh homemade cheese. Served with chutney.
+----------------------------
+Item: Chicken Tikka
+Price: $16.95
+Description: Boneless chicken marinated in yogurt and ginger, and served with chutney.
+----------------------------
+Item: Fish Tandoori
+Price: $16.95
+Description: Fish marinated in yogurt, garlic, and served with chutney.
+----------------------------
+Item: Tandoori Prawns
+Price: $20.95
+Description: Jumbo prawns marinated in yogurt, ginger and garlic, grilled over a charcoal clay oven and served with chutney.
+----------------------------
+Item: Mixed Grill
+Price: $22.95
+Description: Tandoori Chicken, Chicken Tikka, Seekh Kebab, Prawns, Lamb Tikka, and Fish Tikka served with mint chutney.
+----------------------------
+Item: Steamed Rice
+Price: $5.25
+Description: Plain basmati rice.
+----------------------------
+Item: Pulao Rice
+Price: $6.25
+Description: Basmati rice cooked in onions, green peas and spices.
+----------------------------
+Item: Vegetable Biryani
+Price: $15.95
+Description: Basmati rice cooked with onions, green bell peppers, and combined with fresh vegetables.
+----------------------------
+Item: Vegetable Paneer Biryani
+Price: $17.95
+Description: Basmati rice cooked with onions, green bell peppers, paneer, fresh vegetable and combined with aromatic spices
+----------------------------
+Item: Biryani (Lamb/Chicken)
+Price: $17.95
+Description: Boneless pcs of lamb or chicken cooked in basmati rice & dash of spices.
+----------------------------
+Item: Prawn Biryani
+Price: $18.95
+Description: Jumbo prawns cooked delicately with Indian basmati rice and spices.
+----------------------------
+Item: Chicken Curry
+Price: $16.95
+Description: Boneless pieces of chicken cooked in onions, tomatoes, ginger, garlic sauce with exotic spices.
+----------------------------
+Item: Chicken Vindaloo
+Price: $16.95
+Description: Pieces of chicken and potatoes cooked in curry, coconut, and vinegar sauce. A specialty of Goa.
+----------------------------
+Item: Chili Chicken
+Price: $16.95
+Description: Pieces of chicken nuggets cooked delicately in exotic spices, tomatoes, vinegar, large pieces of onions and green bell peppers.
+----------------------------
+Item: Palak Chicken
+Price: $16.95
+Description: Tender pieces of chicken cooked with chopped spinach.
+----------------------------
+Item: Tawa Chicken
+Price: $16.95
+Description: Pieces of chicken on a bone, cooked on a hot tawa (griddle), mixed with onions, fresh tomatoes, green peppers and special spices.
+----------------------------
+Item: Butter Chicken
+Price: $16.95
+Description: Boneless chicken nuggets marinated in special sauce, cooked in garlic, ginger, cream & tomato sauce.
+----------------------------
+Item: Chicken Jalfrazie
+Price: $16.95
+Description: Pieces of tender chicken marinated w/ground spices sautéed w/tomatoes, onions & green bell peppers.
+----------------------------
+Item: Chicken Korma
+Price: $16.95
+Description: Pieces of tender chicken cooked delicately in a creamy sauce with cashew nuts.
+----------------------------
+Item: Chicken Tikka Masala
+Price: $16.95
+Description: Boneless pieces of chicken cooked in onions and green bell peppers with tomato sauce.
+----------------------------
+Item: Karhai Chicken
+Price: $16.95
+Description: Tender boneless chicken cooked w/onions, green bell peppers, tomatoes & tomato sauce w/exotic spices.
+----------------------------
+Item: Bombay Fish Curry
+Price: $16.95
+Description: Pieces of fish cooked traditional with exotic spices and tomatoes.
+----------------------------
+Item: Fish Masala
+Price: $16.95
+Description: Pieces of fish cooked w/fresh onions, green bell peppers & tomato sauce.
+----------------------------
+Item: Fish Vindaloo
+Price: $16.95
+Description: Fish pieces cooked with potatoes in a tangy sauce with vinegar and spices, a specialty of Goa.
+----------------------------
+Item: Prawn Curry
+Price: $18.95
+Description: Prawns cooked in onions, tomatoes, ginger, garlic and exotic spices.
+----------------------------
+Item: Prawn Vindaloo
+Price: $18.95
+Description: Prawns cooked with potatoes in a tangy sauce with vinegar and spices.
+----------------------------
+Item: Butter Prawns
+Price: $18.95
+Description: Prawns simmered in tomato sauce, finished with cream.
+----------------------------
+Item: Prawn Dopiaza
+Price: $18.95
+Description: Prawns cooked in equal quantities w/onions, finished w/cream & spices.
+----------------------------
+Item: Prawn Korma
+Price: $18.95
+Description: Prawns cooked in onions with cream sauce and cashew nuts.
+----------------------------
+Item: Prawn Masala
+Price: $18.95
+Description: Prawns cooked in fresh onions, green peppers in mildly spiced gravy.
+----------------------------
+Item: Bhuna Gosht
+Price: $17.95
+Description: Boneless pieces of lamb cubes cooked in tomatoes, ginger, garlic, vinegar, and large pieces of onions and green bell peppers.
+----------------------------
+Item: Chili Kebab
+Price: $17.95
+Description: Lamb Kebab pieces sautéed with green peppers, onions and tomatoes and spices, cooked in a sauce.
+----------------------------
+Item: Goat Curry
+Price: $17.95
+Description: Goat on the bone simmered in a ginger and garlic sauce.
+----------------------------
+Item: Keema Curry
+Price: $17.95
+Description: Minced lamb cooked in onions, garlic, ginger and mild spices.
+----------------------------
+Item: Lamb Curry
+Price: $17.95
+Description: Pieces of lamb cubes cooked in onions, ginger, garlic sauce with exotic spices.
+----------------------------
+Item: Lamb Dopiaza
+Price: $17.95
+Description: Tender lamb cooked in equal quantities of onions and finished with cream and exotic spices.
+----------------------------
+Item: Lamb Palak
+Price: $17.95
+Description: Boneless lamb cubes cooked with chopped spinach, mildly spiced.
+----------------------------
+Item: Lamb Korma
+Price: $17.95
+Description: Boneless pieces of lamb cubes cooked in a creamy sauce with cashew nuts and mildly spiced.
+----------------------------
+Item: Lamb Tikka Masala
+Price: $17.95
+Description: Tandoori Lamb Tikka cooked lightly in onion sauce, with ginger and tomatoes, tossed with fresh coriander leaves.
+----------------------------
+Item: Lamb Vindaloo
+Price: $17.95
+Description: Boneless pieces of lamb cubes cooked in garlic, ginger, coconut, vinegar and cream, mixed with potatoes and a dash of Indian spices, a specialty of Goa.
+----------------------------
+Item: Rogan Josh
+Price: $17.95
+Description: A spicy hot north Indian dish of lamb, cooked in yogurt, cream and rich masalas.
+----------------------------
+Item: Aloo Gobhi
+Price: $13.95
+Description: Cauliflower and potatoes cooked in fresh onions, tomatoes and spices.
+----------------------------
+Item: Dal Turka
+Price: $13.95
+Description: Indian lentils sautéed in onions, garlic, tomatoes and spices.
+----------------------------
+Item: Channa Masala
+Price: $13.95
+Description: Chickpeas cooked in tomatoes, onions, ginger and garlic, tossed with fresh coriander leaves.
+----------------------------
+Item: Matter Paneer
+Price: $15.50
+Description: Green peas cooked in onion sauce, tomatoes, mixed with fresh home-made cheese & dash of spices.
+----------------------------
+Item: Vegetable Jalfrazie
+Price: $15.50
+Description: Fresh vegetables sautéed with mild spices, cooked in tomatoes, onions and vinegar and dressed with coriander leaves.
+----------------------------
+Item: Bhindi Bhaji
+Price: $15.50
+Description: Fresh okra cooked with onions, tomatoes and exotic spices.
+----------------------------
+Item: Eggplant Bhartha
+Price: $15.95
+Description: Whole eggplants baked over charcoal, mashed, seasoned with herbs, onions, and tomatoes.
+----------------------------
+Item: Malai Kofta
+Price: $15.95
+Description: Mixed vegetables and grated cheese balls cooked lightly in a butter sauce and onion gravy with cashew nuts.
+----------------------------
+Item: Palak Paneer
+Price: $15.95
+Description: Fresh spinach cooked lightly in onions, ginger and garlic, mixed with home-made cheese.
+----------------------------
+Item: Shahee Paneer
+Price: $15.95
+Description: Fresh homemade cheese cooked lightly in a rich cream sauce.
+----------------------------
+Item: Chili Paneer
+Price: $15.95
+Description: Fried paneer cooked in green peppers, onions, tomatoes, ginger and spices.
+----------------------------
+Item: Paneer Makhani
+Price: $15.95
+Description: Tender pieces of home-made cheese simmered in butter with tomato sauce, finished with cream.
+----------------------------
+Item: Vegetable Korma
+Price: $15.95
+Description: Mixed vegetables, cooked in onions, cream sauce and cashew nuts.
+----------------------------
+Item: Gulab Jamun
+Price: $3.95
+Description: An Indian doughnut in warm sugar water.
+----------------------------
+Item: Mango Ice Cream
+Price: $4.25
+Description: Home-made Ice cream with pistachios and nuts.
+----------------------------
+Item: Ras Malai
+Price: $5.95
+Description: A popular Indian dessert of a home-made cheese patty, served cold with pistachios.
+----------------------------
+Item: Raita
+Price: $4.25
+Description: Homemade yogurt whipped with bits of lockey and herbs.
+----------------------------
+Item: Butter Sauce
+Price: $7.95
+Description: Creamy signature butter sauce.
+----------------------------
+Item: Dragonfruit Lassi
+Price: $5.50
+Description: Smooth, creamy and sweet dragonfruit flavoured yogurt smoothie.
+----------------------------
+Item: Strawberry Lassi
+Price: $5.50
+Description: Smooth, creamy and sweet strawberry flavoured yogurt smoothie.
+----------------------------
+Item: Mango Lassi
+Price: $4.95
+Description: Smooth, creamy and sweet yogurt based mango flavored drink
+----------------------------
+Item: Sweet Lassi
+Price: $4.95
+Description: Smooth, creamy yogurt blended with sweetener
+----------------------------
+Item: Salty Lassi
+Price: $4.95
+Description: Smooth creamy yogurt blended with aromatic cumin seeds and salt.
+----------------------------
+Item: Chai
+Price: $3.95
+Description: Seasoned tea with a house blend of spices and milk
+----------------------------
+Item: Lemon Soda Water
+Price: $4.25
+Description: Refreshing twist on a traditional lemonade
+----------------------------
+Item: Shake
+Price: $5.25
+Description: Your favourite flavour of a creamy sweet milkshake
+----------------------------
+Item: Samosa
+Price: $5.50
+Description: Two crisp patties stuffed with either of potatoes or mix veg or chicken or beef
+----------------------------
+Item: Indian Fries
+Price: $7.95
+Description: Batter fried potato fingers.
+----------------------------
+Item: Mogo Fries (Cassava)
+Price: $10.95
+Description: Fried tropical potatoe fingers
+----------------------------
+Item: Vegetable Pakora
+Price: $11.95
+Description: Deep-fried mixed vegetable fritters.
+----------------------------
+Item: Gobhi Pakora
+Price: $12.95
+Description: Cauliflower pieces mixed in spices and batter fried
+----------------------------
+Item: Paneer Pakora
+Price: $13.95
+Description: Fresh homemade cheese, mixed in spices and batter fried.
+----------------------------
+Item: Chicken Pakora
+Price: $13.95
+Description: Boneless chicken marinated in ginger, garlic and batter fried.
+----------------------------
+Item: Fish Pakora
+Price: $13.95
+Description: Fish marinated in ginger, garlic and batter fried.
+----------------------------
+Item: Shrimp Pakora
+Price: $14.95
+Description: Shrimp marinated in ginger, garlic and batter fried.
+----------------------------
+Item: Bhatura
+Price: $2.25
+Description: Fried leavened bread
+----------------------------
+Item: Butter Nan
+Price: $2.25
+Description: Leavened bread with spread of butter on top.
+----------------------------
+Item: Garlic Nan
+Price: $2.95
+Description: Garlic leavened bread.
+----------------------------
+Item: Lacha Paratha
+Price: $3.25
+Description: Unleavened butter bread.
+----------------------------
+Item: Aloo Paratha
+Price: $4.95
+Description: Unleavened bread stuffed with mashed potatoes.
+----------------------------
+Item: Onion Kulcha
+Price: $5.25
+Description: Leavened bread stuffed with chopped onions, dry mango powder and fresh coriander leaves.
+----------------------------
+Item: Chicken Special Nan
+Price: $5.25
+Description: Nan stuffed with chopped chicken.
+----------------------------
+Item: Keema Nan
+Price: $5.25
+Description: Leavened bread stuffed with ground lamb.
+----------------------------
+Item: Spinach Nan
+Price: $5.25
+Description: Leavened bread stuffed with grated homemade cheese, and spinach.
+----------------------------
+Item: Pashwari Nan (Sweet Nan)
+Price: $4.95
+Description: Leavened bread stuffed with grated coconuts, raisins, cashews, almonds and pistachios.
+----------------------------
+Item: Chicken Tandoori
+Price: $23.95
+Description: Chicken marinated in yogurt, ginger, garlic, mixed with spices and served with butter sauce.
+----------------------------
+Item: Lamb Seekh Kebab
+Price: $16.95
+Description: Minced lamb mixed with fresh onions and green peppers, served with chutney.
+----------------------------
+Item: Paneer Tikka
+Price: $16.95
+Description: Marinated fresh homemade cheese. Served with chutney.
+----------------------------
+Item: Chicken Tikka
+Price: $16.95
+Description: Boneless chicken marinated in yogurt and ginger, and served with chutney.
+----------------------------
+Item: Fish Tandoori
+Price: $16.95
+Description: Fish marinated in yogurt, garlic, and served with chutney.
+----------------------------
+Item: Tandoori Prawns
+Price: $20.95
+Description: Jumbo prawns marinated in yogurt, ginger and garlic, grilled over a charcoal clay oven and served with chutney.
+----------------------------
+Item: Mixed Grill
+Price: $22.95
+Description: Tandoori Chicken, Chicken Tikka, Seekh Kebab, Prawns, Lamb Tikka, and Fish Tikka served with mint chutney.
+----------------------------
+Item: Steamed Rice
+Price: $5.25
+Description: Plain basmati rice.
+----------------------------
+Item: Pulao Rice
+Price: $6.25
+Description: Basmati rice cooked in onions, green peas and spices.
+----------------------------
+Item: Vegetable Biryani
+Price: $15.95
+Description: Basmati rice cooked with onions, green bell peppers, and combined with fresh vegetables.
+----------------------------
+Item: Vegetable Paneer Biryani
+Price: $17.95
+Description: Basmati rice cooked with onions, green bell peppers, paneer, fresh vegetable and combined with aromatic spices
+----------------------------
+Item: Biryani (Lamb/Chicken)
+Price: $17.95
+Description: Boneless pcs of lamb or chicken cooked in basmati rice & dash of spices.
+----------------------------
+Item: Prawn Biryani
+Price: $18.95
+Description: Jumbo prawns cooked delicately with Indian basmati rice and spices.
+----------------------------
+Item: Chicken Curry
+Price: $16.95
+Description: Boneless pieces of chicken cooked in onions, tomatoes, ginger, garlic sauce with exotic spices.
+----------------------------
+Item: Chicken Vindaloo
+Price: $16.95
+Description: Pieces of chicken and potatoes cooked in curry, coconut, and vinegar sauce. A specialty of Goa.
+----------------------------
+Item: Chili Chicken
+Price: $16.95
+Description: Pieces of chicken nuggets cooked delicately in exotic spices, tomatoes, vinegar, large pieces of onions and green bell peppers.
+----------------------------
+Item: Palak Chicken
+Price: $16.95
+Description: Tender pieces of chicken cooked with chopped spinach.
+----------------------------
+Item: Tawa Chicken
+Price: $16.95
+Description: Pieces of chicken on a bone, cooked on a hot tawa (griddle), mixed with onions, fresh tomatoes, green peppers and special spices.
+----------------------------
+Item: Butter Chicken
+Price: $16.95
+Description: Boneless chicken nuggets marinated in special sauce, cooked in garlic, ginger, cream & tomato sauce.
+----------------------------
+Item: Chicken Jalfrazie
+Price: $16.95
+Description: Pieces of tender chicken marinated w/ground spices sautéed w/tomatoes, onions & green bell peppers.
+----------------------------
+Item: Chicken Korma
+Price: $16.95
+Description: Pieces of tender chicken cooked delicately in a creamy sauce with cashew nuts.
+----------------------------
+Item: Chicken Tikka Masala
+Price: $16.95
+Description: Boneless pieces of chicken cooked in onions and green bell peppers with tomato sauce.
+----------------------------
+Item: Karhai Chicken
+Price: $16.95
+Description: Tender boneless chicken cooked w/onions, green bell peppers, tomatoes & tomato sauce w/exotic spices.
+----------------------------
+Item: Bombay Fish Curry
+Price: $16.95
+Description: Pieces of fish cooked traditional with exotic spices and tomatoes.
+----------------------------
+Item: Fish Masala
+Price: $16.95
+Description: Pieces of fish cooked w/fresh onions, green bell peppers & tomato sauce.
+----------------------------
+Item: Fish Vindaloo
+Price: $16.95
+Description: Fish pieces cooked with potatoes in a tangy sauce with vinegar and spices, a specialty of Goa.
+----------------------------
+Item: Prawn Curry
+Price: $18.95
+Description: Prawns cooked in onions, tomatoes, ginger, garlic and exotic spices.
+----------------------------
+Item: Prawn Vindaloo
+Price: $18.95
+Description: Prawns cooked with potatoes in a tangy sauce with vinegar and spices.
+----------------------------
+Item: Butter Prawns
+Price: $18.95
+Description: Prawns simmered in tomato sauce, finished with cream.
+----------------------------
+Item: Prawn Dopiaza
+Price: $18.95
+Description: Prawns cooked in equal quantities w/onions, finished w/cream & spices.
+----------------------------
+Item: Prawn Korma
+Price: $18.95
+Description: Prawns cooked in onions with cream sauce and cashew nuts.
+----------------------------
+Item: Prawn Masala
+Price: $18.95
+Description: Prawns cooked in fresh onions, green peppers in mildly spiced gravy.
+----------------------------
+Item: Bhuna Gosht
+Price: $17.95
+Description: Boneless pieces of lamb cubes cooked in tomatoes, ginger, garlic, vinegar, and large pieces of onions and green bell peppers.
+----------------------------
+Item: Chili Kebab
+Price: $17.95
+Description: Lamb Kebab pieces sautéed with green peppers, onions and tomatoes and spices, cooked in a sauce.
+----------------------------
+Item: Goat Curry
+Price: $17.95
+Description: Goat on the bone simmered in a ginger and garlic sauce.
+----------------------------
+Item: Keema Curry
+Price: $17.95
+Description: Minced lamb cooked in onions, garlic, ginger and mild spices.
+----------------------------
+Item: Lamb Curry
+Price: $17.95
+Description: Pieces of lamb cubes cooked in onions, ginger, garlic sauce with exotic spices.
+----------------------------
+Item: Lamb Dopiaza
+Price: $17.95
+Description: Tender lamb cooked in equal quantities of onions and finished with cream and exotic spices.
+----------------------------
+Item: Lamb Palak
+Price: $17.95
+Description: Boneless lamb cubes cooked with chopped spinach, mildly spiced.
+----------------------------
+Item: Lamb Korma
+Price: $17.95
+Description: Boneless pieces of lamb cubes cooked in a creamy sauce with cashew nuts and mildly spiced.
+----------------------------
+Item: Lamb Tikka Masala
+Price: $17.95
+Description: Tandoori Lamb Tikka cooked lightly in onion sauce, with ginger and tomatoes, tossed with fresh coriander leaves.
+----------------------------
+Item: Lamb Vindaloo
+Price: $17.95
+Description: Boneless pieces of lamb cubes cooked in garlic, ginger, coconut, vinegar and cream, mixed with potatoes and a dash of Indian spices, a specialty of Goa.
+----------------------------
+Item: Rogan Josh
+Price: $17.95
+Description: A spicy hot north Indian dish of lamb, cooked in yogurt, cream and rich masalas.
+----------------------------
+Item: Aloo Gobhi
+Price: $13.95
+Description: Cauliflower and potatoes cooked in fresh onions, tomatoes and spices.
+----------------------------
+Item: Dal Turka
+Price: $13.95
+Description: Indian lentils sautéed in onions, garlic, tomatoes and spices.
+----------------------------
+Item: Channa Masala
+Price: $13.95
+Description: Chickpeas cooked in tomatoes, onions, ginger and garlic, tossed with fresh coriander leaves.
+----------------------------
+Item: Matter Paneer
+Price: $15.50
+Description: Green peas cooked in onion sauce, tomatoes, mixed with fresh home-made cheese & dash of spices.
+----------------------------
+Item: Vegetable Jalfrazie
+Price: $15.50
+Description: Fresh vegetables sautéed with mild spices, cooked in tomatoes, onions and vinegar and dressed with coriander leaves.
+----------------------------
+Item: Bhindi Bhaji
+Price: $15.50
+Description: Fresh okra cooked with onions, tomatoes and exotic spices.
+----------------------------
+Item: Eggplant Bhartha
+Price: $15.95
+Description: Whole eggplants baked over charcoal, mashed, seasoned with herbs, onions, and tomatoes.
+----------------------------
+Item: Malai Kofta
+Price: $15.95
+Description: Mixed vegetables and grated cheese balls cooked lightly in a butter sauce and onion gravy with cashew nuts.
+----------------------------
+Item: Palak Paneer
+Price: $15.95
+Description: Fresh spinach cooked lightly in onions, ginger and garlic, mixed with home-made cheese.
+----------------------------
+Item: Shahee Paneer
+Price: $15.95
+Description: Fresh homemade cheese cooked lightly in a rich cream sauce.
+----------------------------
+Item: Chili Paneer
+Price: $15.95
+Description: Fried paneer cooked in green peppers, onions, tomatoes, ginger and spices.
+----------------------------
+Item: Paneer Makhani
+Price: $15.95
+Description: Tender pieces of home-made cheese simmered in butter with tomato sauce, finished with cream.
+----------------------------
+Item: Vegetable Korma
+Price: $15.95
+Description: Mixed vegetables, cooked in onions, cream sauce and cashew nuts.
+----------------------------
+Item: Gulab Jamun
+Price: $3.95
+Description: An Indian doughnut in warm sugar water.
+----------------------------
+Item: Mango Ice Cream
+Price: $4.25
+Description: Home-made Ice cream with pistachios and nuts.
+----------------------------
+Item: Ras Malai
+Price: $5.95
+Description: A popular Indian dessert of a home-made cheese patty, served cold with pistachios.
+----------------------------
+Item: Raita
+Price: $4.25
+Description: Homemade yogurt whipped with bits of lockey and herbs.
+----------------------------
+Item: Butter Sauce
+Price: $7.95
+Description: Creamy signature butter sauce.
+----------------------------
+Item: Dragonfruit Lassi
+Price: $5.50
+Description: Smooth, creamy and sweet dragonfruit flavoured yogurt smoothie.
+----------------------------
+Item: Strawberry Lassi
+Price: $5.50
+Description: Smooth, creamy and sweet strawberry flavoured yogurt smoothie.
+----------------------------
+Item: Mango Lassi
+Price: $4.95
+Description: Smooth, creamy and sweet yogurt based mango flavored drink
+----------------------------
+Item: Sweet Lassi
+Price: $4.95
+Description: Smooth, creamy yogurt blended with sweetener
+----------------------------
+Item: Salty Lassi
+Price: $4.95
+Description: Smooth creamy yogurt blended with aromatic cumin seeds and salt.
+----------------------------
+Item: Chai
+Price: $3.95
+Description: Seasoned tea with a house blend of spices and milk
+----------------------------
+Item: Lemon Soda Water
+Price: $4.25
+Description: Refreshing twist on a traditional lemonade
+----------------------------
+Item: Shake
+Price: $5.25
+Description: Your favourite flavour of a creamy sweet milkshake
+----------------------------
+Item: Samosa
+Price: $5.50
+Description: Two crisp patties stuffed with either of potatoes or mix veg or chicken or beef
+----------------------------
+Item: Indian Fries
+Price: $7.95
+Description: Batter fried potato fingers.
+----------------------------
+Item: Mogo Fries (Cassava)
+Price: $10.95
+Description: Fried tropical potatoe fingers
+----------------------------
+Item: Vegetable Pakora
+Price: $11.95
+Description: Deep-fried mixed vegetable fritters.
+----------------------------
+Item: Gobhi Pakora
+Price: $12.95
+Description: Cauliflower pieces mixed in spices and batter fried
+----------------------------
+Item: Paneer Pakora
+Price: $13.95
+Description: Fresh homemade cheese, mixed in spices and batter fried.
+----------------------------
+Item: Chicken Pakora
+Price: $13.95
+Description: Boneless chicken marinated in ginger, garlic and batter fried.
+----------------------------
+Item: Fish Pakora
+Price: $13.95
+Description: Fish marinated in ginger, garlic and batter fried.
+----------------------------
+Item: Shrimp Pakora
+Price: $14.95
+Description: Shrimp marinated in ginger, garlic and batter fried.
+----------------------------
+Item: Bhatura
+Price: $2.25
+Description: Fried leavened bread
+----------------------------
+Item: Butter Nan
+Price: $2.25
+Description: Leavened bread with spread of butter on top.
+----------------------------
+Item: Garlic Nan
+Price: $2.95
+Description: Garlic leavened bread.
+----------------------------
+Item: Lacha Paratha
+Price: $3.25
+Description: Unleavened butter bread.
+----------------------------
+Item: Aloo Paratha
+Price: $4.95
+Description: Unleavened bread stuffed with mashed potatoes.
+----------------------------
+Item: Onion Kulcha
+Price: $5.25
+Description: Leavened bread stuffed with chopped onions, dry mango powder and fresh coriander leaves.
+----------------------------
+Item: Chicken Special Nan
+Price: $5.25
+Description: Nan stuffed with chopped chicken.
+----------------------------
+Item: Keema Nan
+Price: $5.25
+Description: Leavened bread stuffed with ground lamb.
+----------------------------
+Item: Spinach Nan
+Price: $5.25
+Description: Leavened bread stuffed with grated homemade cheese, and spinach.
+----------------------------
+Item: Pashwari Nan (Sweet Nan)
+Price: $4.95
+Description: Leavened bread stuffed with grated coconuts, raisins, cashews, almonds and pistachios.
+----------------------------
+Item: Chicken Tandoori
+Price: $23.95
+Description: Chicken marinated in yogurt, ginger, garlic, mixed with spices and served with butter sauce.
+----------------------------
+Item: Lamb Seekh Kebab
+Price: $16.95
+Description: Minced lamb mixed with fresh onions and green peppers, served with chutney.
+----------------------------
+Item: Paneer Tikka
+Price: $16.95
+Description: Marinated fresh homemade cheese. Served with chutney.
+----------------------------
+Item: Chicken Tikka
+Price: $16.95
+Description: Boneless chicken marinated in yogurt and ginger, and served with chutney.
+----------------------------
+Item: Fish Tandoori
+Price: $16.95
+Description: Fish marinated in yogurt, garlic, and served with chutney.
+----------------------------
+Item: Tandoori Prawns
+Price: $20.95
+Description: Jumbo prawns marinated in yogurt, ginger and garlic, grilled over a charcoal clay oven and served with chutney.
+----------------------------
+Item: Mixed Grill
+Price: $22.95
+Description: Tandoori Chicken, Chicken Tikka, Seekh Kebab, Prawns, Lamb Tikka, and Fish Tikka served with mint chutney.
+----------------------------
+Item: Steamed Rice
+Price: $5.25
+Description: Plain basmati rice.
+----------------------------
+Item: Pulao Rice
+Price: $6.25
+Description: Basmati rice cooked in onions, green peas and spices.
+----------------------------
+Item: Vegetable Biryani
+Price: $15.95
+Description: Basmati rice cooked with onions, green bell peppers, and combined with fresh vegetables.
+----------------------------
+Item: Vegetable Paneer Biryani
+Price: $17.95
+Description: Basmati rice cooked with onions, green bell peppers, paneer, fresh vegetable and combined with aromatic spices
+----------------------------
+Item: Biryani (Lamb/Chicken)
+Price: $17.95
+Description: Boneless pcs of lamb or chicken cooked in basmati rice & dash of spices.
+----------------------------
+Item: Prawn Biryani
+Price: $18.95
+Description: Jumbo prawns cooked delicately with Indian basmati rice and spices.
+----------------------------
+Item: Chicken Curry
+Price: $16.95
+Description: Boneless pieces of chicken cooked in onions, tomatoes, ginger, garlic sauce with exotic spices.
+----------------------------
+Item: Chicken Vindaloo
+Price: $16.95
+Description: Pieces of chicken and potatoes cooked in curry, coconut, and vinegar sauce. A specialty of Goa.
+----------------------------
+Item: Chili Chicken
+Price: $16.95
+Description: Pieces of chicken nuggets cooked delicately in exotic spices, tomatoes, vinegar, large pieces of onions and green bell peppers.
+----------------------------
+Item: Palak Chicken
+Price: $16.95
+Description: Tender pieces of chicken cooked with chopped spinach.
+----------------------------
+Item: Tawa Chicken
+Price: $16.95
+Description: Pieces of chicken on a bone, cooked on a hot tawa (griddle), mixed with onions, fresh tomatoes, green peppers and special spices.
+----------------------------
+Item: Butter Chicken
+Price: $16.95
+Description: Boneless chicken nuggets marinated in special sauce, cooked in garlic, ginger, cream & tomato sauce.
+----------------------------
+Item: Chicken Jalfrazie
+Price: $16.95
+Description: Pieces of tender chicken marinated w/ground spices sautéed w/tomatoes, onions & green bell peppers.
+----------------------------
+Item: Chicken Korma
+Price: $16.95
+Description: Pieces of tender chicken cooked delicately in a creamy sauce with cashew nuts.
+----------------------------
+Item: Chicken Tikka Masala
+Price: $16.95
+Description: Boneless pieces of chicken cooked in onions and green bell peppers with tomato sauce.
+----------------------------
+Item: Karhai Chicken
+Price: $16.95
+Description: Tender boneless chicken cooked w/onions, green bell peppers, tomatoes & tomato sauce w/exotic spices.
+----------------------------
+Item: Bombay Fish Curry
+Price: $16.95
+Description: Pieces of fish cooked traditional with exotic spices and tomatoes.
+----------------------------
+Item: Fish Masala
+Price: $16.95
+Description: Pieces of fish cooked w/fresh onions, green bell peppers & tomato sauce.
+----------------------------
+Item: Fish Vindaloo
+Price: $16.95
+Description: Fish pieces cooked with potatoes in a tangy sauce with vinegar and spices, a specialty of Goa.
+----------------------------
+Item: Prawn Curry
+Price: $18.95
+Description: Prawns cooked in onions, tomatoes, ginger, garlic and exotic spices.
+----------------------------
+Item: Prawn Vindaloo
+Price: $18.95
+Description: Prawns cooked with potatoes in a tangy sauce with vinegar and spices.
+----------------------------
+Item: Butter Prawns
+Price: $18.95
+Description: Prawns simmered in tomato sauce, finished with cream.
+----------------------------
+Item: Prawn Dopiaza
+Price: $18.95
+Description: Prawns cooked in equal quantities w/onions, finished w/cream & spices.
+----------------------------
+Item: Prawn Korma
+Price: $18.95
+Description: Prawns cooked in onions with cream sauce and cashew nuts.
+----------------------------
+Item: Prawn Masala
+Price: $18.95
+Description: Prawns cooked in fresh onions, green peppers in mildly spiced gravy.
+----------------------------
+Item: Bhuna Gosht
+Price: $17.95
+Description: Boneless pieces of lamb cubes cooked in tomatoes, ginger, garlic, vinegar, and large pieces of onions and green bell peppers.
+----------------------------
+Item: Chili Kebab
+Price: $17.95
+Description: Lamb Kebab pieces sautéed with green peppers, onions and tomatoes and spices, cooked in a sauce.
+----------------------------
+Item: Goat Curry
+Price: $17.95
+Description: Goat on the bone simmered in a ginger and garlic sauce.
+----------------------------
+Item: Keema Curry
+Price: $17.95
+Description: Minced lamb cooked in onions, garlic, ginger and mild spices.
+----------------------------
+Item: Lamb Curry
+Price: $17.95
+Description: Pieces of lamb cubes cooked in onions, ginger, garlic sauce with exotic spices.
+----------------------------
+Item: Lamb Dopiaza
+Price: $17.95
+Description: Tender lamb cooked in equal quantities of onions and finished with cream and exotic spices.
+----------------------------
+Item: Lamb Palak
+Price: $17.95
+Description: Boneless lamb cubes cooked with chopped spinach, mildly spiced.
+----------------------------
+Item: Lamb Korma
+Price: $17.95
+Description: Boneless pieces of lamb cubes cooked in a creamy sauce with cashew nuts and mildly spiced.
+----------------------------
+Item: Lamb Tikka Masala
+Price: $17.95
+Description: Tandoori Lamb Tikka cooked lightly in onion sauce, with ginger and tomatoes, tossed with fresh coriander leaves.
+----------------------------
+Item: Lamb Vindaloo
+Price: $17.95
+Description: Boneless pieces of lamb cubes cooked in garlic, ginger, coconut, vinegar and cream, mixed with potatoes and a dash of Indian spices, a specialty of Goa.
+----------------------------
+Item: Rogan Josh
+Price: $17.95
+Description: A spicy hot north Indian dish of lamb, cooked in yogurt, cream and rich masalas.
+----------------------------
+Item: Aloo Gobhi
+Price: $13.95
+Description: Cauliflower and potatoes cooked in fresh onions, tomatoes and spices.
+----------------------------
+Item: Dal Turka
+Price: $13.95
+Description: Indian lentils sautéed in onions, garlic, tomatoes and spices.
+----------------------------
+Item: Channa Masala
+Price: $13.95
+Description: Chickpeas cooked in tomatoes, onions, ginger and garlic, tossed with fresh coriander leaves.
+----------------------------
+Item: Matter Paneer
+Price: $15.50
+Description: Green peas cooked in onion sauce, tomatoes, mixed with fresh home-made cheese & dash of spices.
+----------------------------
+Item: Vegetable Jalfrazie
+Price: $15.50
+Description: Fresh vegetables sautéed with mild spices, cooked in tomatoes, onions and vinegar and dressed with coriander leaves.
+----------------------------
+Item: Bhindi Bhaji
+Price: $15.50
+Description: Fresh okra cooked with onions, tomatoes and exotic spices.
+----------------------------
+Item: Eggplant Bhartha
+Price: $15.95
+Description: Whole eggplants baked over charcoal, mashed, seasoned with herbs, onions, and tomatoes.
+----------------------------
+Item: Malai Kofta
+Price: $15.95
+Description: Mixed vegetables and grated cheese balls cooked lightly in a butter sauce and onion gravy with cashew nuts.
+----------------------------
+Item: Palak Paneer
+Price: $15.95
+Description: Fresh spinach cooked lightly in onions, ginger and garlic, mixed with home-made cheese.
+----------------------------
+Item: Shahee Paneer
+Price: $15.95
+Description: Fresh homemade cheese cooked lightly in a rich cream sauce.
+----------------------------
+Item: Chili Paneer
+Price: $15.95
+Description: Fried paneer cooked in green peppers, onions, tomatoes, ginger and spices.
+----------------------------
+Item: Paneer Makhani
+Price: $15.95
+Description: Tender pieces of home-made cheese simmered in butter with tomato sauce, finished with cream.
+----------------------------
+Item: Vegetable Korma
+Price: $15.95
+Description: Mixed vegetables, cooked in onions, cream sauce and cashew nuts.
+----------------------------
+Item: Gulab Jamun
+Price: $3.95
+Description: An Indian doughnut in warm sugar water.
+----------------------------
+Item: Mango Ice Cream
+Price: $4.25
+Description: Home-made Ice cream with pistachios and nuts.
+----------------------------
+Item: Ras Malai
+Price: $5.95
+Description: A popular Indian dessert of a home-made cheese patty, served cold with pistachios.
+----------------------------
+Item: Raita
+Price: $4.25
+Description: Homemade yogurt whipped with bits of lockey and herbs.
+----------------------------
+Item: Butter Sauce
+Price: $7.95
+Description: Creamy signature butter sauce.
+----------------------------
+Item: Dragonfruit Lassi
+Price: $5.50
+Description: Smooth, creamy and sweet dragonfruit flavoured yogurt smoothie.
+----------------------------
+Item: Strawberry Lassi
+Price: $5.50
+Description: Smooth, creamy and sweet strawberry flavoured yogurt smoothie.
+----------------------------
+Item: Mango Lassi
+Price: $4.95
+Description: Smooth, creamy and sweet yogurt based mango flavored drink
+----------------------------
+Item: Sweet Lassi
+Price: $4.95
+Description: Smooth, creamy yogurt blended with sweetener
+----------------------------
+Item: Salty Lassi
+Price: $4.95
+Description: Smooth creamy yogurt blended with aromatic cumin seeds and salt.
+----------------------------
+Item: Chai
+Price: $3.95
+Description: Seasoned tea with a house blend of spices and milk
+----------------------------
+Item: Lemon Soda Water
+Price: $4.25
+Description: Refreshing twist on a traditional lemonade
+----------------------------
+Item: Shake
+Price: $5.25
+Description: Your favourite flavour of a creamy sweet milkshake
+----------------------------
+Item: Samosa
+Price: $5.50
+Description: Two crisp patties stuffed with either of potatoes or mix veg or chicken or beef
+----------------------------
+Item: Indian Fries
+Price: $7.95
+Description: Batter fried potato fingers.
+----------------------------
+Item: Mogo Fries (Cassava)
+Price: $10.95
+Description: Fried tropical potatoe fingers
+----------------------------
+Item: Vegetable Pakora
+Price: $11.95
+Description: Deep-fried mixed vegetable fritters.
+----------------------------
+Item: Gobhi Pakora
+Price: $12.95
+Description: Cauliflower pieces mixed in spices and batter fried
+----------------------------
+Item: Paneer Pakora
+Price: $13.95
+Description: Fresh homemade cheese, mixed in spices and batter fried.
+----------------------------
+Item: Chicken Pakora
+Price: $13.95
+Description: Boneless chicken marinated in ginger, garlic and batter fried.
+----------------------------
+Item: Fish Pakora
+Price: $13.95
+Description: Fish marinated in ginger, garlic and batter fried.
+----------------------------
+Item: Shrimp Pakora
+Price: $14.95
+Description: Shrimp marinated in ginger, garlic and batter fried.
+----------------------------
+Item: Bhatura
+Price: $2.25
+Description: Fried leavened bread
+----------------------------
+Item: Butter Nan
+Price: $2.25
+Description: Leavened bread with spread of butter on top.
+----------------------------
+Item: Garlic Nan
+Price: $2.95
+Description: Garlic leavened bread.
+----------------------------
+Item: Lacha Paratha
+Price: $3.25
+Description: Unleavened butter bread.
+----------------------------
+Item: Aloo Paratha
+Price: $4.95
+Description: Unleavened bread stuffed with mashed potatoes.
+----------------------------
+Item: Onion Kulcha
+Price: $5.25
+Description: Leavened bread stuffed with chopped onions, dry mango powder and fresh coriander leaves.
+----------------------------
+Item: Chicken Special Nan
+Price: $5.25
+Description: Nan stuffed with chopped chicken.
+----------------------------
+Item: Keema Nan
+Price: $5.25
+Description: Leavened bread stuffed with ground lamb.
+----------------------------
+Item: Spinach Nan
+Price: $5.25
+Description: Leavened bread stuffed with grated homemade cheese, and spinach.
+----------------------------
+Item: Pashwari Nan (Sweet Nan)
+Price: $4.95
+Description: Leavened bread stuffed with grated coconuts, raisins, cashews, almonds and pistachios.
+----------------------------
+Item: Chicken Tandoori
+Price: $23.95
+Description: Chicken marinated in yogurt, ginger, garlic, mixed with spices and served with butter sauce.
+----------------------------
+Item: Lamb Seekh Kebab
+Price: $16.95
+Description: Minced lamb mixed with fresh onions and green peppers, served with chutney.
+----------------------------
+Item: Paneer Tikka
+Price: $16.95
+Description: Marinated fresh homemade cheese. Served with chutney.
+----------------------------
+Item: Chicken Tikka
+Price: $16.95
+Description: Boneless chicken marinated in yogurt and ginger, and served with chutney.
+----------------------------
+Item: Fish Tandoori
+Price: $16.95
+Description: Fish marinated in yogurt, garlic, and served with chutney.
+----------------------------
+Item: Tandoori Prawns
+Price: $20.95
+Description: Jumbo prawns marinated in yogurt, ginger and garlic, grilled over a charcoal clay oven and served with chutney.
+----------------------------
+Item: Mixed Grill
+Price: $22.95
+Description: Tandoori Chicken, Chicken Tikka, Seekh Kebab, Prawns, Lamb Tikka, and Fish Tikka served with mint chutney.
+----------------------------
+Item: Steamed Rice
+Price: $5.25
+Description: Plain basmati rice.
+----------------------------
+Item: Pulao Rice
+Price: $6.25
+Description: Basmati rice cooked in onions, green peas and spices.
+----------------------------
+Item: Vegetable Biryani
+Price: $15.95
+Description: Basmati rice cooked with onions, green bell peppers, and combined with fresh vegetables.
+----------------------------
+Item: Vegetable Paneer Biryani
+Price: $17.95
+Description: Basmati rice cooked with onions, green bell peppers, paneer, fresh vegetable and combined with aromatic spices
+----------------------------
+Item: Biryani (Lamb/Chicken)
+Price: $17.95
+Description: Boneless pcs of lamb or chicken cooked in basmati rice & dash of spices.
+----------------------------
+Item: Prawn Biryani
+Price: $18.95
+Description: Jumbo prawns cooked delicately with Indian basmati rice and spices.
+----------------------------
+Item: Chicken Curry
+Price: $16.95
+Description: Boneless pieces of chicken cooked in onions, tomatoes, ginger, garlic sauce with exotic spices.
+----------------------------
+Item: Chicken Vindaloo
+Price: $16.95
+Description: Pieces of chicken and potatoes cooked in curry, coconut, and vinegar sauce. A specialty of Goa.
+----------------------------
+Item: Chili Chicken
+Price: $16.95
+Description: Pieces of chicken nuggets cooked delicately in exotic spices, tomatoes, vinegar, large pieces of onions and green bell peppers.
+----------------------------
+Item: Palak Chicken
+Price: $16.95
+Description: Tender pieces of chicken cooked with chopped spinach.
+----------------------------
+Item: Tawa Chicken
+Price: $16.95
+Description: Pieces of chicken on a bone, cooked on a hot tawa (griddle), mixed with onions, fresh tomatoes, green peppers and special spices.
+----------------------------
+Item: Butter Chicken
+Price: $16.95
+Description: Boneless chicken nuggets marinated in special sauce, cooked in garlic, ginger, cream & tomato sauce.
+----------------------------
+Item: Chicken Jalfrazie
+Price: $16.95
+Description: Pieces of tender chicken marinated w/ground spices sautéed w/tomatoes, onions & green bell peppers.
+----------------------------
+Item: Chicken Korma
+Price: $16.95
+Description: Pieces of tender chicken cooked delicately in a creamy sauce with cashew nuts.
+----------------------------
+Item: Chicken Tikka Masala
+Price: $16.95
+Description: Boneless pieces of chicken cooked in onions and green bell peppers with tomato sauce.
+----------------------------
+Item: Karhai Chicken
+Price: $16.95
+Description: Tender boneless chicken cooked w/onions, green bell peppers, tomatoes & tomato sauce w/exotic spices.
+----------------------------
+Item: Bombay Fish Curry
+Price: $16.95
+Description: Pieces of fish cooked traditional with exotic spices and tomatoes.
+----------------------------
+Item: Fish Masala
+Price: $16.95
+Description: Pieces of fish cooked w/fresh onions, green bell peppers & tomato sauce.
+----------------------------
+Item: Fish Vindaloo
+Price: $16.95
+Description: Fish pieces cooked with potatoes in a tangy sauce with vinegar and spices, a specialty of Goa.
+----------------------------
+Item: Prawn Curry
+Price: $18.95
+Description: Prawns cooked in onions, tomatoes, ginger, garlic and exotic spices.
+----------------------------
+Item: Prawn Vindaloo
+Price: $18.95
+Description: Prawns cooked with potatoes in a tangy sauce with vinegar and spices.
+----------------------------
+Item: Butter Prawns
+Price: $18.95
+Description: Prawns simmered in tomato sauce, finished with cream.
+----------------------------
+Item: Prawn Dopiaza
+Price: $18.95
+Description: Prawns cooked in equal quantities w/onions, finished w/cream & spices.
+----------------------------
+Item: Prawn Korma
+Price: $18.95
+Description: Prawns cooked in onions with cream sauce and cashew nuts.
+----------------------------
+Item: Prawn Masala
+Price: $18.95
+Description: Prawns cooked in fresh onions, green peppers in mildly spiced gravy.
+----------------------------
+Item: Bhuna Gosht
+Price: $17.95
+Description: Boneless pieces of lamb cubes cooked in tomatoes, ginger, garlic, vinegar, and large pieces of onions and green bell peppers.
+----------------------------
+Item: Chili Kebab
+Price: $17.95
+Description: Lamb Kebab pieces sautéed with green peppers, onions and tomatoes and spices, cooked in a sauce.
+----------------------------
+Item: Goat Curry
+Price: $17.95
+Description: Goat on the bone simmered in a ginger and garlic sauce.
+----------------------------
+Item: Keema Curry
+Price: $17.95
+Description: Minced lamb cooked in onions, garlic, ginger and mild spices.
+----------------------------
+Item: Lamb Curry
+Price: $17.95
+Description: Pieces of lamb cubes cooked in onions, ginger, garlic sauce with exotic spices.
+----------------------------
+Item: Lamb Dopiaza
+Price: $17.95
+Description: Tender lamb cooked in equal quantities of onions and finished with cream and exotic spices.
+----------------------------
+Item: Lamb Palak
+Price: $17.95
+Description: Boneless lamb cubes cooked with chopped spinach, mildly spiced.
+----------------------------
+Item: Lamb Korma
+Price: $17.95
+Description: Boneless pieces of lamb cubes cooked in a creamy sauce with cashew nuts and mildly spiced.
+----------------------------
+Item: Lamb Tikka Masala
+Price: $17.95
+Description: Tandoori Lamb Tikka cooked lightly in onion sauce, with ginger and tomatoes, tossed with fresh coriander leaves.
+----------------------------
+Item: Lamb Vindaloo
+Price: $17.95
+Description: Boneless pieces of lamb cubes cooked in garlic, ginger, coconut, vinegar and cream, mixed with potatoes and a dash of Indian spices, a specialty of Goa.
+----------------------------
+Item: Rogan Josh
+Price: $17.95
+Description: A spicy hot north Indian dish of lamb, cooked in yogurt, cream and rich masalas.
+----------------------------
+Item: Aloo Gobhi
+Price: $13.95
+Description: Cauliflower and potatoes cooked in fresh onions, tomatoes and spices.
+----------------------------
+Item: Dal Turka
+Price: $13.95
+Description: Indian lentils sautéed in onions, garlic, tomatoes and spices.
+----------------------------
+Item: Channa Masala
+Price: $13.95
+Description: Chickpeas cooked in tomatoes, onions, ginger and garlic, tossed with fresh coriander leaves.
+----------------------------
+Item: Matter Paneer
+Price: $15.50
+Description: Green peas cooked in onion sauce, tomatoes, mixed with fresh home-made cheese & dash of spices.
+----------------------------
+Item: Vegetable Jalfrazie
+Price: $15.50
+Description: Fresh vegetables sautéed with mild spices, cooked in tomatoes, onions and vinegar and dressed with coriander leaves.
+----------------------------
+Item: Bhindi Bhaji
+Price: $15.50
+Description: Fresh okra cooked with onions, tomatoes and exotic spices.
+----------------------------
+Item: Eggplant Bhartha
+Price: $15.95
+Description: Whole eggplants baked over charcoal, mashed, seasoned with herbs, onions, and tomatoes.
+----------------------------
+Item: Malai Kofta
+Price: $15.95
+Description: Mixed vegetables and grated cheese balls cooked lightly in a butter sauce and onion gravy with cashew nuts.
+----------------------------
+Item: Palak Paneer
+Price: $15.95
+Description: Fresh spinach cooked lightly in onions, ginger and garlic, mixed with home-made cheese.
+----------------------------
+Item: Shahee Paneer
+Price: $15.95
+Description: Fresh homemade cheese cooked lightly in a rich cream sauce.
+----------------------------
+Item: Chili Paneer
+Price: $15.95
+Description: Fried paneer cooked in green peppers, onions, tomatoes, ginger and spices.
+----------------------------
+Item: Paneer Makhani
+Price: $15.95
+Description: Tender pieces of home-made cheese simmered in butter with tomato sauce, finished with cream.
+----------------------------
+Item: Vegetable Korma
+Price: $15.95
+Description: Mixed vegetables, cooked in onions, cream sauce and cashew nuts.
+----------------------------
+Item: Gulab Jamun
+Price: $3.95
+Description: An Indian doughnut in warm sugar water.
+----------------------------
+Item: Mango Ice Cream
+Price: $4.25
+Description: Home-made Ice cream with pistachios and nuts.
+----------------------------
+Item: Ras Malai
+Price: $5.95
+Description: A popular Indian dessert of a home-made cheese patty, served cold with pistachios.
+----------------------------
+Item: Raita
+Price: $4.25
+Description: Homemade yogurt whipped with bits of lockey and herbs.
+----------------------------
+Item: Butter Sauce
+Price: $7.95
+Description: Creamy signature butter sauce.
+----------------------------
+Item: Dragonfruit Lassi
+Price: $5.50
+Description: Smooth, creamy and sweet dragonfruit flavoured yogurt smoothie.
+----------------------------
+Item: Strawberry Lassi
+Price: $5.50
+Description: Smooth, creamy and sweet strawberry flavoured yogurt smoothie.
+----------------------------
+Item: Mango Lassi
+Price: $4.95
+Description: Smooth, creamy and sweet yogurt based mango flavored drink
+----------------------------
+Item: Sweet Lassi
+Price: $4.95
+Description: Smooth, creamy yogurt blended with sweetener
+----------------------------
+Item: Salty Lassi
+Price: $4.95
+Description: Smooth creamy yogurt blended with aromatic cumin seeds and salt.
+----------------------------
+Item: Chai
+Price: $3.95
+Description: Seasoned tea with a house blend of spices and milk
+----------------------------
+Item: Lemon Soda Water
+Price: $4.25
+Description: Refreshing twist on a traditional lemonade
+----------------------------
+Item: Shake
+Price: $5.25
+Description: Your favourite flavour of a creamy sweet milkshake
+----------------------------
+Item: Samosa
+Price: $5.50
+Description: Two crisp patties stuffed with either of potatoes or mix veg or chicken or beef
+----------------------------
+Item: Indian Fries
+Price: $7.95
+Description: Batter fried potato fingers.
+----------------------------
+Item: Mogo Fries (Cassava)
+Price: $10.95
+Description: Fried tropical potatoe fingers
+----------------------------
+Item: Vegetable Pakora
+Price: $11.95
+Description: Deep-fried mixed vegetable fritters.
+----------------------------
+Item: Gobhi Pakora
+Price: $12.95
+Description: Cauliflower pieces mixed in spices and batter fried
+----------------------------
+Item: Paneer Pakora
+Price: $13.95
+Description: Fresh homemade cheese, mixed in spices and batter fried.
+----------------------------
+Item: Chicken Pakora
+Price: $13.95
+Description: Boneless chicken marinated in ginger, garlic and batter fried.
+----------------------------
+Item: Fish Pakora
+Price: $13.95
+Description: Fish marinated in ginger, garlic and batter fried.
+----------------------------
+Item: Shrimp Pakora
+Price: $14.95
+Description: Shrimp marinated in ginger, garlic and batter fried.
+----------------------------
+Item: Bhatura
+Price: $2.25
+Description: Fried leavened bread
+----------------------------
+Item: Butter Nan
+Price: $2.25
+Description: Leavened bread with spread of butter on top.
+----------------------------
+Item: Garlic Nan
+Price: $2.95
+Description: Garlic leavened bread.
+----------------------------
+Item: Lacha Paratha
+Price: $3.25
+Description: Unleavened butter bread.
+----------------------------
+Item: Aloo Paratha
+Price: $4.95
+Description: Unleavened bread stuffed with mashed potatoes.
+----------------------------
+Item: Onion Kulcha
+Price: $5.25
+Description: Leavened bread stuffed with chopped onions, dry mango powder and fresh coriander leaves.
+----------------------------
+Item: Chicken Special Nan
+Price: $5.25
+Description: Nan stuffed with chopped chicken.
+----------------------------
+Item: Keema Nan
+Price: $5.25
+Description: Leavened bread stuffed with ground lamb.
+----------------------------
+Item: Spinach Nan
+Price: $5.25
+Description: Leavened bread stuffed with grated homemade cheese, and spinach.
+----------------------------
+Item: Pashwari Nan (Sweet Nan)
+Price: $4.95
+Description: Leavened bread stuffed with grated coconuts, raisins, cashews, almonds and pistachios.
+----------------------------
+Item: Chicken Tandoori
+Price: $23.95
+Description: Chicken marinated in yogurt, ginger, garlic, mixed with spices and served with butter sauce.
+----------------------------
+Item: Lamb Seekh Kebab
+Price: $16.95
+Description: Minced lamb mixed with fresh onions and green peppers, served with chutney.
+----------------------------
+Item: Paneer Tikka
+Price: $16.95
+Description: Marinated fresh homemade cheese. Served with chutney.
+----------------------------
+Item: Chicken Tikka
+Price: $16.95
+Description: Boneless chicken marinated in yogurt and ginger, and served with chutney.
+----------------------------
+Item: Fish Tandoori
+Price: $16.95
+Description: Fish marinated in yogurt, garlic, and served with chutney.
+----------------------------
+Item: Tandoori Prawns
+Price: $20.95
+Description: Jumbo prawns marinated in yogurt, ginger and garlic, grilled over a charcoal clay oven and served with chutney.
+----------------------------
+Item: Mixed Grill
+Price: $22.95
+Description: Tandoori Chicken, Chicken Tikka, Seekh Kebab, Prawns, Lamb Tikka, and Fish Tikka served with mint chutney.
+----------------------------
+Item: Steamed Rice
+Price: $5.25
+Description: Plain basmati rice.
+----------------------------
+Item: Pulao Rice
+Price: $6.25
+Description: Basmati rice cooked in onions, green peas and spices.
+----------------------------
+Item: Vegetable Biryani
+Price: $15.95
+Description: Basmati rice cooked with onions, green bell peppers, and combined with fresh vegetables.
+----------------------------
+Item: Vegetable Paneer Biryani
+Price: $17.95
+Description: Basmati rice cooked with onions, green bell peppers, paneer, fresh vegetable and combined with aromatic spices
+----------------------------
+Item: Biryani (Lamb/Chicken)
+Price: $17.95
+Description: Boneless pcs of lamb or chicken cooked in basmati rice & dash of spices.
+----------------------------
+Item: Prawn Biryani
+Price: $18.95
+Description: Jumbo prawns cooked delicately with Indian basmati rice and spices.
+----------------------------
+Item: Chicken Curry
+Price: $16.95
+Description: Boneless pieces of chicken cooked in onions, tomatoes, ginger, garlic sauce with exotic spices.
+----------------------------
+Item: Chicken Vindaloo
+Price: $16.95
+Description: Pieces of chicken and potatoes cooked in curry, coconut, and vinegar sauce. A specialty of Goa.
+----------------------------
+Item: Chili Chicken
+Price: $16.95
+Description: Pieces of chicken nuggets cooked delicately in exotic spices, tomatoes, vinegar, large pieces of onions and green bell peppers.
+----------------------------
+Item: Palak Chicken
+Price: $16.95
+Description: Tender pieces of chicken cooked with chopped spinach.
+----------------------------
+Item: Tawa Chicken
+Price: $16.95
+Description: Pieces of chicken on a bone, cooked on a hot tawa (griddle), mixed with onions, fresh tomatoes, green peppers and special spices.
+----------------------------
+Item: Butter Chicken
+Price: $16.95
+Description: Boneless chicken nuggets marinated in special sauce, cooked in garlic, ginger, cream & tomato sauce.
+----------------------------
+Item: Chicken Jalfrazie
+Price: $16.95
+Description: Pieces of tender chicken marinated w/ground spices sautéed w/tomatoes, onions & green bell peppers.
+----------------------------
+Item: Chicken Korma
+Price: $16.95
+Description: Pieces of tender chicken cooked delicately in a creamy sauce with cashew nuts.
+----------------------------
+Item: Chicken Tikka Masala
+Price: $16.95
+Description: Boneless pieces of chicken cooked in onions and green bell peppers with tomato sauce.
+----------------------------
+Item: Karhai Chicken
+Price: $16.95
+Description: Tender boneless chicken cooked w/onions, green bell peppers, tomatoes & tomato sauce w/exotic spices.
+----------------------------
+Item: Bombay Fish Curry
+Price: $16.95
+Description: Pieces of fish cooked traditional with exotic spices and tomatoes.
+----------------------------
+Item: Fish Masala
+Price: $16.95
+Description: Pieces of fish cooked w/fresh onions, green bell peppers & tomato sauce.
+----------------------------
+Item: Fish Vindaloo
+Price: $16.95
+Description: Fish pieces cooked with potatoes in a tangy sauce with vinegar and spices, a specialty of Goa.
+----------------------------
+Item: Prawn Curry
+Price: $18.95
+Description: Prawns cooked in onions, tomatoes, ginger, garlic and exotic spices.
+----------------------------
+Item: Prawn Vindaloo
+Price: $18.95
+Description: Prawns cooked with potatoes in a tangy sauce with vinegar and spices.
+----------------------------
+Item: Butter Prawns
+Price: $18.95
+Description: Prawns simmered in tomato sauce, finished with cream.
+----------------------------
+Item: Prawn Dopiaza
+Price: $18.95
+Description: Prawns cooked in equal quantities w/onions, finished w/cream & spices.
+----------------------------
+Item: Prawn Korma
+Price: $18.95
+Description: Prawns cooked in onions with cream sauce and cashew nuts.
+----------------------------
+Item: Prawn Masala
+Price: $18.95
+Description: Prawns cooked in fresh onions, green peppers in mildly spiced gravy.
+----------------------------
+Item: Bhuna Gosht
+Price: $17.95
+Description: Boneless pieces of lamb cubes cooked in tomatoes, ginger, garlic, vinegar, and large pieces of onions and green bell peppers.
+----------------------------
+Item: Chili Kebab
+Price: $17.95
+Description: Lamb Kebab pieces sautéed with green peppers, onions and tomatoes and spices, cooked in a sauce.
+----------------------------
+Item: Goat Curry
+Price: $17.95
+Description: Goat on the bone simmered in a ginger and garlic sauce.
+----------------------------
+Item: Keema Curry
+Price: $17.95
+Description: Minced lamb cooked in onions, garlic, ginger and mild spices.
+----------------------------
+Item: Lamb Curry
+Price: $17.95
+Description: Pieces of lamb cubes cooked in onions, ginger, garlic sauce with exotic spices.
+----------------------------
+Item: Lamb Dopiaza
+Price: $17.95
+Description: Tender lamb cooked in equal quantities of onions and finished with cream and exotic spices.
+----------------------------
+Item: Lamb Palak
+Price: $17.95
+Description: Boneless lamb cubes cooked with chopped spinach, mildly spiced.
+----------------------------
+Item: Lamb Korma
+Price: $17.95
+Description: Boneless pieces of lamb cubes cooked in a creamy sauce with cashew nuts and mildly spiced.
+----------------------------
+Item: Lamb Tikka Masala
+Price: $17.95
+Description: Tandoori Lamb Tikka cooked lightly in onion sauce, with ginger and tomatoes, tossed with fresh coriander leaves.
+----------------------------
+Item: Lamb Vindaloo
+Price: $17.95
+Description: Boneless pieces of lamb cubes cooked in garlic, ginger, coconut, vinegar and cream, mixed with potatoes and a dash of Indian spices, a specialty of Goa.
+----------------------------
+Item: Rogan Josh
+Price: $17.95
+Description: A spicy hot north Indian dish of lamb, cooked in yogurt, cream and rich masalas.
+----------------------------
+Item: Aloo Gobhi
+Price: $13.95
+Description: Cauliflower and potatoes cooked in fresh onions, tomatoes and spices.
+----------------------------
+Item: Dal Turka
+Price: $13.95
+Description: Indian lentils sautéed in onions, garlic, tomatoes and spices.
+----------------------------
+Item: Channa Masala
+Price: $13.95
+Description: Chickpeas cooked in tomatoes, onions, ginger and garlic, tossed with fresh coriander leaves.
+----------------------------
+Item: Matter Paneer
+Price: $15.50
+Description: Green peas cooked in onion sauce, tomatoes, mixed with fresh home-made cheese & dash of spices.
+----------------------------
+Item: Vegetable Jalfrazie
+Price: $15.50
+Description: Fresh vegetables sautéed with mild spices, cooked in tomatoes, onions and vinegar and dressed with coriander leaves.
+----------------------------
+Item: Bhindi Bhaji
+Price: $15.50
+Description: Fresh okra cooked with onions, tomatoes and exotic spices.
+----------------------------
+Item: Eggplant Bhartha
+Price: $15.95
+Description: Whole eggplants baked over charcoal, mashed, seasoned with herbs, onions, and tomatoes.
+----------------------------
+Item: Malai Kofta
+Price: $15.95
+Description: Mixed vegetables and grated cheese balls cooked lightly in a butter sauce and onion gravy with cashew nuts.
+----------------------------
+Item: Palak Paneer
+Price: $15.95
+Description: Fresh spinach cooked lightly in onions, ginger and garlic, mixed with home-made cheese.
+----------------------------
+Item: Shahee Paneer
+Price: $15.95
+Description: Fresh homemade cheese cooked lightly in a rich cream sauce.
+----------------------------
+Item: Chili Paneer
+Price: $15.95
+Description: Fried paneer cooked in green peppers, onions, tomatoes, ginger and spices.
+----------------------------
+Item: Paneer Makhani
+Price: $15.95
+Description: Tender pieces of home-made cheese simmered in butter with tomato sauce, finished with cream.
+----------------------------
+Item: Vegetable Korma
+Price: $15.95
+Description: Mixed vegetables, cooked in onions, cream sauce and cashew nuts.
+----------------------------
+Item: Gulab Jamun
+Price: $3.95
+Description: An Indian doughnut in warm sugar water.
+----------------------------
+Item: Mango Ice Cream
+Price: $4.25
+Description: Home-made Ice cream with pistachios and nuts.
+----------------------------
+Item: Ras Malai
+Price: $5.95
+Description: A popular Indian dessert of a home-made cheese patty, served cold with pistachios.
+----------------------------
+Item: Raita
+Price: $4.25
+Description: Homemade yogurt whipped with bits of lockey and herbs.
+----------------------------
+Item: Butter Sauce
+Price: $7.95
+Description: Creamy signature butter sauce.
+----------------------------
+Item: Dragonfruit Lassi
+Price: $5.50
+Description: Smooth, creamy and sweet dragonfruit flavoured yogurt smoothie.
+----------------------------
+Item: Strawberry Lassi
+Price: $5.50
+Description: Smooth, creamy and sweet strawberry flavoured yogurt smoothie.
+----------------------------
+Item: Mango Lassi
+Price: $4.95
+Description: Smooth, creamy and sweet yogurt based mango flavored drink
+----------------------------
+Item: Sweet Lassi
+Price: $4.95
+Description: Smooth, creamy yogurt blended with sweetener
+----------------------------
+Item: Salty Lassi
+Price: $4.95
+Description: Smooth creamy yogurt blended with aromatic cumin seeds and salt.
+----------------------------
+Item: Chai
+Price: $3.95
+Description: Seasoned tea with a house blend of spices and milk
+----------------------------
+Item: Lemon Soda Water
+Price: $4.25
+Description: Refreshing twist on a traditional lemonade
+----------------------------
+Item: Shake
+Price: $5.25
+Description: Your favourite flavour of a creamy sweet milkshake
+----------------------------
+Item: Samosa
+Price: $5.50
+Description: Two crisp patties stuffed with either of potatoes or mix veg or chicken or beef
+----------------------------
+Item: Indian Fries
+Price: $7.95
+Description: Batter fried potato fingers.
+----------------------------
+Item: Mogo Fries (Cassava)
+Price: $10.95
+Description: Fried tropical potatoe fingers
+----------------------------
+Item: Vegetable Pakora
+Price: $11.95
+Description: Deep-fried mixed vegetable fritters.
+----------------------------
+Item: Gobhi Pakora
+Price: $12.95
+Description: Cauliflower pieces mixed in spices and batter fried
+----------------------------
+Item: Paneer Pakora
+Price: $13.95
+Description: Fresh homemade cheese, mixed in spices and batter fried.
+----------------------------
+Item: Chicken Pakora
+Price: $13.95
+Description: Boneless chicken marinated in ginger, garlic and batter fried.
+----------------------------
+Item: Fish Pakora
+Price: $13.95
+Description: Fish marinated in ginger, garlic and batter fried.
+----------------------------
+Item: Shrimp Pakora
+Price: $14.95
+Description: Shrimp marinated in ginger, garlic and batter fried.
+----------------------------
+Item: Bhatura
+Price: $2.25
+Description: Fried leavened bread
+----------------------------
+Item: Butter Nan
+Price: $2.25
+Description: Leavened bread with spread of butter on top.
+----------------------------
+Item: Garlic Nan
+Price: $2.95
+Description: Garlic leavened bread.
+----------------------------
+Item: Lacha Paratha
+Price: $3.25
+Description: Unleavened butter bread.
+----------------------------
+Item: Aloo Paratha
+Price: $4.95
+Description: Unleavened bread stuffed with mashed potatoes.
+----------------------------
+Item: Onion Kulcha
+Price: $5.25
+Description: Leavened bread stuffed with chopped onions, dry mango powder and fresh coriander leaves.
+----------------------------
+Item: Chicken Special Nan
+Price: $5.25
+Description: Nan stuffed with chopped chicken.
+----------------------------
+Item: Keema Nan
+Price: $5.25
+Description: Leavened bread stuffed with ground lamb.
+----------------------------
+Item: Spinach Nan
+Price: $5.25
+Description: Leavened bread stuffed with grated homemade cheese, and spinach.
+----------------------------
+Item: Pashwari Nan (Sweet Nan)
+Price: $4.95
+Description: Leavened bread stuffed with grated coconuts, raisins, cashews, almonds and pistachios.
+----------------------------
+Item: Chicken Tandoori
+Price: $23.95
+Description: Chicken marinated in yogurt, ginger, garlic, mixed with spices and served with butter sauce.
+----------------------------
+Item: Lamb Seekh Kebab
+Price: $16.95
+Description: Minced lamb mixed with fresh onions and green peppers, served with chutney.
+----------------------------
+Item: Paneer Tikka
+Price: $16.95
+Description: Marinated fresh homemade cheese. Served with chutney.
+----------------------------
+Item: Chicken Tikka
+Price: $16.95
+Description: Boneless chicken marinated in yogurt and ginger, and served with chutney.
+----------------------------
+Item: Fish Tandoori
+Price: $16.95
+Description: Fish marinated in yogurt, garlic, and served with chutney.
+----------------------------
+Item: Tandoori Prawns
+Price: $20.95
+Description: Jumbo prawns marinated in yogurt, ginger and garlic, grilled over a charcoal clay oven and served with chutney.
+----------------------------
+Item: Mixed Grill
+Price: $22.95
+Description: Tandoori Chicken, Chicken Tikka, Seekh Kebab, Prawns, Lamb Tikka, and Fish Tikka served with mint chutney.
+----------------------------
+Item: Steamed Rice
+Price: $5.25
+Description: Plain basmati rice.
+----------------------------
+Item: Pulao Rice
+Price: $6.25
+Description: Basmati rice cooked in onions, green peas and spices.
+----------------------------
+Item: Vegetable Biryani
+Price: $15.95
+Description: Basmati rice cooked with onions, green bell peppers, and combined with fresh vegetables.
+----------------------------
+Item: Vegetable Paneer Biryani
+Price: $17.95
+Description: Basmati rice cooked with onions, green bell peppers, paneer, fresh vegetable and combined with aromatic spices
+----------------------------
+Item: Biryani (Lamb/Chicken)
+Price: $17.95
+Description: Boneless pcs of lamb or chicken cooked in basmati rice & dash of spices.
+----------------------------
+Item: Prawn Biryani
+Price: $18.95
+Description: Jumbo prawns cooked delicately with Indian basmati rice and spices.
+----------------------------
+Item: Chicken Curry
+Price: $16.95
+Description: Boneless pieces of chicken cooked in onions, tomatoes, ginger, garlic sauce with exotic spices.
+----------------------------
+Item: Chicken Vindaloo
+Price: $16.95
+Description: Pieces of chicken and potatoes cooked in curry, coconut, and vinegar sauce. A specialty of Goa.
+----------------------------
+Item: Chili Chicken
+Price: $16.95
+Description: Pieces of chicken nuggets cooked delicately in exotic spices, tomatoes, vinegar, large pieces of onions and green bell peppers.
+----------------------------
+Item: Palak Chicken
+Price: $16.95
+Description: Tender pieces of chicken cooked with chopped spinach.
+----------------------------
+Item: Tawa Chicken
+Price: $16.95
+Description: Pieces of chicken on a bone, cooked on a hot tawa (griddle), mixed with onions, fresh tomatoes, green peppers and special spices.
+----------------------------
+Item: Butter Chicken
+Price: $16.95
+Description: Boneless chicken nuggets marinated in special sauce, cooked in garlic, ginger, cream & tomato sauce.
+----------------------------
+Item: Chicken Jalfrazie
+Price: $16.95
+Description: Pieces of tender chicken marinated w/ground spices sautéed w/tomatoes, onions & green bell peppers.
+----------------------------
+Item: Chicken Korma
+Price: $16.95
+Description: Pieces of tender chicken cooked delicately in a creamy sauce with cashew nuts.
+----------------------------
+Item: Chicken Tikka Masala
+Price: $16.95
+Description: Boneless pieces of chicken cooked in onions and green bell peppers with tomato sauce.
+----------------------------
+Item: Karhai Chicken
+Price: $16.95
+Description: Tender boneless chicken cooked w/onions, green bell peppers, tomatoes & tomato sauce w/exotic spices.
+----------------------------
+Item: Bombay Fish Curry
+Price: $16.95
+Description: Pieces of fish cooked traditional with exotic spices and tomatoes.
+----------------------------
+Item: Fish Masala
+Price: $16.95
+Description: Pieces of fish cooked w/fresh onions, green bell peppers & tomato sauce.
+----------------------------
+Item: Fish Vindaloo
+Price: $16.95
+Description: Fish pieces cooked with potatoes in a tangy sauce with vinegar and spices, a specialty of Goa.
+----------------------------
+Item: Prawn Curry
+Price: $18.95
+Description: Prawns cooked in onions, tomatoes, ginger, garlic and exotic spices.
+----------------------------
+Item: Prawn Vindaloo
+Price: $18.95
+Description: Prawns cooked with potatoes in a tangy sauce with vinegar and spices.
+----------------------------
+Item: Butter Prawns
+Price: $18.95
+Description: Prawns simmered in tomato sauce, finished with cream.
+----------------------------
+Item: Prawn Dopiaza
+Price: $18.95
+Description: Prawns cooked in equal quantities w/onions, finished w/cream & spices.
+----------------------------
+Item: Prawn Korma
+Price: $18.95
+Description: Prawns cooked in onions with cream sauce and cashew nuts.
+----------------------------
+Item: Prawn Masala
+Price: $18.95
+Description: Prawns cooked in fresh onions, green peppers in mildly spiced gravy.
+----------------------------
+Item: Bhuna Gosht
+Price: $17.95
+Description: Boneless pieces of lamb cubes cooked in tomatoes, ginger, garlic, vinegar, and large pieces of onions and green bell peppers.
+----------------------------
+Item: Chili Kebab
+Price: $17.95
+Description: Lamb Kebab pieces sautéed with green peppers, onions and tomatoes and spices, cooked in a sauce.
+----------------------------
+Item: Goat Curry
+Price: $17.95
+Description: Goat on the bone simmered in a ginger and garlic sauce.
+----------------------------
+Item: Keema Curry
+Price: $17.95
+Description: Minced lamb cooked in onions, garlic, ginger and mild spices.
+----------------------------
+Item: Lamb Curry
+Price: $17.95
+Description: Pieces of lamb cubes cooked in onions, ginger, garlic sauce with exotic spices.
+----------------------------
+Item: Lamb Dopiaza
+Price: $17.95
+Description: Tender lamb cooked in equal quantities of onions and finished with cream and exotic spices.
+----------------------------
+Item: Lamb Palak
+Price: $17.95
+Description: Boneless lamb cubes cooked with chopped spinach, mildly spiced.
+----------------------------
+Item: Lamb Korma
+Price: $17.95
+Description: Boneless pieces of lamb cubes cooked in a creamy sauce with cashew nuts and mildly spiced.
+----------------------------
+Item: Lamb Tikka Masala
+Price: $17.95
+Description: Tandoori Lamb Tikka cooked lightly in onion sauce, with ginger and tomatoes, tossed with fresh coriander leaves.
+----------------------------
+Item: Lamb Vindaloo
+Price: $17.95
+Description: Boneless pieces of lamb cubes cooked in garlic, ginger, coconut, vinegar and cream, mixed with potatoes and a dash of Indian spices, a specialty of Goa.
+----------------------------
+Item: Rogan Josh
+Price: $17.95
+Description: A spicy hot north Indian dish of lamb, cooked in yogurt, cream and rich masalas.
+----------------------------
+Item: Aloo Gobhi
+Price: $13.95
+Description: Cauliflower and potatoes cooked in fresh onions, tomatoes and spices.
+----------------------------
+Item: Dal Turka
+Price: $13.95
+Description: Indian lentils sautéed in onions, garlic, tomatoes and spices.
+----------------------------
+Item: Channa Masala
+Price: $13.95
+Description: Chickpeas cooked in tomatoes, onions, ginger and garlic, tossed with fresh coriander leaves.
+----------------------------
+Item: Matter Paneer
+Price: $15.50
+Description: Green peas cooked in onion sauce, tomatoes, mixed with fresh home-made cheese & dash of spices.
+----------------------------
+Item: Vegetable Jalfrazie
+Price: $15.50
+Description: Fresh vegetables sautéed with mild spices, cooked in tomatoes, onions and vinegar and dressed with coriander leaves.
+----------------------------
+Item: Bhindi Bhaji
+Price: $15.50
+Description: Fresh okra cooked with onions, tomatoes and exotic spices.
+----------------------------
+Item: Eggplant Bhartha
+Price: $15.95
+Description: Whole eggplants baked over charcoal, mashed, seasoned with herbs, onions, and tomatoes.
+----------------------------
+Item: Malai Kofta
+Price: $15.95
+Description: Mixed vegetables and grated cheese balls cooked lightly in a butter sauce and onion gravy with cashew nuts.
+----------------------------
+Item: Palak Paneer
+Price: $15.95
+Description: Fresh spinach cooked lightly in onions, ginger and garlic, mixed with home-made cheese.
+----------------------------
+Item: Shahee Paneer
+Price: $15.95
+Description: Fresh homemade cheese cooked lightly in a rich cream sauce.
+----------------------------
+Item: Chili Paneer
+Price: $15.95
+Description: Fried paneer cooked in green peppers, onions, tomatoes, ginger and spices.
+----------------------------
+Item: Paneer Makhani
+Price: $15.95
+Description: Tender pieces of home-made cheese simmered in butter with tomato sauce, finished with cream.
+----------------------------
+Item: Vegetable Korma
+Price: $15.95
+Description: Mixed vegetables, cooked in onions, cream sauce and cashew nuts.
+----------------------------
+Item: Gulab Jamun
+Price: $3.95
+Description: An Indian doughnut in warm sugar water.
+----------------------------
+Item: Mango Ice Cream
+Price: $4.25
+Description: Home-made Ice cream with pistachios and nuts.
+----------------------------
+Item: Ras Malai
+Price: $5.95
+Description: A popular Indian dessert of a home-made cheese patty, served cold with pistachios.
+----------------------------
+Item: Raita
+Price: $4.25
+Description: Homemade yogurt whipped with bits of lockey and herbs.
+----------------------------
+Item: Butter Sauce
+Price: $7.95
+Description: Creamy signature butter sauce.
+----------------------------
+Item: Dragonfruit Lassi
+Price: $5.50
+Description: Smooth, creamy and sweet dragonfruit flavoured yogurt smoothie.
+----------------------------
+Item: Strawberry Lassi
+Price: $5.50
+Description: Smooth, creamy and sweet strawberry flavoured yogurt smoothie.
+----------------------------
+Item: Mango Lassi
+Price: $4.95
+Description: Smooth, creamy and sweet yogurt based mango flavored drink
+----------------------------
+Item: Sweet Lassi
+Price: $4.95
+Description: Smooth, creamy yogurt blended with sweetener
+----------------------------
+Item: Salty Lassi
+Price: $4.95
+Description: Smooth creamy yogurt blended with aromatic cumin seeds and salt.
+----------------------------
+Item: Chai
+Price: $3.95
+Description: Seasoned tea with a house blend of spices and milk
+----------------------------
+Item: Lemon Soda Water
+Price: $4.25
+Description: Refreshing twist on a traditional lemonade
+----------------------------
+Item: Shake
+Price: $5.25
+Description: Your favourite flavour of a creamy sweet milkshake
+----------------------------
+Item: Samosa
+Price: $5.50
+Description: Two crisp patties stuffed with either of potatoes or mix veg or chicken or beef
+----------------------------
+Item: Indian Fries
+Price: $7.95
+Description: Batter fried potato fingers.
+----------------------------
+Item: Mogo Fries (Cassava)
+Price: $10.95
+Description: Fried tropical potatoe fingers
+----------------------------
+Item: Vegetable Pakora
+Price: $11.95
+Description: Deep-fried mixed vegetable fritters.
+----------------------------
+Item: Gobhi Pakora
+Price: $12.95
+Description: Cauliflower pieces mixed in spices and batter fried
+----------------------------
+Item: Paneer Pakora
+Price: $13.95
+Description: Fresh homemade cheese, mixed in spices and batter fried.
+----------------------------
+Item: Chicken Pakora
+Price: $13.95
+Description: Boneless chicken marinated in ginger, garlic and batter fried.
+----------------------------
+Item: Fish Pakora
+Price: $13.95
+Description: Fish marinated in ginger, garlic and batter fried.
+----------------------------
+Item: Shrimp Pakora
+Price: $14.95
+Description: Shrimp marinated in ginger, garlic and batter fried.
+----------------------------
+Item: Bhatura
+Price: $2.25
+Description: Fried leavened bread
+----------------------------
+Item: Butter Nan
+Price: $2.25
+Description: Leavened bread with spread of butter on top.
+----------------------------
+Item: Garlic Nan
+Price: $2.95
+Description: Garlic leavened bread.
+----------------------------
+Item: Lacha Paratha
+Price: $3.25
+Description: Unleavened butter bread.
+----------------------------
+Item: Aloo Paratha
+Price: $4.95
+Description: Unleavened bread stuffed with mashed potatoes.
+----------------------------
+Item: Onion Kulcha
+Price: $5.25
+Description: Leavened bread stuffed with chopped onions, dry mango powder and fresh coriander leaves.
+----------------------------
+Item: Chicken Special Nan
+Price: $5.25
+Description: Nan stuffed with chopped chicken.
+----------------------------
+Item: Keema Nan
+Price: $5.25
+Description: Leavened bread stuffed with ground lamb.
+----------------------------
+Item: Spinach Nan
+Price: $5.25
+Description: Leavened bread stuffed with grated homemade cheese, and spinach.
+----------------------------
+Item: Pashwari Nan (Sweet Nan)
+Price: $4.95
+Description: Leavened bread stuffed with grated coconuts, raisins, cashews, almonds and pistachios.
+----------------------------
+Item: Chicken Tandoori
+Price: $23.95
+Description: Chicken marinated in yogurt, ginger, garlic, mixed with spices and served with butter sauce.
+----------------------------
+Item: Lamb Seekh Kebab
+Price: $16.95
+Description: Minced lamb mixed with fresh onions and green peppers, served with chutney.
+----------------------------
+Item: Paneer Tikka
+Price: $16.95
+Description: Marinated fresh homemade cheese. Served with chutney.
+----------------------------
+Item: Chicken Tikka
+Price: $16.95
+Description: Boneless chicken marinated in yogurt and ginger, and served with chutney.
+----------------------------
+Item: Fish Tandoori
+Price: $16.95
+Description: Fish marinated in yogurt, garlic, and served with chutney.
+----------------------------
+Item: Tandoori Prawns
+Price: $20.95
+Description: Jumbo prawns marinated in yogurt, ginger and garlic, grilled over a charcoal clay oven and served with chutney.
+----------------------------
+Item: Mixed Grill
+Price: $22.95
+Description: Tandoori Chicken, Chicken Tikka, Seekh Kebab, Prawns, Lamb Tikka, and Fish Tikka served with mint chutney.
+----------------------------
+Item: Steamed Rice
+Price: $5.25
+Description: Plain basmati rice.
+----------------------------
+Item: Pulao Rice
+Price: $6.25
+Description: Basmati rice cooked in onions, green peas and spices.
+----------------------------
+Item: Vegetable Biryani
+Price: $15.95
+Description: Basmati rice cooked with onions, green bell peppers, and combined with fresh vegetables.
+----------------------------
+Item: Vegetable Paneer Biryani
+Price: $17.95
+Description: Basmati rice cooked with onions, green bell peppers, paneer, fresh vegetable and combined with aromatic spices
+----------------------------
+Item: Biryani (Lamb/Chicken)
+Price: $17.95
+Description: Boneless pcs of lamb or chicken cooked in basmati rice & dash of spices.
+----------------------------
+Item: Prawn Biryani
+Price: $18.95
+Description: Jumbo prawns cooked delicately with Indian basmati rice and spices.
+----------------------------
+Item: Chicken Curry
+Price: $16.95
+Description: Boneless pieces of chicken cooked in onions, tomatoes, ginger, garlic sauce with exotic spices.
+----------------------------
+Item: Chicken Vindaloo
+Price: $16.95
+Description: Pieces of chicken and potatoes cooked in curry, coconut, and vinegar sauce. A specialty of Goa.
+----------------------------
+Item: Chili Chicken
+Price: $16.95
+Description: Pieces of chicken nuggets cooked delicately in exotic spices, tomatoes, vinegar, large pieces of onions and green bell peppers.
+----------------------------
+Item: Palak Chicken
+Price: $16.95
+Description: Tender pieces of chicken cooked with chopped spinach.
+----------------------------
+Item: Tawa Chicken
+Price: $16.95
+Description: Pieces of chicken on a bone, cooked on a hot tawa (griddle), mixed with onions, fresh tomatoes, green peppers and special spices.
+----------------------------
+Item: Butter Chicken
+Price: $16.95
+Description: Boneless chicken nuggets marinated in special sauce, cooked in garlic, ginger, cream & tomato sauce.
+----------------------------
+Item: Chicken Jalfrazie
+Price: $16.95
+Description: Pieces of tender chicken marinated w/ground spices sautéed w/tomatoes, onions & green bell peppers.
+----------------------------
+Item: Chicken Korma
+Price: $16.95
+Description: Pieces of tender chicken cooked delicately in a creamy sauce with cashew nuts.
+----------------------------
+Item: Chicken Tikka Masala
+Price: $16.95
+Description: Boneless pieces of chicken cooked in onions and green bell peppers with tomato sauce.
+----------------------------
+Item: Karhai Chicken
+Price: $16.95
+Description: Tender boneless chicken cooked w/onions, green bell peppers, tomatoes & tomato sauce w/exotic spices.
+----------------------------
+Item: Bombay Fish Curry
+Price: $16.95
+Description: Pieces of fish cooked traditional with exotic spices and tomatoes.
+----------------------------
+Item: Fish Masala
+Price: $16.95
+Description: Pieces of fish cooked w/fresh onions, green bell peppers & tomato sauce.
+----------------------------
+Item: Fish Vindaloo
+Price: $16.95
+Description: Fish pieces cooked with potatoes in a tangy sauce with vinegar and spices, a specialty of Goa.
+----------------------------
+Item: Prawn Curry
+Price: $18.95
+Description: Prawns cooked in onions, tomatoes, ginger, garlic and exotic spices.
+----------------------------
+Item: Prawn Vindaloo
+Price: $18.95
+Description: Prawns cooked with potatoes in a tangy sauce with vinegar and spices.
+----------------------------
+Item: Butter Prawns
+Price: $18.95
+Description: Prawns simmered in tomato sauce, finished with cream.
+----------------------------
+Item: Prawn Dopiaza
+Price: $18.95
+Description: Prawns cooked in equal quantities w/onions, finished w/cream & spices.
+----------------------------
+Item: Prawn Korma
+Price: $18.95
+Description: Prawns cooked in onions with cream sauce and cashew nuts.
+----------------------------
+Item: Prawn Masala
+Price: $18.95
+Description: Prawns cooked in fresh onions, green peppers in mildly spiced gravy.
+----------------------------
+Item: Bhuna Gosht
+Price: $17.95
+Description: Boneless pieces of lamb cubes cooked in tomatoes, ginger, garlic, vinegar, and large pieces of onions and green bell peppers.
+----------------------------
+Item: Chili Kebab
+Price: $17.95
+Description: Lamb Kebab pieces sautéed with green peppers, onions and tomatoes and spices, cooked in a sauce.
+----------------------------
+Item: Goat Curry
+Price: $17.95
+Description: Goat on the bone simmered in a ginger and garlic sauce.
+----------------------------
+Item: Keema Curry
+Price: $17.95
+Description: Minced lamb cooked in onions, garlic, ginger and mild spices.
+----------------------------
+Item: Lamb Curry
+Price: $17.95
+Description: Pieces of lamb cubes cooked in onions, ginger, garlic sauce with exotic spices.
+----------------------------
+Item: Lamb Dopiaza
+Price: $17.95
+Description: Tender lamb cooked in equal quantities of onions and finished with cream and exotic spices.
+----------------------------
+Item: Lamb Palak
+Price: $17.95
+Description: Boneless lamb cubes cooked with chopped spinach, mildly spiced.
+----------------------------
+Item: Lamb Korma
+Price: $17.95
+Description: Boneless pieces of lamb cubes cooked in a creamy sauce with cashew nuts and mildly spiced.
+----------------------------
+Item: Lamb Tikka Masala
+Price: $17.95
+Description: Tandoori Lamb Tikka cooked lightly in onion sauce, with ginger and tomatoes, tossed with fresh coriander leaves.
+----------------------------
+Item: Lamb Vindaloo
+Price: $17.95
+Description: Boneless pieces of lamb cubes cooked in garlic, ginger, coconut, vinegar and cream, mixed with potatoes and a dash of Indian spices, a specialty of Goa.
+----------------------------
+Item: Rogan Josh
+Price: $17.95
+Description: A spicy hot north Indian dish of lamb, cooked in yogurt, cream and rich masalas.
+----------------------------
+Item: Aloo Gobhi
+Price: $13.95
+Description: Cauliflower and potatoes cooked in fresh onions, tomatoes and spices.
+----------------------------
+Item: Dal Turka
+Price: $13.95
+Description: Indian lentils sautéed in onions, garlic, tomatoes and spices.
+----------------------------
+Item: Channa Masala
+Price: $13.95
+Description: Chickpeas cooked in tomatoes, onions, ginger and garlic, tossed with fresh coriander leaves.
+----------------------------
+Item: Matter Paneer
+Price: $15.50
+Description: Green peas cooked in onion sauce, tomatoes, mixed with fresh home-made cheese & dash of spices.
+----------------------------
+Item: Vegetable Jalfrazie
+Price: $15.50
+Description: Fresh vegetables sautéed with mild spices, cooked in tomatoes, onions and vinegar and dressed with coriander leaves.
+----------------------------
+Item: Bhindi Bhaji
+Price: $15.50
+Description: Fresh okra cooked with onions, tomatoes and exotic spices.
+----------------------------
+Item: Eggplant Bhartha
+Price: $15.95
+Description: Whole eggplants baked over charcoal, mashed, seasoned with herbs, onions, and tomatoes.
+----------------------------
+Item: Malai Kofta
+Price: $15.95
+Description: Mixed vegetables and grated cheese balls cooked lightly in a butter sauce and onion gravy with cashew nuts.
+----------------------------
+Item: Palak Paneer
+Price: $15.95
+Description: Fresh spinach cooked lightly in onions, ginger and garlic, mixed with home-made cheese.
+----------------------------
+Item: Shahee Paneer
+Price: $15.95
+Description: Fresh homemade cheese cooked lightly in a rich cream sauce.
+----------------------------
+Item: Chili Paneer
+Price: $15.95
+Description: Fried paneer cooked in green peppers, onions, tomatoes, ginger and spices.
+----------------------------
+Item: Paneer Makhani
+Price: $15.95
+Description: Tender pieces of home-made cheese simmered in butter with tomato sauce, finished with cream.
+----------------------------
+Item: Vegetable Korma
+Price: $15.95
+Description: Mixed vegetables, cooked in onions, cream sauce and cashew nuts.
+----------------------------
+Item: Gulab Jamun
+Price: $3.95
+Description: An Indian doughnut in warm sugar water.
+----------------------------
+Item: Mango Ice Cream
+Price: $4.25
+Description: Home-made Ice cream with pistachios and nuts.
+----------------------------
+Item: Ras Malai
+Price: $5.95
+Description: A popular Indian dessert of a home-made cheese patty, served cold with pistachios.
+----------------------------
+Item: Raita
+Price: $4.25
+Description: Homemade yogurt whipped with bits of lockey and herbs.
+----------------------------
+Item: Butter Sauce
+Price: $7.95
+Description: Creamy signature butter sauce.
+----------------------------
+Item: Dragonfruit Lassi
+Price: $5.50
+Description: Smooth, creamy and sweet dragonfruit flavoured yogurt smoothie.
+----------------------------
+Item: Strawberry Lassi
+Price: $5.50
+Description: Smooth, creamy and sweet strawberry flavoured yogurt smoothie.
+----------------------------
+Item: Mango Lassi
+Price: $4.95
+Description: Smooth, creamy and sweet yogurt based mango flavored drink
+----------------------------
+Item: Sweet Lassi
+Price: $4.95
+Description: Smooth, creamy yogurt blended with sweetener
+----------------------------
+Item: Salty Lassi
+Price: $4.95
+Description: Smooth creamy yogurt blended with aromatic cumin seeds and salt.
+----------------------------
+Item: Chai
+Price: $3.95
+Description: Seasoned tea with a house blend of spices and milk
+----------------------------
+Item: Lemon Soda Water
+Price: $4.25
+Description: Refreshing twist on a traditional lemonade
+----------------------------
+Item: Shake
+Price: $5.25
+Description: Your favourite flavour of a creamy sweet milkshake
+----------------------------
+Item: Samosa
+Price: $5.50
+Description: Two crisp patties stuffed with either of potatoes or mix veg or chicken or beef
+----------------------------
+Item: Indian Fries
+Price: $7.95
+Description: Batter fried potato fingers.
+----------------------------
+Item: Mogo Fries (Cassava)
+Price: $10.95
+Description: Fried tropical potatoe fingers
+----------------------------
+Item: Vegetable Pakora
+Price: $11.95
+Description: Deep-fried mixed vegetable fritters.
+----------------------------
+Item: Gobhi Pakora
+Price: $12.95
+Description: Cauliflower pieces mixed in spices and batter fried
+----------------------------
+Item: Paneer Pakora
+Price: $13.95
+Description: Fresh homemade cheese, mixed in spices and batter fried.
+----------------------------
+Item: Chicken Pakora
+Price: $13.95
+Description: Boneless chicken marinated in ginger, garlic and batter fried.
+----------------------------
+Item: Fish Pakora
+Price: $13.95
+Description: Fish marinated in ginger, garlic and batter fried.
+----------------------------
+Item: Shrimp Pakora
+Price: $14.95
+Description: Shrimp marinated in ginger, garlic and batter fried.
+----------------------------
+Item: Bhatura
+Price: $2.25
+Description: Fried leavened bread
+----------------------------
+Item: Butter Nan
+Price: $2.25
+Description: Leavened bread with spread of butter on top.
+----------------------------
+Item: Garlic Nan
+Price: $2.95
+Description: Garlic leavened bread.
+----------------------------
+Item: Lacha Paratha
+Price: $3.25
+Description: Unleavened butter bread.
+----------------------------
+Item: Aloo Paratha
+Price: $4.95
+Description: Unleavened bread stuffed with mashed potatoes.
+----------------------------
+Item: Onion Kulcha
+Price: $5.25
+Description: Leavened bread stuffed with chopped onions, dry mango powder and fresh coriander leaves.
+----------------------------
+Item: Chicken Special Nan
+Price: $5.25
+Description: Nan stuffed with chopped chicken.
+----------------------------
+Item: Keema Nan
+Price: $5.25
+Description: Leavened bread stuffed with ground lamb.
+----------------------------
+Item: Spinach Nan
+Price: $5.25
+Description: Leavened bread stuffed with grated homemade cheese, and spinach.
+----------------------------
+Item: Pashwari Nan (Sweet Nan)
+Price: $4.95
+Description: Leavened bread stuffed with grated coconuts, raisins, cashews, almonds and pistachios.
+----------------------------
+Item: Chicken Tandoori
+Price: $23.95
+Description: Chicken marinated in yogurt, ginger, garlic, mixed with spices and served with butter sauce.
+----------------------------
+Item: Lamb Seekh Kebab
+Price: $16.95
+Description: Minced lamb mixed with fresh onions and green peppers, served with chutney.
+----------------------------
+Item: Paneer Tikka
+Price: $16.95
+Description: Marinated fresh homemade cheese. Served with chutney.
+----------------------------
+Item: Chicken Tikka
+Price: $16.95
+Description: Boneless chicken marinated in yogurt and ginger, and served with chutney.
+----------------------------
+Item: Fish Tandoori
+Price: $16.95
+Description: Fish marinated in yogurt, garlic, and served with chutney.
+----------------------------
+Item: Tandoori Prawns
+Price: $20.95
+Description: Jumbo prawns marinated in yogurt, ginger and garlic, grilled over a charcoal clay oven and served with chutney.
+----------------------------
+Item: Mixed Grill
+Price: $22.95
+Description: Tandoori Chicken, Chicken Tikka, Seekh Kebab, Prawns, Lamb Tikka, and Fish Tikka served with mint chutney.
+----------------------------
+Item: Steamed Rice
+Price: $5.25
+Description: Plain basmati rice.
+----------------------------
+Item: Pulao Rice
+Price: $6.25
+Description: Basmati rice cooked in onions, green peas and spices.
+----------------------------
+Item: Vegetable Biryani
+Price: $15.95
+Description: Basmati rice cooked with onions, green bell peppers, and combined with fresh vegetables.
+----------------------------
+Item: Vegetable Paneer Biryani
+Price: $17.95
+Description: Basmati rice cooked with onions, green bell peppers, paneer, fresh vegetable and combined with aromatic spices
+----------------------------
+Item: Biryani (Lamb/Chicken)
+Price: $17.95
+Description: Boneless pcs of lamb or chicken cooked in basmati rice & dash of spices.
+----------------------------
+Item: Prawn Biryani
+Price: $18.95
+Description: Jumbo prawns cooked delicately with Indian basmati rice and spices.
+----------------------------
+Item: Chicken Curry
+Price: $16.95
+Description: Boneless pieces of chicken cooked in onions, tomatoes, ginger, garlic sauce with exotic spices.
+----------------------------
+Item: Chicken Vindaloo
+Price: $16.95
+Description: Pieces of chicken and potatoes cooked in curry, coconut, and vinegar sauce. A specialty of Goa.
+----------------------------
+Item: Chili Chicken
+Price: $16.95
+Description: Pieces of chicken nuggets cooked delicately in exotic spices, tomatoes, vinegar, large pieces of onions and green bell peppers.
+----------------------------
+Item: Palak Chicken
+Price: $16.95
+Description: Tender pieces of chicken cooked with chopped spinach.
+----------------------------
+Item: Tawa Chicken
+Price: $16.95
+Description: Pieces of chicken on a bone, cooked on a hot tawa (griddle), mixed with onions, fresh tomatoes, green peppers and special spices.
+----------------------------
+Item: Butter Chicken
+Price: $16.95
+Description: Boneless chicken nuggets marinated in special sauce, cooked in garlic, ginger, cream & tomato sauce.
+----------------------------
+Item: Chicken Jalfrazie
+Price: $16.95
+Description: Pieces of tender chicken marinated w/ground spices sautéed w/tomatoes, onions & green bell peppers.
+----------------------------
+Item: Chicken Korma
+Price: $16.95
+Description: Pieces of tender chicken cooked delicately in a creamy sauce with cashew nuts.
+----------------------------
+Item: Chicken Tikka Masala
+Price: $16.95
+Description: Boneless pieces of chicken cooked in onions and green bell peppers with tomato sauce.
+----------------------------
+Item: Karhai Chicken
+Price: $16.95
+Description: Tender boneless chicken cooked w/onions, green bell peppers, tomatoes & tomato sauce w/exotic spices.
+----------------------------
+Item: Bombay Fish Curry
+Price: $16.95
+Description: Pieces of fish cooked traditional with exotic spices and tomatoes.
+----------------------------
+Item: Fish Masala
+Price: $16.95
+Description: Pieces of fish cooked w/fresh onions, green bell peppers & tomato sauce.
+----------------------------
+Item: Fish Vindaloo
+Price: $16.95
+Description: Fish pieces cooked with potatoes in a tangy sauce with vinegar and spices, a specialty of Goa.
+----------------------------
+Item: Prawn Curry
+Price: $18.95
+Description: Prawns cooked in onions, tomatoes, ginger, garlic and exotic spices.
+----------------------------
+Item: Prawn Vindaloo
+Price: $18.95
+Description: Prawns cooked with potatoes in a tangy sauce with vinegar and spices.
+----------------------------
+Item: Butter Prawns
+Price: $18.95
+Description: Prawns simmered in tomato sauce, finished with cream.
+----------------------------
+Item: Prawn Dopiaza
+Price: $18.95
+Description: Prawns cooked in equal quantities w/onions, finished w/cream & spices.
+----------------------------
+Item: Prawn Korma
+Price: $18.95
+Description: Prawns cooked in onions with cream sauce and cashew nuts.
+----------------------------
+Item: Prawn Masala
+Price: $18.95
+Description: Prawns cooked in fresh onions, green peppers in mildly spiced gravy.
+----------------------------
+Item: Bhuna Gosht
+Price: $17.95
+Description: Boneless pieces of lamb cubes cooked in tomatoes, ginger, garlic, vinegar, and large pieces of onions and green bell peppers.
+----------------------------
+Item: Chili Kebab
+Price: $17.95
+Description: Lamb Kebab pieces sautéed with green peppers, onions and tomatoes and spices, cooked in a sauce.
+----------------------------
+Item: Goat Curry
+Price: $17.95
+Description: Goat on the bone simmered in a ginger and garlic sauce.
+----------------------------
+Item: Keema Curry
+Price: $17.95
+Description: Minced lamb cooked in onions, garlic, ginger and mild spices.
+----------------------------
+Item: Lamb Curry
+Price: $17.95
+Description: Pieces of lamb cubes cooked in onions, ginger, garlic sauce with exotic spices.
+----------------------------
+Item: Lamb Dopiaza
+Price: $17.95
+Description: Tender lamb cooked in equal quantities of onions and finished with cream and exotic spices.
+----------------------------
+Item: Lamb Palak
+Price: $17.95
+Description: Boneless lamb cubes cooked with chopped spinach, mildly spiced.
+----------------------------
+Item: Lamb Korma
+Price: $17.95
+Description: Boneless pieces of lamb cubes cooked in a creamy sauce with cashew nuts and mildly spiced.
+----------------------------
+Item: Lamb Tikka Masala
+Price: $17.95
+Description: Tandoori Lamb Tikka cooked lightly in onion sauce, with ginger and tomatoes, tossed with fresh coriander leaves.
+----------------------------
+Item: Lamb Vindaloo
+Price: $17.95
+Description: Boneless pieces of lamb cubes cooked in garlic, ginger, coconut, vinegar and cream, mixed with potatoes and a dash of Indian spices, a specialty of Goa.
+----------------------------
+Item: Rogan Josh
+Price: $17.95
+Description: A spicy hot north Indian dish of lamb, cooked in yogurt, cream and rich masalas.
+----------------------------
+Item: Aloo Gobhi
+Price: $13.95
+Description: Cauliflower and potatoes cooked in fresh onions, tomatoes and spices.
+----------------------------
+Item: Dal Turka
+Price: $13.95
+Description: Indian lentils sautéed in onions, garlic, tomatoes and spices.
+----------------------------
+Item: Channa Masala
+Price: $13.95
+Description: Chickpeas cooked in tomatoes, onions, ginger and garlic, tossed with fresh coriander leaves.
+----------------------------
+Item: Matter Paneer
+Price: $15.50
+Description: Green peas cooked in onion sauce, tomatoes, mixed with fresh home-made cheese & dash of spices.
+----------------------------
+Item: Vegetable Jalfrazie
+Price: $15.50
+Description: Fresh vegetables sautéed with mild spices, cooked in tomatoes, onions and vinegar and dressed with coriander leaves.
+----------------------------
+Item: Bhindi Bhaji
+Price: $15.50
+Description: Fresh okra cooked with onions, tomatoes and exotic spices.
+----------------------------
+Item: Eggplant Bhartha
+Price: $15.95
+Description: Whole eggplants baked over charcoal, mashed, seasoned with herbs, onions, and tomatoes.
+----------------------------
+Item: Malai Kofta
+Price: $15.95
+Description: Mixed vegetables and grated cheese balls cooked lightly in a butter sauce and onion gravy with cashew nuts.
+----------------------------
+Item: Palak Paneer
+Price: $15.95
+Description: Fresh spinach cooked lightly in onions, ginger and garlic, mixed with home-made cheese.
+----------------------------
+Item: Shahee Paneer
+Price: $15.95
+Description: Fresh homemade cheese cooked lightly in a rich cream sauce.
+----------------------------
+Item: Chili Paneer
+Price: $15.95
+Description: Fried paneer cooked in green peppers, onions, tomatoes, ginger and spices.
+----------------------------
+Item: Paneer Makhani
+Price: $15.95
+Description: Tender pieces of home-made cheese simmered in butter with tomato sauce, finished with cream.
+----------------------------
+Item: Vegetable Korma
+Price: $15.95
+Description: Mixed vegetables, cooked in onions, cream sauce and cashew nuts.
+----------------------------
+Item: Gulab Jamun
+Price: $3.95
+Description: An Indian doughnut in warm sugar water.
+----------------------------
+Item: Mango Ice Cream
+Price: $4.25
+Description: Home-made Ice cream with pistachios and nuts.
+----------------------------
+Item: Ras Malai
+Price: $5.95
+Description: A popular Indian dessert of a home-made cheese patty, served cold with pistachios.
+----------------------------
+Item: Raita
+Price: $4.25
+Description: Homemade yogurt whipped with bits of lockey and herbs.
+----------------------------
+Item: Butter Sauce
+Price: $7.95
+Description: Creamy signature butter sauce.
+----------------------------
+Item: Dragonfruit Lassi
+Price: $5.50
+Description: Smooth, creamy and sweet dragonfruit flavoured yogurt smoothie.
+----------------------------
+Item: Strawberry Lassi
+Price: $5.50
+Description: Smooth, creamy and sweet strawberry flavoured yogurt smoothie.
+----------------------------
+Item: Mango Lassi
+Price: $4.95
+Description: Smooth, creamy and sweet yogurt based mango flavored drink
+----------------------------
+Item: Sweet Lassi
+Price: $4.95
+Description: Smooth, creamy yogurt blended with sweetener
+----------------------------
+Item: Salty Lassi
+Price: $4.95
+Description: Smooth creamy yogurt blended with aromatic cumin seeds and salt.
+----------------------------
+Item: Chai
+Price: $3.95
+Description: Seasoned tea with a house blend of spices and milk
+----------------------------
+Item: Lemon Soda Water
+Price: $4.25
+Description: Refreshing twist on a traditional lemonade
+----------------------------
+Item: Shake
+Price: $5.25
+Description: Your favourite flavour of a creamy sweet milkshake
+----------------------------
+Item: Samosa
+Price: $5.50
+Description: Two crisp patties stuffed with either of potatoes or mix veg or chicken or beef
+----------------------------
+Item: Indian Fries
+Price: $7.95
+Description: Batter fried potato fingers.
+----------------------------
+Item: Mogo Fries (Cassava)
+Price: $10.95
+Description: Fried tropical potatoe fingers
+----------------------------
+Item: Vegetable Pakora
+Price: $11.95
+Description: Deep-fried mixed vegetable fritters.
+----------------------------
+Item: Gobhi Pakora
+Price: $12.95
+Description: Cauliflower pieces mixed in spices and batter fried
+----------------------------
+Item: Paneer Pakora
+Price: $13.95
+Description: Fresh homemade cheese, mixed in spices and batter fried.
+----------------------------
+Item: Chicken Pakora
+Price: $13.95
+Description: Boneless chicken marinated in ginger, garlic and batter fried.
+----------------------------
+Item: Fish Pakora
+Price: $13.95
+Description: Fish marinated in ginger, garlic and batter fried.
+----------------------------
+Item: Shrimp Pakora
+Price: $14.95
+Description: Shrimp marinated in ginger, garlic and batter fried.
+----------------------------
+Item: Bhatura
+Price: $2.25
+Description: Fried leavened bread
+----------------------------
+Item: Butter Nan
+Price: $2.25
+Description: Leavened bread with spread of butter on top.
+----------------------------
+Item: Garlic Nan
+Price: $2.95
+Description: Garlic leavened bread.
+----------------------------
+Item: Lacha Paratha
+Price: $3.25
+Description: Unleavened butter bread.
+----------------------------
+Item: Aloo Paratha
+Price: $4.95
+Description: Unleavened bread stuffed with mashed potatoes.
+----------------------------
+Item: Onion Kulcha
+Price: $5.25
+Description: Leavened bread stuffed with chopped onions, dry mango powder and fresh coriander leaves.
+----------------------------
+Item: Chicken Special Nan
+Price: $5.25
+Description: Nan stuffed with chopped chicken.
+----------------------------
+Item: Keema Nan
+Price: $5.25
+Description: Leavened bread stuffed with ground lamb.
+----------------------------
+Item: Spinach Nan
+Price: $5.25
+Description: Leavened bread stuffed with grated homemade cheese, and spinach.
+----------------------------
+Item: Pashwari Nan (Sweet Nan)
+Price: $4.95
+Description: Leavened bread stuffed with grated coconuts, raisins, cashews, almonds and pistachios.
+----------------------------
+Item: Chicken Tandoori
+Price: $23.95
+Description: Chicken marinated in yogurt, ginger, garlic, mixed with spices and served with butter sauce.
+----------------------------
+Item: Lamb Seekh Kebab
+Price: $16.95
+Description: Minced lamb mixed with fresh onions and green peppers, served with chutney.
+----------------------------
+Item: Paneer Tikka
+Price: $16.95
+Description: Marinated fresh homemade cheese. Served with chutney.
+----------------------------
+Item: Chicken Tikka
+Price: $16.95
+Description: Boneless chicken marinated in yogurt and ginger, and served with chutney.
+----------------------------
+Item: Fish Tandoori
+Price: $16.95
+Description: Fish marinated in yogurt, garlic, and served with chutney.
+----------------------------
+Item: Tandoori Prawns
+Price: $20.95
+Description: Jumbo prawns marinated in yogurt, ginger and garlic, grilled over a charcoal clay oven and served with chutney.
+----------------------------
+Item: Mixed Grill
+Price: $22.95
+Description: Tandoori Chicken, Chicken Tikka, Seekh Kebab, Prawns, Lamb Tikka, and Fish Tikka served with mint chutney.
+----------------------------
+Item: Steamed Rice
+Price: $5.25
+Description: Plain basmati rice.
+----------------------------
+Item: Pulao Rice
+Price: $6.25
+Description: Basmati rice cooked in onions, green peas and spices.
+----------------------------
+Item: Vegetable Biryani
+Price: $15.95
+Description: Basmati rice cooked with onions, green bell peppers, and combined with fresh vegetables.
+----------------------------
+Item: Vegetable Paneer Biryani
+Price: $17.95
+Description: Basmati rice cooked with onions, green bell peppers, paneer, fresh vegetable and combined with aromatic spices
+----------------------------
+Item: Biryani (Lamb/Chicken)
+Price: $17.95
+Description: Boneless pcs of lamb or chicken cooked in basmati rice & dash of spices.
+----------------------------
+Item: Prawn Biryani
+Price: $18.95
+Description: Jumbo prawns cooked delicately with Indian basmati rice and spices.
+----------------------------
+Item: Chicken Curry
+Price: $16.95
+Description: Boneless pieces of chicken cooked in onions, tomatoes, ginger, garlic sauce with exotic spices.
+----------------------------
+Item: Chicken Vindaloo
+Price: $16.95
+Description: Pieces of chicken and potatoes cooked in curry, coconut, and vinegar sauce. A specialty of Goa.
+----------------------------
+Item: Chili Chicken
+Price: $16.95
+Description: Pieces of chicken nuggets cooked delicately in exotic spices, tomatoes, vinegar, large pieces of onions and green bell peppers.
+----------------------------
+Item: Palak Chicken
+Price: $16.95
+Description: Tender pieces of chicken cooked with chopped spinach.
+----------------------------
+Item: Tawa Chicken
+Price: $16.95
+Description: Pieces of chicken on a bone, cooked on a hot tawa (griddle), mixed with onions, fresh tomatoes, green peppers and special spices.
+----------------------------
+Item: Butter Chicken
+Price: $16.95
+Description: Boneless chicken nuggets marinated in special sauce, cooked in garlic, ginger, cream & tomato sauce.
+----------------------------
+Item: Chicken Jalfrazie
+Price: $16.95
+Description: Pieces of tender chicken marinated w/ground spices sautéed w/tomatoes, onions & green bell peppers.
+----------------------------
+Item: Chicken Korma
+Price: $16.95
+Description: Pieces of tender chicken cooked delicately in a creamy sauce with cashew nuts.
+----------------------------
+Item: Chicken Tikka Masala
+Price: $16.95
+Description: Boneless pieces of chicken cooked in onions and green bell peppers with tomato sauce.
+----------------------------
+Item: Karhai Chicken
+Price: $16.95
+Description: Tender boneless chicken cooked w/onions, green bell peppers, tomatoes & tomato sauce w/exotic spices.
+----------------------------
+Item: Bombay Fish Curry
+Price: $16.95
+Description: Pieces of fish cooked traditional with exotic spices and tomatoes.
+----------------------------
+Item: Fish Masala
+Price: $16.95
+Description: Pieces of fish cooked w/fresh onions, green bell peppers & tomato sauce.
+----------------------------
+Item: Fish Vindaloo
+Price: $16.95
+Description: Fish pieces cooked with potatoes in a tangy sauce with vinegar and spices, a specialty of Goa.
+----------------------------
+Item: Prawn Curry
+Price: $18.95
+Description: Prawns cooked in onions, tomatoes, ginger, garlic and exotic spices.
+----------------------------
+Item: Prawn Vindaloo
+Price: $18.95
+Description: Prawns cooked with potatoes in a tangy sauce with vinegar and spices.
+----------------------------
+Item: Butter Prawns
+Price: $18.95
+Description: Prawns simmered in tomato sauce, finished with cream.
+----------------------------
+Item: Prawn Dopiaza
+Price: $18.95
+Description: Prawns cooked in equal quantities w/onions, finished w/cream & spices.
+----------------------------
+Item: Prawn Korma
+Price: $18.95
+Description: Prawns cooked in onions with cream sauce and cashew nuts.
+----------------------------
+Item: Prawn Masala
+Price: $18.95
+Description: Prawns cooked in fresh onions, green peppers in mildly spiced gravy.
+----------------------------
+Item: Bhuna Gosht
+Price: $17.95
+Description: Boneless pieces of lamb cubes cooked in tomatoes, ginger, garlic, vinegar, and large pieces of onions and green bell peppers.
+----------------------------
+Item: Chili Kebab
+Price: $17.95
+Description: Lamb Kebab pieces sautéed with green peppers, onions and tomatoes and spices, cooked in a sauce.
+----------------------------
+Item: Goat Curry
+Price: $17.95
+Description: Goat on the bone simmered in a ginger and garlic sauce.
+----------------------------
+Item: Keema Curry
+Price: $17.95
+Description: Minced lamb cooked in onions, garlic, ginger and mild spices.
+----------------------------
+Item: Lamb Curry
+Price: $17.95
+Description: Pieces of lamb cubes cooked in onions, ginger, garlic sauce with exotic spices.
+----------------------------
+Item: Lamb Dopiaza
+Price: $17.95
+Description: Tender lamb cooked in equal quantities of onions and finished with cream and exotic spices.
+----------------------------
+Item: Lamb Palak
+Price: $17.95
+Description: Boneless lamb cubes cooked with chopped spinach, mildly spiced.
+----------------------------
+Item: Lamb Korma
+Price: $17.95
+Description: Boneless pieces of lamb cubes cooked in a creamy sauce with cashew nuts and mildly spiced.
+----------------------------
+Item: Lamb Tikka Masala
+Price: $17.95
+Description: Tandoori Lamb Tikka cooked lightly in onion sauce, with ginger and tomatoes, tossed with fresh coriander leaves.
+----------------------------
+Item: Lamb Vindaloo
+Price: $17.95
+Description: Boneless pieces of lamb cubes cooked in garlic, ginger, coconut, vinegar and cream, mixed with potatoes and a dash of Indian spices, a specialty of Goa.
+----------------------------
+Item: Rogan Josh
+Price: $17.95
+Description: A spicy hot north Indian dish of lamb, cooked in yogurt, cream and rich masalas.
+----------------------------
+Item: Aloo Gobhi
+Price: $13.95
+Description: Cauliflower and potatoes cooked in fresh onions, tomatoes and spices.
+----------------------------
+Item: Dal Turka
+Price: $13.95
+Description: Indian lentils sautéed in onions, garlic, tomatoes and spices.
+----------------------------
+Item: Channa Masala
+Price: $13.95
+Description: Chickpeas cooked in tomatoes, onions, ginger and garlic, tossed with fresh coriander leaves.
+----------------------------
+Item: Matter Paneer
+Price: $15.50
+Description: Green peas cooked in onion sauce, tomatoes, mixed with fresh home-made cheese & dash of spices.
+----------------------------
+Item: Vegetable Jalfrazie
+Price: $15.50
+Description: Fresh vegetables sautéed with mild spices, cooked in tomatoes, onions and vinegar and dressed with coriander leaves.
+----------------------------
+Item: Bhindi Bhaji
+Price: $15.50
+Description: Fresh okra cooked with onions, tomatoes and exotic spices.
+----------------------------
+Item: Eggplant Bhartha
+Price: $15.95
+Description: Whole eggplants baked over charcoal, mashed, seasoned with herbs, onions, and tomatoes.
+----------------------------
+Item: Malai Kofta
+Price: $15.95
+Description: Mixed vegetables and grated cheese balls cooked lightly in a butter sauce and onion gravy with cashew nuts.
+----------------------------
+Item: Palak Paneer
+Price: $15.95
+Description: Fresh spinach cooked lightly in onions, ginger and garlic, mixed with home-made cheese.
+----------------------------
+Item: Shahee Paneer
+Price: $15.95
+Description: Fresh homemade cheese cooked lightly in a rich cream sauce.
+----------------------------
+Item: Chili Paneer
+Price: $15.95
+Description: Fried paneer cooked in green peppers, onions, tomatoes, ginger and spices.
+----------------------------
+Item: Paneer Makhani
+Price: $15.95
+Description: Tender pieces of home-made cheese simmered in butter with tomato sauce, finished with cream.
+----------------------------
+Item: Vegetable Korma
+Price: $15.95
+Description: Mixed vegetables, cooked in onions, cream sauce and cashew nuts.
+----------------------------
+Item: Gulab Jamun
+Price: $3.95
+Description: An Indian doughnut in warm sugar water.
+----------------------------
+Item: Mango Ice Cream
+Price: $4.25
+Description: Home-made Ice cream with pistachios and nuts.
+----------------------------
+Item: Ras Malai
+Price: $5.95
+Description: A popular Indian dessert of a home-made cheese patty, served cold with pistachios.
+----------------------------
+Item: Raita
+Price: $4.25
+Description: Homemade yogurt whipped with bits of lockey and herbs.
+----------------------------
+Item: Butter Sauce
+Price: $7.95
+Description: Creamy signature butter sauce.
+----------------------------
+Item: Dragonfruit Lassi
+Price: $5.50
+Description: Smooth, creamy and sweet dragonfruit flavoured yogurt smoothie.
+----------------------------
+Item: Strawberry Lassi
+Price: $5.50
+Description: Smooth, creamy and sweet strawberry flavoured yogurt smoothie.
+----------------------------
+Item: Mango Lassi
+Price: $4.95
+Description: Smooth, creamy and sweet yogurt based mango flavored drink
+----------------------------
+Item: Sweet Lassi
+Price: $4.95
+Description: Smooth, creamy yogurt blended with sweetener
+----------------------------
+Item: Salty Lassi
+Price: $4.95
+Description: Smooth creamy yogurt blended with aromatic cumin seeds and salt.
+----------------------------
+Item: Chai
+Price: $3.95
+Description: Seasoned tea with a house blend of spices and milk
+----------------------------
+Item: Lemon Soda Water
+Price: $4.25
+Description: Refreshing twist on a traditional lemonade
+----------------------------
+Item: Shake
+Price: $5.25
+Description: Your favourite flavour of a creamy sweet milkshake
+----------------------------
+Item: Samosa
+Price: $5.50
+Description: Two crisp patties stuffed with either of potatoes or mix veg or chicken or beef
+----------------------------
+Item: Indian Fries
+Price: $7.95
+Description: Batter fried potato fingers.
+----------------------------
+Item: Mogo Fries (Cassava)
+Price: $10.95
+Description: Fried tropical potatoe fingers
+----------------------------
+Item: Vegetable Pakora
+Price: $11.95
+Description: Deep-fried mixed vegetable fritters.
+----------------------------
+Item: Gobhi Pakora
+Price: $12.95
+Description: Cauliflower pieces mixed in spices and batter fried
+----------------------------
+Item: Paneer Pakora
+Price: $13.95
+Description: Fresh homemade cheese, mixed in spices and batter fried.
+----------------------------
+Item: Chicken Pakora
+Price: $13.95
+Description: Boneless chicken marinated in ginger, garlic and batter fried.
+----------------------------
+Item: Fish Pakora
+Price: $13.95
+Description: Fish marinated in ginger, garlic and batter fried.
+----------------------------
+Item: Shrimp Pakora
+Price: $14.95
+Description: Shrimp marinated in ginger, garlic and batter fried.
+----------------------------
+Item: Bhatura
+Price: $2.25
+Description: Fried leavened bread
+----------------------------
+Item: Butter Nan
+Price: $2.25
+Description: Leavened bread with spread of butter on top.
+----------------------------
+Item: Garlic Nan
+Price: $2.95
+Description: Garlic leavened bread.
+----------------------------
+Item: Lacha Paratha
+Price: $3.25
+Description: Unleavened butter bread.
+----------------------------
+Item: Aloo Paratha
+Price: $4.95
+Description: Unleavened bread stuffed with mashed potatoes.
+----------------------------
+Item: Onion Kulcha
+Price: $5.25
+Description: Leavened bread stuffed with chopped onions, dry mango powder and fresh coriander leaves.
+----------------------------
+Item: Chicken Special Nan
+Price: $5.25
+Description: Nan stuffed with chopped chicken.
+----------------------------
+Item: Keema Nan
+Price: $5.25
+Description: Leavened bread stuffed with ground lamb.
+----------------------------
+Item: Spinach Nan
+Price: $5.25
+Description: Leavened bread stuffed with grated homemade cheese, and spinach.
+----------------------------
+Item: Pashwari Nan (Sweet Nan)
+Price: $4.95
+Description: Leavened bread stuffed with grated coconuts, raisins, cashews, almonds and pistachios.
+----------------------------
+Item: Chicken Tandoori
+Price: $23.95
+Description: Chicken marinated in yogurt, ginger, garlic, mixed with spices and served with butter sauce.
+----------------------------
+Item: Lamb Seekh Kebab
+Price: $16.95
+Description: Minced lamb mixed with fresh onions and green peppers, served with chutney.
+----------------------------
+Item: Paneer Tikka
+Price: $16.95
+Description: Marinated fresh homemade cheese. Served with chutney.
+----------------------------
+Item: Chicken Tikka
+Price: $16.95
+Description: Boneless chicken marinated in yogurt and ginger, and served with chutney.
+----------------------------
+Item: Fish Tandoori
+Price: $16.95
+Description: Fish marinated in yogurt, garlic, and served with chutney.
+----------------------------
+Item: Tandoori Prawns
+Price: $20.95
+Description: Jumbo prawns marinated in yogurt, ginger and garlic, grilled over a charcoal clay oven and served with chutney.
+----------------------------
+Item: Mixed Grill
+Price: $22.95
+Description: Tandoori Chicken, Chicken Tikka, Seekh Kebab, Prawns, Lamb Tikka, and Fish Tikka served with mint chutney.
+----------------------------
+Item: Steamed Rice
+Price: $5.25
+Description: Plain basmati rice.
+----------------------------
+Item: Pulao Rice
+Price: $6.25
+Description: Basmati rice cooked in onions, green peas and spices.
+----------------------------
+Item: Vegetable Biryani
+Price: $15.95
+Description: Basmati rice cooked with onions, green bell peppers, and combined with fresh vegetables.
+----------------------------
+Item: Vegetable Paneer Biryani
+Price: $17.95
+Description: Basmati rice cooked with onions, green bell peppers, paneer, fresh vegetable and combined with aromatic spices
+----------------------------
+Item: Biryani (Lamb/Chicken)
+Price: $17.95
+Description: Boneless pcs of lamb or chicken cooked in basmati rice & dash of spices.
+----------------------------
+Item: Prawn Biryani
+Price: $18.95
+Description: Jumbo prawns cooked delicately with Indian basmati rice and spices.
+----------------------------
+Item: Chicken Curry
+Price: $16.95
+Description: Boneless pieces of chicken cooked in onions, tomatoes, ginger, garlic sauce with exotic spices.
+----------------------------
+Item: Chicken Vindaloo
+Price: $16.95
+Description: Pieces of chicken and potatoes cooked in curry, coconut, and vinegar sauce. A specialty of Goa.
+----------------------------
+Item: Chili Chicken
+Price: $16.95
+Description: Pieces of chicken nuggets cooked delicately in exotic spices, tomatoes, vinegar, large pieces of onions and green bell peppers.
+----------------------------
+Item: Palak Chicken
+Price: $16.95
+Description: Tender pieces of chicken cooked with chopped spinach.
+----------------------------
+Item: Tawa Chicken
+Price: $16.95
+Description: Pieces of chicken on a bone, cooked on a hot tawa (griddle), mixed with onions, fresh tomatoes, green peppers and special spices.
+----------------------------
+Item: Butter Chicken
+Price: $16.95
+Description: Boneless chicken nuggets marinated in special sauce, cooked in garlic, ginger, cream & tomato sauce.
+----------------------------
+Item: Chicken Jalfrazie
+Price: $16.95
+Description: Pieces of tender chicken marinated w/ground spices sautéed w/tomatoes, onions & green bell peppers.
+----------------------------
+Item: Chicken Korma
+Price: $16.95
+Description: Pieces of tender chicken cooked delicately in a creamy sauce with cashew nuts.
+----------------------------
+Item: Chicken Tikka Masala
+Price: $16.95
+Description: Boneless pieces of chicken cooked in onions and green bell peppers with tomato sauce.
+----------------------------
+Item: Karhai Chicken
+Price: $16.95
+Description: Tender boneless chicken cooked w/onions, green bell peppers, tomatoes & tomato sauce w/exotic spices.
+----------------------------
+Item: Bombay Fish Curry
+Price: $16.95
+Description: Pieces of fish cooked traditional with exotic spices and tomatoes.
+----------------------------
+Item: Fish Masala
+Price: $16.95
+Description: Pieces of fish cooked w/fresh onions, green bell peppers & tomato sauce.
+----------------------------
+Item: Fish Vindaloo
+Price: $16.95
+Description: Fish pieces cooked with potatoes in a tangy sauce with vinegar and spices, a specialty of Goa.
+----------------------------
+Item: Prawn Curry
+Price: $18.95
+Description: Prawns cooked in onions, tomatoes, ginger, garlic and exotic spices.
+----------------------------
+Item: Prawn Vindaloo
+Price: $18.95
+Description: Prawns cooked with potatoes in a tangy sauce with vinegar and spices.
+----------------------------
+Item: Butter Prawns
+Price: $18.95
+Description: Prawns simmered in tomato sauce, finished with cream.
+----------------------------
+Item: Prawn Dopiaza
+Price: $18.95
+Description: Prawns cooked in equal quantities w/onions, finished w/cream & spices.
+----------------------------
+Item: Prawn Korma
+Price: $18.95
+Description: Prawns cooked in onions with cream sauce and cashew nuts.
+----------------------------
+Item: Prawn Masala
+Price: $18.95
+Description: Prawns cooked in fresh onions, green peppers in mildly spiced gravy.
+----------------------------
+Item: Bhuna Gosht
+Price: $17.95
+Description: Boneless pieces of lamb cubes cooked in tomatoes, ginger, garlic, vinegar, and large pieces of onions and green bell peppers.
+----------------------------
+Item: Chili Kebab
+Price: $17.95
+Description: Lamb Kebab pieces sautéed with green peppers, onions and tomatoes and spices, cooked in a sauce.
+----------------------------
+Item: Goat Curry
+Price: $17.95
+Description: Goat on the bone simmered in a ginger and garlic sauce.
+----------------------------
+Item: Keema Curry
+Price: $17.95
+Description: Minced lamb cooked in onions, garlic, ginger and mild spices.
+----------------------------
+Item: Lamb Curry
+Price: $17.95
+Description: Pieces of lamb cubes cooked in onions, ginger, garlic sauce with exotic spices.
+----------------------------
+Item: Lamb Dopiaza
+Price: $17.95
+Description: Tender lamb cooked in equal quantities of onions and finished with cream and exotic spices.
+----------------------------
+Item: Lamb Palak
+Price: $17.95
+Description: Boneless lamb cubes cooked with chopped spinach, mildly spiced.
+----------------------------
+Item: Lamb Korma
+Price: $17.95
+Description: Boneless pieces of lamb cubes cooked in a creamy sauce with cashew nuts and mildly spiced.
+----------------------------
+Item: Lamb Tikka Masala
+Price: $17.95
+Description: Tandoori Lamb Tikka cooked lightly in onion sauce, with ginger and tomatoes, tossed with fresh coriander leaves.
+----------------------------
+Item: Lamb Vindaloo
+Price: $17.95
+Description: Boneless pieces of lamb cubes cooked in garlic, ginger, coconut, vinegar and cream, mixed with potatoes and a dash of Indian spices, a specialty of Goa.
+----------------------------
+Item: Rogan Josh
+Price: $17.95
+Description: A spicy hot north Indian dish of lamb, cooked in yogurt, cream and rich masalas.
+----------------------------
+Item: Aloo Gobhi
+Price: $13.95
+Description: Cauliflower and potatoes cooked in fresh onions, tomatoes and spices.
+----------------------------
+Item: Dal Turka
+Price: $13.95
+Description: Indian lentils sautéed in onions, garlic, tomatoes and spices.
+----------------------------
+Item: Channa Masala
+Price: $13.95
+Description: Chickpeas cooked in tomatoes, onions, ginger and garlic, tossed with fresh coriander leaves.
+----------------------------
+Item: Matter Paneer
+Price: $15.50
+Description: Green peas cooked in onion sauce, tomatoes, mixed with fresh home-made cheese & dash of spices.
+----------------------------
+Item: Vegetable Jalfrazie
+Price: $15.50
+Description: Fresh vegetables sautéed with mild spices, cooked in tomatoes, onions and vinegar and dressed with coriander leaves.
+----------------------------
+Item: Bhindi Bhaji
+Price: $15.50
+Description: Fresh okra cooked with onions, tomatoes and exotic spices.
+----------------------------
+Item: Eggplant Bhartha
+Price: $15.95
+Description: Whole eggplants baked over charcoal, mashed, seasoned with herbs, onions, and tomatoes.
+----------------------------
+Item: Malai Kofta
+Price: $15.95
+Description: Mixed vegetables and grated cheese balls cooked lightly in a butter sauce and onion gravy with cashew nuts.
+----------------------------
+Item: Palak Paneer
+Price: $15.95
+Description: Fresh spinach cooked lightly in onions, ginger and garlic, mixed with home-made cheese.
+----------------------------
+Item: Shahee Paneer
+Price: $15.95
+Description: Fresh homemade cheese cooked lightly in a rich cream sauce.
+----------------------------
+Item: Chili Paneer
+Price: $15.95
+Description: Fried paneer cooked in green peppers, onions, tomatoes, ginger and spices.
+----------------------------
+Item: Paneer Makhani
+Price: $15.95
+Description: Tender pieces of home-made cheese simmered in butter with tomato sauce, finished with cream.
+----------------------------
+Item: Vegetable Korma
+Price: $15.95
+Description: Mixed vegetables, cooked in onions, cream sauce and cashew nuts.
+----------------------------
+Item: Gulab Jamun
+Price: $3.95
+Description: An Indian doughnut in warm sugar water.
+----------------------------
+Item: Mango Ice Cream
+Price: $4.25
+Description: Home-made Ice cream with pistachios and nuts.
+----------------------------
+Item: Ras Malai
+Price: $5.95
+Description: A popular Indian dessert of a home-made cheese patty, served cold with pistachios.
+----------------------------
+Item: Raita
+Price: $4.25
+Description: Homemade yogurt whipped with bits of lockey and herbs.
+----------------------------
+Item: Butter Sauce
+Price: $7.95
+Description: Creamy signature butter sauce.
+----------------------------
+Item: Dragonfruit Lassi
+Price: $5.50
+Description: Smooth, creamy and sweet dragonfruit flavoured yogurt smoothie.
+----------------------------
+Item: Strawberry Lassi
+Price: $5.50
+Description: Smooth, creamy and sweet strawberry flavoured yogurt smoothie.
+----------------------------
+Item: Mango Lassi
+Price: $4.95
+Description: Smooth, creamy and sweet yogurt based mango flavored drink
+----------------------------
+Item: Sweet Lassi
+Price: $4.95
+Description: Smooth, creamy yogurt blended with sweetener
+----------------------------
+Item: Salty Lassi
+Price: $4.95
+Description: Smooth creamy yogurt blended with aromatic cumin seeds and salt.
+----------------------------
+Item: Chai
+Price: $3.95
+Description: Seasoned tea with a house blend of spices and milk
+----------------------------
+Item: Lemon Soda Water
+Price: $4.25
+Description: Refreshing twist on a traditional lemonade
+----------------------------
+Item: Shake
+Price: $5.25
+Description: Your favourite flavour of a creamy sweet milkshake
+----------------------------
